@@ -1,0 +1,3185 @@
+TÀI LIỆU: CHƯƠNG 3: LÝ LUẬN CỦA C.MÁC VỀ GIÁ TRỊ THẶNG DƯ
+==================================================
+
+CHƯƠNG 3: GIÁ TRỊ THẶNG DƯ TRONG NỀN
+KINH TẾ THỊ TRƯỜNG
+TS.GVC. NGUYỄN QUỐC TOÀN
+TRƯỜNG ĐH BÁCH KHOA TP. HCM
+Nội dung Chương 3
+3.1.
+LÝ LUẬN CỦA CÁC MÁC VỀ GIÁ TRỊ THẶNG DƯ
+3.2.
+TÍCH LŨY TƯ BẢN
+3.3.
+CÁC HÌNH THỨC BIỂU HIỆN CỦA GIÁ TRỊ THẶNG DƯ TRONG NỀN KINH TẾ THỊ TRƯỜNG
+1. MÂU THUẪN CÔNG THỨC CHUNG CỦA TB
+H – T – H’  T – H – T’
+T – H (TLSX + SLĐ) – H’ – T’
+Mục đích: 			T’ > T (T’ = T + ∆T)
+Mà:					T là biểu hiện bên ngoài của GT
+Biện pháp:  		Tạo ra sự thay đổi GT
+GT H’ > GT H
+GT H’ = GT H + ∆GT (m)
+Mâu thuẫn:		Mua bán ngang giá  không làm GT thay đổi
+Mua bán không ngang giá  chỉ thay đổi GT ở mỗi chủ thể
+Vậy: 					GT H tạo ra GT H’ lớn hơn bản thân nó
+2. SLĐ – CHÌA KHÓA CHO MÂU THUẪN CT CHUNG CỦA TƯ BẢN
+GT H = GT TLSX + GT SLĐ  GT H’ = GT cũ + GT mới
+LĐ cụ thể
+Bảo tồn & di chuyển
+LĐ trừu tượng
+Tạo ra
+Muốn: GT H’ > GT H thì [GT cũ + GT mới] > [GT TLSX + GTSLĐ]
+Mà: GT TLSX hoàn nguyên vào GT cũ nhờ LĐCT
+Vậy chỉ có thể: GTSLĐ  GT mới lớn hơn chính nó nhờ LĐTT
+ Hàng hóa đặc biệt là hàng hóa SỨC LAO ĐỘNG
+Theo lý luận giá trị - lao động:
+3. HÀNG HÓA SỨC LAO ĐỘNG
+Khái niệm H2 SLĐ
+Sức lao động là tổng hợp sức thân thể và sức tinh thần tiềm tàng trong một con người, sức lực mà con người phải vận dụng để sản xuất ra của cải vật chất.
+Trong mọi thời đại kinh tế, sức lao động luôn là một trong 3 yếu tố cần thiết cho quá trình lao động sản xuất ra của cải vật chất.
+Hai điều kiện để SLĐ  H2
+Người lao động tự do về thân thể
+Người lao động không còn TLSX
+4. HAI THUỘC TÍNH CỦA HÀNG HÓA SỨC LAO ĐỘNG
+GIÁ TRỊ CỦA HH SLĐ
+Thước đo: Thời gian LĐ xã hội cần thiết sản xuất ra SLĐ
+Đặc thù: Vì gắn liền với con người nên không thể đo trực tiếp mà phải đo gián tiếp thông qua giá trị của những HH là tư liệu sinh hoạt cần thiết nuôi sống công nhân và gia đình anh ta.
+Cơ cấu:
+ Giá trị TLSH cần thiết nuôi sống công nhân.
+ Giá trị TLSH cần thiết nuôi sống gia đình công nhân.
+ Phí tổn đào tạo tay nghề cho công nhân.
+GIÁ TRỊ SỬ DỤNG CỦA HH SLĐ
+Hình thức biểu hiện: quá trình tiêu dùng SLĐ, tức quá trình lao động của người công nhân;
+Trong lao động, người công nhân sáng tạo ra giá trị mới. Khả năng: giá trị mới sáng tạo sẽ lớn hơn giá trị SLĐ;
+GTTD = GT mới – GT SLĐ ban đầu
+GTSLĐ  GT mới = GT SLĐ ban đầu + GTTD
+ Kết luận: HH SLĐ có GTSD đặc biệt, thể hiện ở chỗ khi sử dụng nó, nó có khả năng sáng tạo ra một lượng giá trị mới lớn hơn giá trị bản thân nó, đó chính là nguồn gốc tạo ra GTTD
+4. HAI THUỘC TÍNH CỦA HÀNG HÓA SỨC LAO ĐỘNG
+5. SỰ SẢN XUẤT GIÁ TRỊ THẶNG DƯ
+Quá trình sản xuất ra giá trị sử dụng:
+Là quá trình sản xuất ra của cải vật chất, trong đó có 	sự kết hợp tư liệu sản xuất và sức lao động
+Đặc điểm của quá trình sản xuất ra GTSD:
++ TLSX và SLĐ tập trung trong tay nhà TB.
++ NTB kiểm soát công nhân làm việc.
++ Sản phẩm làm ra thuộc về của nhà TB
+Ví dụ sự sản xuất giá trị thặng dư
+Một nhà TB kinh doanh trong lĩnh vực kéo sợi tổ chức quá trình LĐ để công nhân chế biến 10 kg bông thành 10kg sợi.
+Giả sử:
+- Giá trị của 10 kg bông biểu hiện thành tiền = 10$
+- Hao mòn máy để chế biến 10 kg bông thành sợi = 2 $
+- Thời gian dệt 10 kg bông thành 10kg sợi = 6 giờ
+- 1 giờ LĐ người CN tạo ra giá trị mới là 0,5 $
+- Giá trị SLĐ trong 1 ngày = 3 $
+Trường hợp 1: Ngày LĐ 6 giờ
+Sẽ có 10 kg Sợi được tạo ra
+Giá trị 10 kg sợi = 10$ (gt của bông) + 2$ khấu hao máy + 3$ (gt mới) = 15$
+Các khoản phải trang trải: 		- T mua bông: 		10$
+- Lập quỹ khấu hao: 	2$
+- Lương công nhân: 	3$
+Tổng cộng:   15$
+Ví dụ sự sản xuất giá trị thặng dư
+Cách 1: Tăng năng suất lao động lên 2 lần
+Trong 6h  20kg Sợi = 30 usd
+Gía trị 20 kg Sợi = giá trị cũ + giá trị mới
+Giá trị cũ = giá trị 20 kg bông + hao mòn giá trị máy 4usd = 24 usd
+Giá trị mới = 6 usd
+Các khoản phải trang trải: 	- Tiền mua bông: 		20$
+- Khấu hao máy móc: 	4$
+- Lương công nhân: 	3$
+Tổng cộng:   	27$
+Giá trị thặng dư (thu nhập của nhà tư bản) = 30$ - 27$ = 3$
+Ví dụ sự sản xuất giá trị thặng dư
+Cách 2: Tăng cường độ lao động lên 2 lần  1 ngày = 12h
+Trong 12h  20kg Sợi = 30 usd
+Gía trị 20 kg Sợi = giá trị cũ + giá trị mới
+Giá trị cũ = giá trị 20 kg bông + hao mòn giá trị máy 4usd = 24 usd
+Giá trị mới = 6 usd
+Các khoản phải trang trải: 	- Tiền mua bông: 		20$
+- Khấu hao máy móc: 	4$
+- Lương công nhân: 	3$
+Tổng cộng:   	27$
+Giá trị thặng dư (thu nhập của nhà tư bản) = 30$ - 27$ = 3$
+Chi phí sản xuất
+Giá trị sản phẩm
+(20 kg sợi)
+-Tiền mua bông
+20 USD
+-Tiền hao mòn máy
+4 USD
+-Tiền mua SLĐ
+3 USD
+Cộng
+27 USD
+-Gt của bông chuyển
+vào sợi
+20 USD
+-Gt của máy chuyển
+vào sợi
+4 USD
+(nhờ lđ cụ thể)
+-Gt mới do lđ trừu
+tượng tạo ra
+6 USD
+Cộng
+30 USD
+GÍA TRỊ THẶNG DƯ
+GT mới > GT sức lao động ban đầu
+GT mới (6) = GT SLĐ (3) + GTTD (3)
+ Khái niệm giá trị thặng dư
+giá trị thặng dư là một bộ phận của giá trị mới dôi ra ngoài giá trị sức lao động do người lao động làm thuê tạo ra và bị nhà tư bản chiếm không
+12h  6 usd giá trị mới
+6h đầu
+Tạo ra 3 usd đầu = GTSLĐ;
+là phần ngày lao động mà người công nhân tạo ra 1 phần giá trị mới ngang bằng với gía trị SLĐ ban đầu
+Thời gian lao động tất yếu (t)
+6h sau
+Tạo ra 3 usd đầu = GTTD;
+là phần ngày lao động còn lại mà người công nhân tạo ra giá trị thặng dư và bị nhà tư bản chiếm không
+Thời gian lao động thặng dư (t’)
+ĐỘ DÀI NGÀY LAO ĐỘNG
+Lượng giá trị HH
+Lượng GT cũ
+- GT của TLSX;
+- Là kết quả của LĐ quá khứ;
+- Được LĐCT của công nhân bảo toàn và di chuyển vào sản phẩm – HH mới
+Lượng GT mới
+- Gồm:
++ GT ngang với giá trị SLĐ;
++ GT thặng dư
+- Là kết quả của LĐ sống;
+- Do LĐTT của CN tạo ra
+CẤU THÀNH LƯỢNG GIÁ TRỊ HÀNG HÓA
+Bản chất Tư bản
+Tư bản là giá trị mang lại giá trị thặng dư bằng cách bóc lột lao động không công của công nhân làm thuê. Bản chất của tư bản là thể hiện quan hệ sản xuất xã hội mà trong đó giai cấp tư sản chiếm đoạt giá trị thặng dư do giai cấp công nhân sáng tạo ra
+Tư bản bất biến và khả biến
+TƯ BẢN BẤT BIẾN | TƯ BẢN KHẢ BIẾN
+Giá trị không thay đổi về lượng trong quá trình sản xuất
+ TBBB (c) | v --------------------- v + m 
+ TBKB (v)
+Căn cứ phân chia: tính hai mặt của LĐSXHH. Trong đó LĐ cụ thể bảo toàn và di chuyển giá trị của TLSX sang giá trị sản phẩm. LĐ trừu tượng tạo ra giá trị mới lớn hơn 
+                                G = c + (v + m)
+Ý nghĩa phân chia: TBBB là điều kiện cần thiết không thể thiếu được để sản xuất giá trị thặng dư. TBKB có vai trò quyết định trong quá trình sản xuất giá trị thặng dư.
+Trao đổi với H2 SLĐ
+Qúa trình LĐ của CN
+GT TLSX
+GT SLD
+Tỷ suất và Khối lượng GTTD
+Hai phương pháp sx GTTD
+PP SX giá trị thặng dư tuyệt đối
+Tglđ tất yếu
+Tglđ thặng dư
+t = 4h
+t’ = 4h
+8h
+10h
+m’= 100%
+m’ = 150%
+t = 4h
+t’ = 6h
+Hai phương pháp sx GTTD
+PP SX giá trị thặng dư tương đối
+Tglđ thặng dư
+8h
+2h
+m’= 100%
+m’ = 300%
+8h
+t = 4h
+t’ = 4h
+t = 2h
+t’ = 6h
+Hai phương pháp sx GTTD
+PP SX giá trị thặng dư tương đối
+K.đổi (8h)
+TGLĐTY (t)                	TGLĐTD (t’)
+ Phải giảm t để kéo dài tương ứng t’
+Giảm giá trị SLĐ
+Giảm giá trị TLSH
+Tăng NSLĐ trong
+các ngành SX TLSH
+Tăng NSLĐ trong các ngành liên quan
+Tăng NSLĐ XH
+Giá trị thặng dư siêu ngạch
+Giá trị thặng dư siêu ngạch là giá trị thặng dư phụ thêm ngoài giá trị thặng dư trung bình mà mỗi nhà tư bản cá biệt thu được bằng cách giảm giá trị cá biệt hàng hóa của mình xuống thấp hơn giá trị cá biệt của các nhà tư bản khác trong cùng ngành (giá trị xã hội) trên cơ sở tăng năng suất lao động cá biệt của mình lên cao hơn so với năng suất lao động cá biệt của các nhà tư bản khác cùng ngành (năng suất lao động xã hội).
+Giá trị thặng dư siêu ngạch
+NSX | SỐ LƯỢNG HH | GTCB/HH
+SẢN XUẤT | GTXH/HH
+MUA BÁN | GTTDSN/HH
+I | 100 | 3h – 3k | 5.2h – 5.2k | GTTDTB + 2.2k
+II | 600 | 5h – 5k | GTTDTB + 0.2k
+III | 200 | 6h – 6k | GTTDTB – 0.8k
+IV | 100 | 7h – 7k | GTTDTB – 1.8k
+V | 100 | 5.2h – 5.2k | GTTDTB
+GTTDSN = GTXH - GTCB
+GTCB = GTXH  GTTD trung bình, phổ biến
+Mà: NSLĐ tỷ lệ nghịch với GT
+ Vậy: muốn GTCB < GTXH thì NSLĐCB > NSLĐXH
+Tiền công trong CNTB
+Tiền công là giá trị sức lao động biểu hiện thành tiền gọi lại giá cả sức lao động
+2 hình thức trả tiền công:
++ Tiền công trả theo thời gian
++ Tiền công trả theo sản phẩm
+2 loại tiền công
++ Tiền công danh nghĩa: số tiền nhận được sau khi hoàn thành công việc
++ Tiền công thực tế: là số lượng hang hóa mua đc bằng tiền công danh nghĩa, cùng một mức tiền công danh nghĩa, nếu giá cả hang hóa tang thì tiền công thực tế giảm
+Tuần hoàn & Chu chuyển Tư bản
+TLSX
+T  -  H  						... SX ... H’ -  T’
+SLĐ
+(1)		       		(2)		    			  (3)
+TUẦN HOÀN TƯ BẢN | 3 giai đoạn | (1)
+MUA | (2)
+SẢN XUẤT | (3)
+BÁN
+3 hình thái | TB TIỀN TỆ | TƯ BẢN SẢN XUẤT
+(TLSX+SLĐ)
+TBBB+TBKB | TB HÀNG HÓA
+3 chức năng | Chuẩn bị điều kiện  m | Tạo ra giá trị | Thực hiện giá trị
+CHU CHUYỂN TƯ BẢN | Thời gian | Thời gian mua | Thời gian sản xuất | Thời gian bán
+Tg dự trữ | Tg lao động | Tg gián đoạn lao động
+Tốc độ | 1 năm
+n = CH/ch
+(n tỷ lệ thuận với m)
+Tuần hoàn & Chu chuyển Tư bản
+TB cố định & TB lưu động
+Căn cứ phân chia | Loại tư bản
+Hai mặt của lao động sản xuất | TƯ BẢN BẤT BIẾN (C) | TƯ BẢN KHẢ BIẾN
+C1 | C2 | V
+Phương thức chu chuyển giá trị | TB CỐ ĐỊNH | TB LƯU ĐỘNG
+Tham gia toàn phần vào quá trình sản xuất nhưng chu chuyển dần dần, từng phần theo mức độ hao mòn (hữu hình, vô hình) | Tham gia toàn phần vào quá trình sản xuất và chu chuyển một lần, toàn phần trong mỗi quá trình sản xuất
+TB cố định & TB lưu động
+Hao mòn hữu & vô hình
+HAO MÒN HỮU HÌNH
+HAO MÒN VÔ HÌNH
+HAO MÒN CẢ GIÁ TRỊ VÀ GIẢ TRỊ SỬ DỤNG DO QUÁ TRÌNH SỬ DỤNG & TỰ NHIÊN
+HAO MÒN GIÁ TRỊ DO CÔNG NGHỆ HIỆN ĐẠI
+Nội dung Chương 3
+3.1.
+LÝ LUẬN CỦA CÁC MÁC VỀ GIÁ TRỊ THẶNG DƯ
+3.2.
+TÍCH LŨY TƯ BẢN
+3.3.
+CÁC HÌNH THỨC BIỂU HIỆN CỦA GIÁ TRỊ THẶNG DƯ TRONG NỀN KINH TẾ THỊ TRƯỜNG
+Bản chất của tích lũy TB
+Bản chất của tích lũy TB
+Bản chất của tích lũy TB
+Thực chất của tích lũy tư bản là sự chuyển hóa một phần giá trị thặng dư thành tư bản, hay là quá trình tư bản hóa giá trị thặng dư
+Nguồn gốc của tư bản phụ thêm: đó là m, lao động không công của công nhân  dùng chính SLĐ của công nhân để tăng bóc lột công nhân
+Nhân tố tăng quy mô TLTB
+Trình độ bóc lột (m’)
+Các yếu tố giữ nguyên, m’ = 100%
+Năm 1: 80 c + 20 v + 20 m = 120 (m’ = 100%)
+20 m
+Năm 2 : 88 c + 22 v + 22 m = 132
+10 m để tiêu dùng
+10 m để tích lũy
+8c
+2v
+Năng suất lao động
+Theo phương pháp sản xuất m tương đối:
+Tăng NSLĐ  t giảm
+t giảm  t’ tăng tương ứng
+t’ tăng  m’ tăng (1)
+Mà: m’ tăng  Quy mô TLTB tăng (2)
+Từ (1) và (2)  NSLĐ tỷ lệ thuận với quy mô TLTB
+Quy mô của tư bản ứng trước
+Tái SX mở rộng
+Nếu c + v = 100 và c/v = 8/2
+Năm 1: 80 c + 20 v + 20 m = 120 (m’ = 100%)
+Tỷ lệ tích lũy 50%  tích lũy được 10 m
+Nếu c + v = 1000 và c/v = 8/2
+Năm 1 : 800 c + 200 v + 200 m = 1200 (m’ = 100%)
+Tỷ lệ tích lũy 50%  tích lũy được 100 m
+Tư bản sử dụng & Tư bản tiêu dùng
+Thế hệ máy | Giá trị máy
+(tr.USD)
+TBSD | Năng lực sx SP
+(tr. SP) | Khấu hao trong 1 SP 
+(USD)
+TBTD | Chênh lệch TBSD & TBTD 
+(USD) | Khả năng tích lũy tăng so với thế hệ máy 1
+I | 10 | 1 | 10 | 9.999.990
+II | 14 | 2 | 7 | 13.999.993 | 2 triệu SP x (10-7) = 6 triệu USD
+III | 18 | 3 | 6 | 17.999.994 | 3 triệu SP x (10 - 6) = 12 triệu USD
+TBSD: Toàn bộ giá trị máy móc thiết bị - c1
+TBTD: Toàn bộ phần tiêu hao của tư bản sử dụng trg mỗi hang hóa – c1/n (n: số lg hang hóa)
+Hệ quả của tích lũy TB
+Tích tụ và Tập trung Tư bản
+Tích tụ TB: sự tăng quy mô của tư bản cá biệt bằng cách tích lũy TB, là kết quả trực tiếp của tích lũy tư bản.
+→  Tổng tư bản xã hội tăng lên
+Ví dụ:
+TBCB A = 10 tỷ	TBCB B = 10 tỷ  TBXH = 20 tỷ
+Qua 10 năm tích lũy (1 năm = 1 tỷ):
+TBCB A = 20 tỷ	TBCB B = 20 tỷ  TBXH = 40 tỷ
+Tích tụ và Tập trung Tư bản
+Tập trung TB: sự tăng quy mô của tư bản cá biệt bằng cách kết hợp nhiều TB nhỏ lại thành một TB mới lớn hơn trên cơ sở tự nguyện hoặc cưỡng bức
+→  Tổng tư bản xã hội không tăng nhưng thúc đẩy nhanh nền sản xuất lớn ra đời
+Ví dụ:
+TBCB A = 10 tỷ	TBCB B = 10 tỷ  TBXH = 20 tỷ
+Thông qua sáp nhập, mua lại:
+TBCB A = 20 tỷ	TBCB B = 0 tỷ  TBXH = 20 tỷ
+Tích tụ và Tập trung Tư bản
+Mối quan hệ: TLTB tăng  TTTB tăng  TTrTB tăng  TLTB tăng
+Ví dụ:
+TBCB A = 10 tỷ	TBCB B = 10 tỷ  TBXH = 20 tỷ
+1. Qua 10 năm tích lũy (1 năm tích lũy 1 tỷ):
+TBCB A = 20 tỷ	TBCB B = 20 tỷ  TBXH = 40 tỷ
+2. Qua 10 năm tích lũy (1 năm tích lũy 10 tỷ):
+TBCB A = 110 tỷ	TBCB B = 110 tỷ  TBXH = 220 tỷ
+Trường hợp (1) nếu tập trung cho A thì TBCB A = 40 tỷ
+Trường hợp (2) nếu tập trung cho A thì TBCB A = 220 tỷ
+Khi tư bản ứng trước tăng như (2)  quy mô TLTB tăng
+Cấu tạo hữu cơ của Tư bản
+CTHC: Sự thay đổi cấu tạo giá trị do sự thay đổi của cấu tạo kỹ thuật gây ra
+Bất bình đẳng xã hội
+Cạnh tranh
+KHCN
+C/V tăng
+Thất nghiệp
+Tiền công giảm
+BBĐ NLĐ – giới chủ
+m tăng nhờ NSLĐ
+Cầu về LĐ kỹ thuật cao tăng
+Phân cực thị trường LĐ
+Hình thành tầng lớp trung lưu
+BBĐ xã hội và vai trò của tầng lớp trung lưu
+Bài 1: Công ty sản xuất thiết bị cơ khí, trong quá trình SX SP, hao mòn thiết bị máy móc là 100.000USD. Chi phí nguyên liệu, vật liệu và nhiên liệu là 300.000 USD.  Hãy xác định chi phí tư bản khả biến nếu biết rằng giá trị SP là 1.000.000 USD và m’=200%.
+Bài 2: công ty may X có 100 công nhân làm thuê. Trong một tháng công ty sản xuất được 25.000 sp áo len với chi phí tư bản bất biến là 500.000 USD. Giá trị sức lao động một tháng của mỗi công nhân là 750USD, m’=200%. Hãy xác định giá trị của một đơn vị SP và kết cấu của nó
+Bài 3: Ngày làm việc 8h, m’=300%. Sau đó nhà TB kéo dài ngày làm việc đến 10h. Mức độ bóc lột thay đổi thế nào nếu giá trị sức lao động không đổi. Nhà TB sử dụng phương pháp nào để nâng cao giá trị thặng dư?
+Bài 4: Tư bản đầu tư 900.000 USD, trong đó bỏ vào tư liệu sản xuất 780.000USD. Số công nhân thu hút vào sản xuất là 400 người, trình độ bóc lột là 300%. Hỏi  lượng giá trị mới do 1 công nhân tạo ra là bao nhiêu ?
+BÀI TẬP VẬN DỤNG
+Nội dung Chương 3
+3.1.
+LÝ LUẬN CỦA CÁC MÁC VỀ GIÁ TRỊ THẶNG DƯ
+3.2.
+TÍCH LŨY TƯ BẢN
+3.3.
+CÁC HÌNH THỨC BIỂU HIỆN CỦA GIÁ TRỊ THẶNG DƯ TRONG NỀN KINH TẾ THỊ TRƯỜNG
+Chi phí sản xuất TBCN
+GTHH = c + (v + m)
+Đứng trên quan điểm XH:
+Để sx ra h² phải hao phí về LĐ
+Đối với nhà TB:
+Để sx ra h² phải hao phí về TB
+LĐ quá khứ
+LĐ sống
+(c)
+(v+m)
+TBBB (c)
+TBKB (v)
+Chi phí sx TBCN
+k = c + v
+Chi phí sản xuất TBCN
+Phạm trù chi phí sản xuất TBCN đã che dấu thực chất bóc lột của nhà TB đối với công nhân làm thuê: GTHH = c + v + m      GTHH = k + m
+Phân biệt chi phí sản xuất TBCN (k) với TB ứng trước (K)
+k < K
+k
+Tư bản ứng trước và Chi phí sx tư bản
+c1 = 600/10 năm
+c = 800
+TBƯT(K) = 1000		       	      						c2 = 200
+v = 200
+Chi phí SXTBCN (k) =  60 KH c1+ 200 c2 + 200 v = 460
+ Chi phí SXTBCN (k) < Tư bản ứng trước (K)
+Lợi nhuận – biến tướng của m
+Một khi c và v mang tên gọi là k thì:
+m biểu hiện là
+số tiền lời dôi ra ngoài k
+con đẻ của k
+→ m mang hình thái chuyển hoá là lợi nhuận
+ký hiệu: p
+Gt H² = k + p
+p->m
+Lợi nhuận – biến tướng của m
+Lợi nhuận che dấu quan hệ bóc lột TBCN:
+Nó xóa nhoà sự khác nhau giữa c và v, một lần nữa che lấp nguồn gốc tạo ra m. Vì vậy, p là hình thái biến tướng bên ngoài của m
+Dựa vào giá trị và giá cả để phân biệt m và p:
+p > m
+↔
+giá cả > giá trị
+p < m
+↔
+giá cả = giá trị
+k < giá cả < giá trị
+↔
+p = m
+Cho GT = 5c + 3v + 2m = 10
+Nếu GC = GT = 10:
+ p = m = 2
+Nếu GC > GT (GC = 15):
+ m = 2, p = 7  p > m
+Nếu GC < GT (GC = 9):
+ m = 2, p = 1  p < m
+Tóm lại: m = 2  p = 2; p = 7; p = 1
+ Sự thay đổi của giá cả xoay quanh giá trị làm cho p biến thiên xoay quanh giá trị thặng dư
+VÍ DỤ VỀ PHÂN BIỆT p và m
+Tỷ suất lợi nhuận
+Nhân tố ảnh hướng đến tỷ suất lợi nhuận
+Hai loại cạnh tranh
+Cạnh tranh cùng ngành | Cạnh tranh khác ngành
+Mục đích | Thu lợi nhuận siêu ngạch | Dành nơi đầu tư có p’ cao hơn
+Biện pháp | Nâng cao NSLĐ cá biệt | Di chuyển tư bản từ ngành có p’ thấp sang ngành có p’ cao
+Kết quả | Hình thành giá trị thị trường | Hình thành tỷ suất lợi nhuận bình quân và giá cả sản xuất
+Cạnh tranh nội ngành  GTTT
+Một mặt phải coi giá trị thị trường là giá trị trung bình của những hàng hoá được sản xuất ra trong một khu vực sản xuất nào đó.
+Mặt khác lại phải coi giá trị thị trường là giá trị cá biệt của những hàng hoá được sản xuất ra trong những điều kiện trung bình của khu vực đó và chiếm một khối lượng lớn trong tổng số những sản phẩm của khu vực này.
+Trường hợp 1: đại bộ phận hàng hóa được sản xuất ra trong điều kiện trung bình
+Loại xí nghiệp | Số lượng SP
+(1) | Giá trị cá biệt
+(2) | Tổng số giá trị cá biệt
+(3)=(1)*(2) | Giá trị thị trường
+(GTCB trung bình)
+(4) | Tổng số giá trị thị trường
+(5)=(1)*(4)
+Tốt | 15 | 2 | 30 | 3 | 45
+psn=15
+Trung bình | 70 | 3 | 210 | 3 | 210
+Kém | 15 | 4 | 60 | 3 | 45
+Hình thành GIÁ TRỊ THỊ TRƯỜNG
+Trường hợp 2: đại bộ phận hàng hóa được sản xuất ra trong điều kiện kém
+Loại xí nghiệp | Số lượng SP
+(1) | Giá trị cá biệt
+(2) | Tổng số giá trị cá biệt
+(3)=(1)*(2) | Giá trị thị trường
+(4)=GTCB kém | Tổng số giá trị thị trường
+(5)=(1)*(4)
+Tốt | 15 | 2 | 30 | 4 | 60
+Trung bình | 15 | 3 | 45 | 4 | 60
+Kém | 70 | 4 | 280 | 4 | 280
+Hình thành GIÁ TRỊ THỊ TRƯỜNG
+Trường hợp 3: đại bộ phận hàng hóa được sản xuất ra trong điều kiện tốt
+Loại xí nghiệp | Số lượng SP
+(1) | Giá trị cá biệt
+(2) | Tổng số giá trị cá biệt
+(3)=(1)*(2) | Giá trị thị trường
+(4)=GTCB tốt | Tổng số giá trị thị trường
+(5)=(1)*(4)
+Tốt | 70 | 2 | 140 | 2 | 140
+Trung bình | 15 | 3 | 45 | 2 | 30
+Kém | 15 | 4 | 60 | 2 | 30
+Hình thành GIÁ TRỊ THỊ TRƯỜNG
+Hai loại cạnh tranh
+Cạnh tranh cùng ngành | Cạnh tranh khác ngành
+Mục đích | Thu lợi nhuận siêu ngạch | Dành nơi đầu tư có p’ cao hơn
+Biện pháp | Nâng cao NSLĐ cá biệt | Di chuyển tư bản từ ngành có p’ thấp sang ngành có p’ cao
+Kết quả | Hình thành giá trị thị trường | Hình thành tỷ suất lợi nhuận bình quân và giá cả sản xuất
+Cạnh tranh khác ngành  GCSX
+Ngành | C | V | m (p) | Gt | p' | p’ bq | p bq | Gc sx
+Cơ khí | 90 | 10 | 10 | 110 | 10% | 20% | 20 | 120
+Dệt | 80 | 20 | 20 | 120 | 20% | 20% | 20 | 120
+Da | 70 | 30 | 30 | 130 | 30% | 20% | 20 | 120
+Sự chuyển hóa của các quy luật kinh tế
+Trong giai đoạn tự do cạnh tranh của CNTB:
+Quy luật lợi nhuận bình quân: Nguyên tắc phân chia m giữa các tập đoàn tư bản căn cứ vào tỷ suất lợi nhuận bình quân và tương ứng với lượng TB ứng trước, các TB hoạt động sẽ được hưởng thu nhập bằng lợi nhuận bình quân.
+Quy luật giá cả sản xuất: giá cả sản xuất và giá cả thị trường.
+Sự hình thành lợi nhuận bình quân vẫn không chấm dứt được cạnh tranh trong CNTB
+Qúa trình hình thành lợi nhuận bình quân phản ánh mâu thuẫn giữa các nhà tư bản với nhau trong việc tranh giành quyền lợi
+Trong thời kỳ cạnh tranh tự do, các ngành có c/v khác nhau => v’ khác nhau => cạnh tranh khác ngành. CTKN làm cho:
+p’ -> p’ bình quân   =>   p -> p bình quân, theo đó quy luật lợi nhuận chuyển hóa thành quy luật lợi nhuận bình quân
+Lợi nhuận bình quân: chia theo tỷ suất lợi nhuận bình quân chung bằng nhau nhưng phụ thuộc vào k
+Khi p -> p bình quân, giá trị -> giá cả sx   =>  qluat gt -> qluat gcsx.
+QL GCSX:
++ GCSX là giá bán lần đầu tiên của người sx cho nhà phân phối
++ GC thị trường: giá bán cuối cùng của nhà phân phối cho ng tiêu dùng
+SLĐ
+T  -  H                       ... SX ...        H’ -  T’
+TLSX
+TB thương nghiệp đảm nhận
+Công thức vận động:   T   -   H   -   T’
+Tư bản thương nghiệp là một bộ phận của tư bản công nghiệp được tách rời ra và phục vụ cho quá trình lưu thông hàng hoá của tư bản công nghiệp.
+TƯ BẢN THƯƠNG NGHIỆP
+Lợi nhuận thương nghiệp là một bộ phận của giá trị thặng dư được tạo ra trong lĩnh vực SX và do nhà TB công nghiệp nhường lại cho nhà TB thương nghiệp vì nhà TB thương nghiệp tiêu thụ hàng hoá cho mình.
+BẢN CHẤT CỦA P THƯƠNG NGHIỆP
+HÌNH THÀNH P THƯƠNG NGHIỆP
+TBCN: 900 TB
+TBTN tham gia vào: ứng ra 100 TB
+Tổng TB = 900 + 100 = 1000
+720 c
+180 v
+m’ = 100%
+→
+Giá trị H² = 720 c + 180 v + 180 m = 1080
+P’CN =
+X 100%
+900
+180
+=
+20 %
+P’ =
+180
+900 + 100
+X 100%
+=
+18%
+Nhà TBCN thu p = 18% x 900 = 162
+Nhà TBTN thu p = 18% x 100 = 18
+Nhà TBCN bán cho TBTN theo giá:
+720c+180v+162p=1062 (GCSX CN)
+Nhà TBTN bán cho người TD theo giá:
+1062 + 18p = 1080 (GC thị trường)
+HÌNH THÀNH P THƯƠNG NGHIỆP
+TƯ BẢN & LỢI TỨC CHO VAY
+Tư bản cho vay trong CNTB là tư bản tiền tệ tạm thời nhàn rỗi mà người chủ sở hữu nó nhường quyền sử dụng cho người khác trong một thời gian nhằm thu thêm một số lời nhất định gọi là lợi tức (ký hiệu: z)
+Bản chất của Lợi tức
+Về thực chất: lợi tức là một phần của lợi nhuận mà nhà tư bản hoạt động thu được nhờ sử dụng tư bản đi vay, phải trả cho nhà tư bản cho vay
+Trên thực tế: lợi tức là một phần của lợi nhuận bình quân, mà nhà tư bản đi vay phải trả cho nhà tư bản cho vay, căn cứ vào số tư bản mà nhà tư bản cho vay đã đưa cho nhà tư bản đi vay sử dụng.
+LỢI TỨC CHO VAY
+Ngân hàng trong CNTB
+TƯ BẢN VÀ P NGÂN HÀNG
+Cung TBTT
+NGÂN HÀNG
+Cầu TBTT
+z nhận gửi
+z cho vay
+<
+Tư bản ngân hàng | Tư bản cho vay
+Bản chất | Tư bản chức năng, mang tính xã hội | Tư bản tiềm thế, chỉ là tư bản nhàn rỗi của cá nhân
+Hình thành p’bq | Tham gia | Không tham gia
+Lợi nhuận | LNNH=LNQB | Lợi tức = 1 phần của LNBQ
+Cấu thành | Tư bản tự có, tư bản được tích lũy lại, tư bản nhàn rỗi, vàng, bạc, đá quý… | Chỉ là tư bản tiền tệ tạm thời nhàn rỗi
+TƯ BẢN CHO VAY VÀ TƯ BẢN NGÂN HÀNG
+CÔNG TY CỔ PHẦN
+Công ty cổ phần là một loại hình doanh nghiệp dọc hình thành bằng con đường tập trung vốn thông qua việc phát hành cổ phiếu và trái phiếu  TƯ BẢN GIẢ
+ĐỊA TÔ
+Địa chủ
+TB kinh doanh nông nghiệp
+Công nhân nông nghiệp
+Nông dân
+rPK
+m
+rTBCN
+Phát canh thu tô
+BẢN CHẤT CỦA ĐỊA TÔ TƯ BẢN CHỦ NGHĨA
+TB KD N²
+Thuê đất – Địa chủ
+Thuê SLĐ - Công nhân NN
+Trả tiền thuê đất (địa tô)
+m
+giữ lại ít nhất = P
+ĐỊA TÔ TƯ BẢN CHỦ NGHĨA
+Khái niệm địa tô (r) TBCN
+Địa tô TBCN là phần giá trị thặng dư thừa ra ngoài lợi nhuận bình quân mà các nhà tư bản kinh doanh nông nghiệp phải nộp cho địa chủ. Thực chất, địa tô TBCN là lợi nhuận siêu ngạch trong lĩnh vực nông nghiệp
+CÁC LOẠI ĐỊA TÔ
+CÁC LOẠI ĐỊA TÔ TƯ BẢN CHỦ NGHĨA
+1. Địa tô chênh lệch:
+Gắn với chế độ độc quyền kinh doanh theo lối TBCN về ruộng đất.
+Các loại địa tô chênh lệch:
+1.1. Địa tô chênh lệch I
+1.2. Địa tô chênh lệch II
+2. Địa tô tuyệt đối
+Gắn với chế độ độc quyền tư hữu về ruộng đất.
+3. Địa tô độc quyền
+GIÁ CẢ RUỘNG ĐẤT
+ĐỊA TÔ TƯ BẢN CHỦ NGHĨA
+Địa tô
+Giá cả ruộng đất
+Quá trình TDCT đồng thời là quá trình phân chia m
+giữa các tập đoàn nhà TB
+KẾT LUẬN
+Các quan hệ kinh tế chưa bị biến dạng bởi các thế lực ĐQ hay các QĐ hành chính của N²
+Giá cả thị trường là kết quả khách quan của quan hệ cung cầu
+TLSX và SLĐ được tự do di chuyển giữa các ngành, người SXHH có quyền tự chủ, tự do kinh doanh theo pháp luật
+Cạnh tranh là sức sống của cơ chế thị trường
+Đặc điểm của cơ chế cạnh tranh tự do
+trong nền kinh tế thị trường TBCN
+KẾT LUẬN
+SOURCE_END: 3. CHƯƠNG 3.pptx
+====================
+SOURCE_START: 4. CHƯƠNG 4.pptx
+====================
+MARXIST – LENINIST POLITICAL ECONOMICS
+Chương 3
+LÝ LUẬN CỦA C.MÁC VỀ GIÁ TRỊ THẶNG DƯ
+VÀ CÁC HÌNH THỨC BIỂU HIỆN CỦA GIÁ TRỊ THẶNG DƯ
+TRONG NỀN KINH TẾ THỊ TRƯỜNG
+Sự phát triển của nền kinh tế hàng hóa dưới tác động của các quy luật kinh
+tế mà trọng yếu là quy luật giá trị cùng với tích lũy nguyên thủy tư bản đã tạo ra
+những điều kiện hình thành nền kinh tế thị trường với hình thái đầu tiên là nền
+kinh tế thị trường tư bản chủ nghĩa. Trên cơ sở kế thừa những thành tựu cơ bản
+trong nghiên cứu khoa học kinh tế chính trị của các thế hệ đi trước và cùng với
+phát kiến vĩ đại là học thuyết giá trị thặng dư, C.Mác đã hoàn thiện lý luận kinh
+tế chính trị về nền kinh tế thị trường tư bản chủ nghĩa. Những giá trị cốt lõi của
+lý luận giá trị thặng dư không những giúp cho các thế hệ sau hiểu được những
+vấn đề kinh tế chính trị cơ bản của nền kinh tế thị trường, mà còn giúp cho nhận
+thức những quy luật kinh tế cơ bản, vấn đề bất cập nảy sinh trong phát triển nền
+kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, từ đó nhận thức sâu
+sắc hơn về nền tảng tư tưởng của Đảng Cộng sản Việt Nam. Do đó, nhận thức
+về lý luận giá trị thặng dư của C.Mác và biểu hiện của giá trị thặng dư trong nền
+kinh tế thị trường là những tri thức vô cùng quan trọng đối với sinh viên Việt
+Nam các chuyên ngành lý luận chính trị sau khi tốt nghiệp và bước vào lập
+nghiệp trong nền kinh tế thị trường định hướng xã hội chủ nghĩa.
+3.1. LÝ LUẬN GIÁ TRỊ THẶNG DƯ CỦA C.MÁC
+Lý luận giá trị thặng dư của C.Mác được trình bày chủ yếu trong tác phẩm
+“Tư bản” có nội dung vô cùng rộng lớn, bao gồm sự luận giải khoa học sâu sắc
+về những điều kiện căn bản để hình thành, các quy luật vận động, xu hướng phát
+triển của nền kinh tế thị trường tư bản chủ nghĩa, biểu hiện trong toàn bộ các
+khâu của quá trình tái sản xuất, trong đó những vấn đề quan trong hàng đầu là
+sản xuất giá trị thặng dư và các phương pháp sản xuất giá trị thặng dư.
+3.1.1. Sự sản xuất giá trị thặng dư trong nền kinh tế thị trường tư bản
+chủ nghĩa
+3.1.1.1 Công thức chung của tư bản và hàng hóa sức lao động
+Nền kinh tế thị trường tư bản chủ nghĩa là nền kinh tế hàng hóa phát triển
+cao. Với tư cách là nền kinh tế hàng hóa, nền kinh tế thị trường tư bản chủ nghĩa
+có các yếu tố cơ bản là hàng hóa và tiền, những hoạt động kinh tế cơ bản là mua
+và bán, những quan hệ kinh tế cơ bản là quan hệ giữa người mua và người bán.
+Tuy nhiên, nếu như nền kinh tế hàng hóa biểu hiện thông qua lưu thông hàng
+hóa theo công thức H – T – H, có mục đích chủ yếu là giá trị sử dụng, thì mục
+đích của lưu thông tư bản lại là giá trị, biểu hiện qua công thức T – H – T, và đặc
+biệt là giá trị thặng dư với tư cách là nguồn làm giàu cho giai cấp các nhà tư bản,
+do đó công thức chung của tư bản phải là T-H-T’, trong đó T’=T+∆t. C.Mác gọi
+∆t là giá trị thặng dư. Như vậy, tư bản là giá trị mang lại giá trị thặng dư.
+Phân tích công thức chung của tư bản cho thấy, trong điều kiện sản xuất
+và lưu thông hàng hóa thông thường, giá trị thặng dư không thể xuất hiện. Để có
+được giá trị thặng dư mà vẫn tuân thủ các quy luật khách quan của nền kinh tế
+hàng hóa, đặc biệt là quy luật giá trị, thì trên thị trường cần xuất hiện phổ biến
+một loại hàng hóa có giá trị sử dụng đặc biệt là tạo ra giá trị mới lớn hơn giá trị
+của bản thân nó. Hàng hóa đó là hàng hóa sức lao động.
+“Sức lao động hay năng lực lao động là toàn bộ những năng lực thể chất
+và tinh thần tồn tại trong một cơ thể, trong một con người đang sống, và được
+người đó đem ra vận dụng mỗi khi sản xuất ra một giá trị sử dụng nào đó”3. Sức
+lao động là yếu tố cơ bản của quá trình lao động sản xuất trong mọi thời đại. Để
+sức lao động trở thành hàng hóa phổ biến, theo thực tiễn lịch sử phát triển kinh
+tế thế giới, cần phải có hai điều kiện cơ bản:
+Một là, “người chủ sức lao động ấy có thể bán được nó với tư cách là
+hàng hóa, thì người đó phải có khả năng chi phối được sức lao động ấy, do đó,
+người ấy phải là kẻ tự do sở hữu năng lực lao động của mình, thân thể của
+mình”4, đồng thời “người sở hữu sức lao động bao giờ cũng chỉ bán sức lao
+động đó trong một thời gian nhất định”5.
+Hai là, “người chủ sức lao động phải không còn có khả năng bán những
+hàng hóa trong đó lao động của anh ta được vật hóa, mà trái lại, anh ta buộc phải
+đem bán, với tư cách là hàng hóa, chính ngay cái sức lao động chỉ tồn tại ở trong
+cơ thể sống của anh ta thôi”6.
+Trong nền kinh tế thị trường hiện đại, vẫn tồn tại những điều kiện để sức lao
+động trở thành hàng hóa phổ biến, những quy định pháp lý về khả năng chi phối
+của các chủ thể sức lao động ngày càng được hoàn thiện theo hướng đồng bộ, cụ
+thể phù hợp với thực tiễn phát triển kinh tế - xã hội của từng nước và thông lệ quốc
+tế, đồng thời đã hình thành những điều kiện mới, cho phép người lao động có
+3 C.Mác và Ph.Ăngghen, Toàn tập, Tập 23, Nxb Chính trị quốc gia, Hà Nội, 2002, tr.251.
+4 C.Mác và Ph.Ăngghen, Toàn tập, Tập 23, Nxb Chính trị quốc gia, Hà Nội, 2002, tr. 251.
+5 C.Mác và Ph.Ăngghen, Toàn tập, Tập 23, Nxb Chính trị quốc gia, Hà Nội, 2002, tr.251-252.
+6 C.Mác và Ph.Ăngghen, Toàn tập, Tập 23, Nxb Chính trị quốc gia, Hà Nội, 2002, tr.252-253.
+thể thu được lợi ích cao hơn khi bán sức lao động, trở thành người lao động làm
+thuê.
+Cũng như mọi hàng hóa khác, hàng hóa sức lao động cũng có giá trị. “Giá
+trị của sức lao động, cũng như của mọi hàng hóa khác, được quyết định bởi số
+thời gian lao động cần thiết để sản xuất, và do đó, để tái sản xuất ra thứ sản
+phẩm đặc biệt ấy”7. Quá trình đó chỉ có thể thực hiện với một số tư liệu sinh
+hoạt nhất định, vì vậy “thời gian lao động cần thiết để sản xuất ra sức lao động
+sẽ quy thành thời gian lao động cần thiết để sản xuất ra những tư liệu sinh hoạt
+ấy, hay nói một cách khác, giá trị của sức lao động là giá trị của những tư liệu
+sinh hoạt cần thiết để duy trì cuộc sống của con người có sức lao động ấy”8. Giá
+trị hàng hóa sức lao động không những bao gồm giá trị của những tư liệu sinh
+hoạt cần thiết để tái sản xuất sức lao động ở mức giản đơn, mà còn bao gồm giá
+trị những tư liệu sinh hoạt cho những người thay thế và chi phí đào tạo, đồng
+thời chịu ảnh hưởng của các yếu tố tinh thần và lịch sử, do đó giá trị sức lao
+động có xu hướng không ngừng tăng lên.
+Giá trị sử dụng của sức lao động mà người chủ tiền nhận được khi trao đổi,
+chỉ thể hiện ra trong quá trình sử dụng thực sự, tức là trong quá trình tiêu dùng sức
+lao động. Trong nền kinh tế thị trường tư bản chủ nghĩa “quá trình tiêu dùng sức
+lao động đồng thời cũng là quá trình sản xuất ra hàng hóa và giá trị thặng dư”9
+3.1.1.2. Quá trình xuất giá trị thăng dư dưới chủ nghĩa tư bản
+Sản xuất giá trị thặng dư trước hết là sản xuất hàng hóa, là quá trình kết
+hợp sức lao động với tư liệu sản xuất để tạo ra một giá trị sử dụng với quy cách,
+phẩm chất nhất định nhằm đáp ứng nhu cầu thị trường. Tuy nhiên, đó là quá
+trình kết hợp giữa sức lao động với tư liệu sản xuất mà nhà tư bản đã mua được,
+nên có những đặc điểm khác biệt so với sản xuất hàng hóa giản đơn: công nhân
+làm việc dưới sự kiểm soát của nhà tư bản và sản phẩm làm ra thuộc sở hữu của
+nhà tư bản. Đồng thời đó là quá trình sản xuất giá trị và giá trị thặng dư dựa trên
+cơ sở của quy luật giá trị.
+Ví dụ quá trình sản xuất giá trị thặng dư:
+Giả sử sản xuất giá trị thặng dư được thực hiện dưới hình thái sản xuất cụ
+thể là sản xuất sợi. Để tiến hành sản xuất sợi, nhà tư bản phải ứng ra số tiền là
+20USD để mua 1 kg bông, 3USD chi phí hao mòn máy móc để kéo 1 kg bông
+thành sợi, 5USD mua hàng hoá sức lao động để sử dụng trong 1 ngày làm việc 8
+giờ. Tổng cộng mất 28USD. Trong quá trình sản xuất sợi, bằng lao động cụ thể,
+7 C.Mác và Ph.Ăngghen, Toàn tập, Tập 23, Nxb Chính trị quốc gia, Hà Nội, 2002,
+tr.255. 8C.Mác và Ph.Ăngghen, Toàn tập, Tập 23, Nxb Chính trị quốc gia, Hà Nội, 2002,
+tr.256.
+9C.Mác và Ph.Ăngghen, Toàn tập, Tập 23, Nxb Chính trị quốc gia, Hà Nội, 2002, tr.262-263.
+người công nhân kéo bông thành sợi, theo đó giá trị của bông và hao mòn máy
+móc được chuyển vào giá trị của sợi; bằng lao động trừu tượng người công nhân
+tạo ra giá trị mới, giả định, trong 4 giờ lao động công nhân đã chuyển toàn bộ 1
+kg bông thành sợi. Giá trị sợi gồm:
+Giá trị 1kg bông chuyển vào :
+20USD
+Hao mòn máy móc:
+3USD
+Giá trị mới bằng giá trị sức lao động: 5USD
+Tổng cộng:
+28 USD
+Nhà tư bản ứng ra 28USD, bán sợi thu về 28USD. Nếu quá trình lao động
+dừng lại tại điểm này thì không có giá trị thặng dư, tiền ứng ra chưa trở thành tư
+bản. Do đó, để có giá trị thặng dư, thời gian lao động phải vượt quá cái điểm bù
+lại giá trị sức lao động. Nhà tư bản mua sức lao động của công nhân để sử dụng
+trong 8 giờ chứ không phải 4 giờ. Công nhân phải tiếp tục làm việc trong 4 giờ
+nữa, nhà tư bản chỉ phải tốn thêm 20USD để mua 1 kg bông và 3USD hao mòn
+máy móc. Quá trình lao động 4 giờ sau diễn ra như quá trình đầu. Số sợi được
+tạo ra trong 4 giờ lao động sau cũng có giá trị 28USD. Tổng cộng, nhà tư bản
+ứng ra 40USD + 6USD + 5USD = 51USD, trong khi đó số sợi sản xuất ra có giá
+trị 56USD. Do đó, nhà tư bản thu được lượng giá trị thặng dư là 56USD -
+51USD = 5USD.
+Như vậy, giá trị thặng dư là bộ phận giá trị mới dôi ra ngoài giá trị sức
+lao động do công nhân làm thuê tạo ra và thuộc về nhà tư bản. Quá trình sản
+xuất giá trị thặng dư không chỉ là sự thống nhất giữa sản xuất giá trị sử dụng và
+giá trị, mà còn là sự thống nhất giữa sản xuất giá trị sử dụng và giá trị thặng dư.
+Đó là quá trình sản xuất giá trị nhưng kéo dài quá một điểm, mà nếu dừng lại ở
+điểm đó, thì giá trị mới do công nhân làm thuê tạo ra mới chỉ đạt mức ngang
+bằng giá trị sức lao động. Như vậy, xét theo phương diện tạo ra giá trị mới và
+giá trị thặng dư, ngày lao động được chia thành hai phần: thời gian lao động tất
+yếu là khoảng thời gian tạo ra giá trị mới với lượng ngang bằng giá trị sức lao
+động; thời gian lao động thặng dư là khoảng thời gian tạo ra giá trị thặng dư.
+Nguồn gốc của giá trị thặng dư cũng như giá trị phải là lao động sản xuất
+đã kết tinh trong hàng hóa, song đó là lao động trừu tượng được thực hiện bởi
+công nhân làm thuê, nhưng người nhận được là nhà tư bản. Do đó, giá trị thặng
+dư có bản chất kinh tế - xã hội là quan hệ giai cấp, trong đó giai cấp các nhà tư
+bản làm giàu dựa trên cơ sở lao động làm thuê.
+Quá trình sản xuất giá trị thặng dư, xét từ phía nhà tư bản, là quá trình ứng
+ra và sử dụng tư bản với tư cách là giá trị mang lại giá trị thặng dư. Để tiến hành
+sản xuất, nhà tư bản phải ứng tư bản ra mua tư liệu sản xuất và sức lao động.
+Những hình thức đó của tư bản có quan hệ khác nhau đối với quá trình hình
+thành giá trị và sản xuất giá trị thặng dư. Bộ phận tư bản tồn tại dưới hình thái
+tư liệu sản xuất mà giá trị được lao động cụ thể của công nhân làm thuê bảo tồn
+và chuyển nguyên vẹn vào giá trị sản phẩm, tức là giá trị không biến đổi trong
+quá trình sản xuất được C.Mác gọi là tư bản bất biến (ký hiệu là c). Tư bản bất
+biến không tạo ra giá trị thặng dư nhưng là điều kiện hết sức cần thiết để tạo ra
+giá trị thặng dư.
+Bộ phận tư bản biến thành sức lao động thì khác. Giá trị của nó được
+chuyển cho công nhân làm thuê, biến thành tư liệu sinh hoạt cần thiết và mất đi
+trong quá trình tái sản xuất sức lao động của công nhân làm thuê. Tuy nhiên,
+trong quá trình sản xuất, công nhân làm thuê bằng lao động trừu tượng tạo ra giá
+trị mới với lượng lớn hơn giá trị sức lao động. Bộ phận tư bản đó không tái hiện
+ra, nhưng thông qua lao động trừu tượng của công nhân mà tăng lên, tức biến
+đổi về số lượng trong quá trình sản xuất, được Mác gọi là tư bản khả biến, ký
+hiệu là v.
+Để có giá trị thặng dư, nhà tư bản không những cần phải thực hiện quá
+trình sản xuất giá trị thặng dư, mà còn cần phải chuẩn bị các điều kiện cần thiết
+cho quá trình đó và thực hiện giá trị tư bản, giá trị thặng dư chứa đựng trong
+những hàng hóa đã được sản xuất ra. Tổng thể những hoạt động đó biểu hiện sự
+vận động tuần hoàn của tư bản. Tuần hoàn của tư bản là sự vận động của tư bản
+lần lượt trải qua ba giai đoạn dưới ba hình thái kế tiếp nhau (tư bản tiền tệ, tư
+bản sản xuất, tư bản hàng hóa) gắn với thực hiện những chức năng tương ứng
+(chuẩn bị các điều kiện cần thiết để sản xuất giá trị thặng dư, sản xuất giá trị
+thặng dư, thực hiện giá trị tư bản và giá trị thặng dư) và quay trở về hình thái
+ban đầu cùng với giá trị thặng dư. Tuần hoàn tư bản phản ánh những mối quan
+hệ khách quan giữa các hoạt động cần phối kết hợp nhịp nhàng, kịp thời, đúng
+lúc trong quá trình sản xuất kinh doanh trong nền kinh tế thị trường nói chung và
+kinh tế thị trường tư bản chủ nghĩa nói riêng. Để sản xuất kinh doanh hiệu quả,
+chủ thể kinh doanh phải mua được các yếu tố cần thiết với số lượng, chất lượng,
+cơ cấu phù hợp, phải có đủ trình độ tổ chức sắp xếp và thực hiện công việc theo
+quy trình, đồng thời cần có những điều kiện bên ngoài thuận lợi cho việc thực
+hiện quá trình đó. Do đó, để kinh doanh hiệu quả trong nền kinh tế thị trường
+không những cần có nỗ lực to lớn của doanh nhân, mà còn cần tới sự hỗ
+trợ tích cực, hiệu quả của nhà nước thông qua hoạt động tạo lập môi trường
+pháp lý, kiến tạo môi trường kinh doanh thuận lợi.
+Trong điều kiện môi trường kinh doanh cụ thể nhất định, các nhà tư bản
+khác nhau cùng thực hiện đầy đủ các bước của quy trình kinh doanh có thể nhận
+được những mức hiệu quả khác nhau do chu chuyển tư bản của họ khác nhau.
+Chu chuyển tư bản là tuần hoàn tư bản được xét là quá trình định kỳ, thường
+xuyên lặp đi lặp lại và đổi mới theo thời gian. Chu chuyển tư bản được đo lường
+bằng thời gian chu chuyển hoặc tốc độ chu chuyển tư bản. Thời gian chu chuyển
+tư bản là khoảng thời gian mà một tư bản kể từ khi được ứng ra dưới một hình
+thái nhất định cho đến khi quay trở về dưới hình thái đó cùng với giá trị thặng
+dư. Tốc độ chu chuyển tư bản là số lần mà một tư bản được ứng ra dưới một
+hình thái nhất định quay trở về dưới hình thái đó cùng với giá trị thặng dư tính
+trong một đơn vị thời gian nhất định. Thông thường tốc độ chu chuyển được tính
+bằng số vòng chu chuyển của tư bản trong thời gian 1 năm.
+Xét theo phương thức chu chuyển giá trị của tư bản sản xuất vào giá trị
+sản phẩm, tư bản được chia thành các bộ phận là tư bản cố định và tư bản lưu
+động. Tư bản cố định là bộ phận tư bản sản xuất tồn tại dưới hình thái tư liệu
+lao động tham gia toàn bộ vào quá trình sản xuất những giá trị của nó chỉ
+chuyển dần dần, từng phần vào giá trị sản phẩm theo mức độ hao mòn. Hao
+mòn của tư bản cố định bao gồm hao mòn hữu hình và hao mòn vô hình. Hao
+mòn hữu hình là sự mất mát về giá trị sử dụng và giá trị của tư bản cố định. Hao
+mòn hữu hình của tư bản cố định do việc sử dụng và tác động của tự nhiên gây
+ra. Hao mòn vô hình là sự mất giá thuần túy của tư bản cố định. Hao mòn vô
+hình của tư bản cố định do sự tăng lên của năng suất lao động sản xuất tư liệu
+lao động và sự xuất hiện của những thế hệ tư liệu lao động mới có năng suất cao
+hơn gây ra. Tư bản lưu động là bộ phận tư bản sản xuất tồn tại dưới hình thái
+sức lao động, nguyên nhiên vật liệu, vật liệu phụ… , giá trị của nó được chuyển
+một lần, toàn phần vào giá trị sản phẩm khi kết thúc từng quá trình sản xuất. Để
+thu được hiệu quả sản xuất kinh doanh cao, các nhà tư bản phải nỗ lực rút ngắn
+thời gian chu chuyển hay đẩy nhanh tốc độ chu chuyển tư bản trên cơ sở nắm
+vững các yếu tố ảnh hưởng đến thời gian chu chuyển tư bản, đồng thời sử dụng
+hiệu quả tư bản cố định và tư bản lưu động.
+Mục đích của nhà tư bản trong nền kinh tế thị trường tư bản chủ nghĩa
+không những chỉ dừng lại ở mức có được giá trị thặng dư, mà quan trọng là phải
+thu được nhiều giá trị thặng dư, do đó cần có thước đo cụ thể để đo lường giá trị
+thặng dư về lượng. C.Mác đã sử dụng tỷ suất và khối lượng giá trị thặng để đo
+lường giá trị thặng dư.
+Tỷ suất giá trị thặng dư là tỷ lệ phần trăm giữa giá trị thặng dư và tư bản
+khả biến. Công thức tính tỷ suất giá trị thặng dư là:
+Trong đó, m’ – tỷ suất giá trị thăng dư; m – giá trị thặng dư; v – tư bản
+khả biến.
+Tỷ suất giá trị thặng dư cũng có thể tính theo tỷ lệ phần trăm giữa thời
+gian lao động thặng dư (t’) và thời gian lao động tất yếu (t).
+t’
+m’ =
+x 100%
+t
+Khối lượng giá trị thặng dư là lượng giá trị thặng dư bằng tiền mà nhà tư
+bản thu được. Công thức tính khối lượng giá trị thặng dư là:
+M = m’. V
+Trong đó, M – khối lượng giá trị thặng dư, V – tổng tư bản khả biến.
+3.1.2. Các phương pháp sản xuất giá trị thặng dư trong nền kinh tế
+thị trường tư bản chủ nghĩa
+Để thu được nhiều giá trị thặng dư cần có phương pháp nhất định. C.Mác
+đã chỉ ra hai phương pháp sản xuất giá trị thặng dư là sản xuất giá trị thặng dư
+tuyệt đối và sản xuất giá trị thặng dư tương đối.
+3.1.2.1. Sản xuất giá trị thặng dư tuyệt đối
+Giá trị thặng dư tuyệt đối là giá trị thặng dư thu được do kéo dài ngày lao
+động vượt quá thời gian lao động tất yếu, trong khi năng suất lao động, giá trị
+sức lao động và thời gian lao động tất yếu không thay đổi.
+Ví dụ: nếu ngày lao động là 8 giờ, thời gian lao động tất yếu là 4 giờ, thời
+gian lao động thặng dư là 4 giờ, tỷ suất giá trị thặng dư là 100%.
+Giả định nhà tư bản kéo dài ngày lao động thêm 2 giờ nữa với mọi điều
+kiện không đổi thì giá trị thặng dư tuyệt đối tăng từ 4 giờ lên 6 giờ và tỷ suất giá
+trị thặng dư sẽ là:
+6 giờ
+m’ =
+x 100% = 150%
+4 giờ
+Để có nhiều giá trị thặng dư, nhà tư bản phải tìm mọi cách để kéo dài
+ngày lao động và tăng cường độ lao động. Tuy nhiên, ngày lao động chịu giới
+hạn về mặt sinh lý (công nhân phải có thời gian ăn, ngủ, nghỉ ngơi, giải trí để tái
+tạo lại sức lao động) nên không thể kéo dài bằng ngày tự nhiên, còn cường độ
+lao động cũng không thể tăng vô hạn quá sức chịu đựng của con người. Hơn
+nữa, công nhân kiến quyết đấu tranh đòi rút ngắn ngày lao động. Quyền lợi hai
+bên có mâu thuẫn, thông qua đấu tranh, tuỳ tương quan lực lượng mà tại các dân
+tộc trong từng giai đoạn lịch sử cụ thể có thể quy định độ dài nhất định của ngày
+lao động. Nhưng dù sao, ngày lao động phải dài hơn thời gian lao động tất yếu
+và cũng không thể vượt giới hạn thể chất và tinh thần của người lao động.
+3.1.2.2. Sản xuất giá trị thặng dư tương đối
+Giá trị thặng dư tương đối giá trị thặng dư thu được nhờ rút ngắn thời
+gian lao động tất yếu bằng cách hạ thấp giá trị sức lao động; do đó kéo dài thời
+gian lao động thặng dư trong khi độ dài ngày lao động không thay đổi hoặc
+thậm chí rút ngắn.
+Ví dụ: ngày lao động 8 giờ, với 4 giờ lao động tất yếu, 4 giờ lao động
+thặng dư, tỷ suất giá trị thặng dư là 100%. Nếu giá trị sức lao động giảm khiến
+thời gian lao động tất yếu rút xuống còn 2 giờ thì thời gian lao động thặng dư sẽ
+là 6 giờ. Khi đó
+6 giờ
+m’ =
+x 100% = 300%
+2 giờ
+Nếu ngày lao động giảm xuống còn 6 giờ nhưng giá trị sức lao động giảm
+khiến thời gian lao động tất yếu rút xuống còn 1 giờ thì thời gian lao động thặng
+dư sẽ là 5 giờ. Khi đó
+5 giờ
+m’ =
+x 100% = 500%
+1 giờ
+Để hạ thấp giá trị sức lao động thì phải làm giảm giá trị các tư liệu sinh
+hoạt và dịch vụ cần thiết để tái sản xuất sức lao động, do đó phải tăng năng suất
+lao động trong các ngành sản xuất ra tư liệu sinh hoạt và các ngành sản xuất ra
+tư liệu sản xuất để chế tạo ra tư liệu sinh hoạt đó.
+Trong thực tế, việc cải tiến kỹ thuật, tăng năng suất lao động diễn ra trước
+tiên ở một hoặc vài xí nghiệp riêng biệt làm cho hàng hoá do các xí nghiệp ấy
+sản xuất ra có thời gian lao động cá biệt thấp hơn thời gian lao động xã hội cần
+thiết, và do đó, sẽ thu được một số giá trị thặng dư vượt trội so với các xí nghiệp
+khác. Phần giá trị thặng dư trội hơn đó là giá trị thặng dư siêu ngạch.
+Xét từng trường hợp, đối với từng chủ thể sản xuất trong nền kinh tế thị
+trường, giá trị thặng dư siêu ngạch là một hiện tượng tạm thời, xuất hiện rồi mất
+đi, nhưng xét toàn bộ xã hội tư bản thì giá trị thặng dư siêu ngạch lại là hiện
+tượng tồn tại thường xuyên; nó có thể mất đi chỗ này, lúc này nhưng lại xuất
+hiện chỗ khác, lúc khác. Giá trị thặng dư siêu ngạch là động lực mạnh nhất thúc
+đẩy các nhà tư bản ra sức hoàn thiện công tác tổ chức lao động, cải tiến kỹ thuật,
+tăng năng suất lao động. Hoạt động riêng lẻ đó của từng nhà tư bản đã dẫn đến
+kết quả làm tăng năng suất lao động xã hội, hình thành giá trị thặng dư tương
+đối, thúc đẩy lực lượng sản xuất phát triển. Do đó theo C.Mác, giá trị thặng dư
+siêu ngạch là hình thái biến tướng của giá trị thặng dư tương đối.
+Trong thực tiễn lịch sử phát triển kinh tế thị trường trên thế giới, giai cấp
+các nhà tư bản đã thực hiện những cuộc cách mạng lớn về sản xuất để không
+ngừng nâng cao năng suất lao động cá biệt và thức đẩy nâng cao năng suất lao
+động. Đó là cách mạng về tổ chức, quản lý lao động thông qua thực hiện hiệp
+tác lao động giản đơn, cách mạng về sức lao động thông qua thực hiện hiệp tác
+lao động có phân công và cách mạng về tư liệu lao động thông qua sự hình
+thành phát triển của nền đại công nghiệp.
+Sự hình thành và phát triển của nền đại công nghiệp thông qua cách mạng
+công nghiệp đã mở ra những điều kiện mới cho phát triển khoa học và công
+nghệ thức đẩy sản xuất nói chung và sản xuất giá trị thặng dư phát triển nhanh.
+Cùng với toàn cầu hóa kinh tế, khoa học và công nghệ ngày càng trở thành lực
+lượng sản xuất trực tiếp, nhân tố quan trọng của sản xuất giá trị thặng dư trong
+nền kinh tế thị trường trên thế giới hiện nay.
+3.2.CÁC  HÌNH  THỨC  BIỂU  HIỆN  CỦA  GIÁ  TRỊ THẶNG  DƯ
+TRONG NỀN KINH TẾ THỊ TRƯỜNG
+Giá trị thặng dư với tư cách là cơ sở tồn tại, phát triển của nền kinh tế thị
+trường tư bản chủ nghĩa được biểu hiện ra thông qua các hình thức khác nhau,
+gắn kết với nhau trong nền kinh tế thị trường như lợi nhuận, lợi tức, địa tô.
+3.2.1. Lợi nhuận, lợi nhuận bình quân
+3.2.1.1. Chí phí sản xuất
+Trong nền kinh tế hàng hóa giản đơn, để sản xuất hàng hóa người sản xuất
+phải chi phí lao động, song trong nền kinh tế thị trường tư bản chủ nghĩa, nhà tư
+bản không cần trực tiếp lao động mà vẫn có hàng hóa và thu được giá trị hàng
+hóa. Đối với nhà tư bản quan trọng là sau khi ứng ra tư bản thì phải thu hồi được
+giá trị tư bản đã ứng ra từ giá trị hàng hóa đã được thực hiện, từ đó hình thành
+khái niệm chi phí sản xuất.
+Khái niệm chi phí sản xuất:
+Ví dụ: Giả định rằng, để sản xuất hàng hóa nhà tư bản phải đầu tư khối
+lượng tư bản có giá trị là 1000 000 USD, được chia thành các phần:
+Tư bản cố định – 500 000 USD với thời gian chu chuyển 10 năm;
+Tư bản lưu động bất biến – 400 000 USD với thời gian chu chuyển 1 năm;
+Tư bản khả biến – 100 000 USD với thời gian chu chuyển 1 năm;
+Tỷ suất giá trị thặng dư – 100%
+Thì giá trị hàng hóa được tạo ra là:
+450 000c + 100 000v + 100 000m = 650 000
+Nếu trong giá trị 650 000 USD trừ đi 100 000 USD là giá trị thặng dư thì
+chỉ còn lại 550 000 USD. Phần giá trị ấy của hàng hóa, bù lại giá cả của những
+tư liệu sản xuất đã tiêu dùng và giá cả của sức lao động đã được sử dụng, - chỉ
+bù lại số chi phí mà bản thân nhà tư bản đã bỏ ra để sản xuất hàng hóa; đối với
+hắn, phần giá trị ấy của hàng hóa là chi phí sản xuất của hàng hóa.
+Chi phí sản xuất được ký hiệu là k. Khi xuất hiện phạm trù chí phí sản
+xuất thì giá trị hàng hóa sẽ biểu hiện thành: W = k + m. Chi phí sản xuất có vai
+trò quan trọng: bù đắp tư bản về giá trị và hiện vật, đảm bảo điều kiện cho quá
+trình tái sản xuất cá biệt có thể thực hiện bình thường trong kinh tế thị trường; là
+căn cứ quan trọng để xác định năng lực tài chính của doanh nghiệp, tạo cơ sở
+cho cạnh tranh, là căn cứ quan trọng cho cạnh tranh về giá cả bán hàng giữa các
+doanh nghiệp sản xuất cùng mặt hàng hoặc các mặt hàng đồng loại.
+3.2.1.2. Lợi nhuận
+Khi giá trị hàng hóa biểu hiện thành: W = k + m thì giá trị thặng dư không
+còn thể hiện rõ nguồn gốc thực sự của nó. Với hình thái mới giá trị thặng dư
+biểu hiện ra như hoặc là phần dôi ra của giá trị - hàng hóa ngoài chi phí sản xuất;
+hoặc là phần lớn thêm lên của số tư bản đã được chi phí, hoặc là thu nhập tăng
+thêm từ lưu thông; hoặc là phần giá trị tăng thêm của toàn bộ tư bản, do bản thân
+tư bản sinh ra.
+Giá trị thặng dư, được quan niệm là con đẻ của toàn bộ tư bản ứng trước,
+mang hình thái chuyển hóa là lợi nhuận, do đó là hình thái biểu hiện, hình thái
+chuyển hóa của giá trị thặng dư trong nền kinh tế tư bản chủ nghĩa. Lợi nhuận
+thể hiện sự lời lãi của đầu tư tư bản. Lợi nhuận được ký kiệu là p. Lợi nhuận
+chính là mục tiêu, động cơ, động lực của hoạt động sản xuất, kinh doanh trong
+nền kinh tế thị trường tư bản chủ nghĩa nói riêng và trong nền kinh tế thị trường
+nói chung. Tuy nhiên, lợi nhuận khi được đo bằng số tuyệt đối chỉ phản ánh quy
+mô của hiệu quả kinh doanh mà chưa phản ánh rõ mức độ hiệu quả của kinh
+doanh, do đó cần được bổ sung bằng số đo tương đối là tỷ suất lợi nhuận.
+3.2.1.3. Tỷ suất lợi nhuận
+Tỷ suất lợi nhuận là tỷ lệ phần trăm giữa lợi nhuận và toàn bộ giá trị của
+tư bản ứng trước. Tỷ suất lợi nhuận được ký hiệu là p’ và được tính theo công
+thức:
+Tỷ suất lợi nhuận thường được tính hàng năm, từ đây hình thành khái
+niệm tỷ suất lợi nhuận hàng năm. Mặc dù lợi nhuận có vai trò quan trọng đối với
+kinh doanh tư bản chủ nghĩa, vì sự hiện diện của nó thể hiện hiệu quả kinh tế,
+tuy nhiên so với lợi nhuận thì tỷ suất lợi nhuận phản ánh đầy đủ hơn mức độ
+hiệu quả kinh doanh. Chính vì vậy, tỷ suất lợi nhuận với tư cách là số đo tương
+đối của lợi nhuận, đã trở thành động cơ quan trọng nhất của hoạt động cạnh
+tranh tư bản chủ nghĩa. C.Mác viết: “Quy luật cơ bản của cạnh tranh tư bản chủ
+nghĩa, mà cho mãi đến ngày nay khoa kinh tế chính trị học vẫn không hiểu được,
+và là quy luật điều tiết tỷ suất lợi nhuận chung và cái gọi là những giá cả sản
+xuất do tỷ suất lợi nhuận chung quy định, như sau này chúng ta sẽ thấy, là dựa
+trên sự chênh lệch giữa giá trị của hàng hóa và chi phí sản xuất của nó, và dựa
+trên khả năng bán hàng hóa dưới giá trị của nó mà vẫn có lợi nhuận, khả năng
+này là do sự chênh lệch nói trên sinh ra”10.
+Như vậy, lợi nhuận, tỷ suất lợi nhuận là những phạm trù thể hiện lợi ích
+kinh tế của nhà tư bản trong nền kinh tế thị trường tư bản chủ nghĩa, từ đó các
+nhà tư bản muốn làm giàu và làm giàu nhanh cần phải tìm ra cách thức để có
+được tỷ suất lợi nhuận cao nhất. Vai trò của lợi nhuận được chính các học giả tư
+sản đánh giá như sau:
+“Tờ "Quarterly Reviewer" nói:
+"Tư bản tránh sự ồn ào và cãi cọ, và có bản tính rụt rè. Đó là sự thật,
+nhưng chưa phải là tất cả sự thật.
+Tư bản sợ tình trạng không có lợi nhuận hoặc lợi nhuận quá ít, cũng như
+giới tự nhiên sợ chân không.
+Với một lợi nhuận thích đáng thì tư bản trở nên can đảm.
+10
+C.Mác và Ph.Ăngghen, Toàn tập, Tập 25, Nxb Chính trị quốc gia, Hà Nội, 1994, P.I, tr.67.
+Được bảo đảm 10 phần trăm lợi nhuận thì người ta có thể dùng tư bản vào
+đâu cũng được ;
+được 20 phần trăm thì nó hoạt bát hẳn lên;
+được 50 phần trăm thì nó trở nên thật sự táo bạo;
+được 100 phần trăm thì nó chà đạp lên mọi luật lệ của loài người;
+được 300 phần trăm thì không còn tội ác nào là nó không dám phạm, dù
+có nguy cơ bị treo cổ.
+Nếu sự ồn ào và cãi cọ đem lại lợi nhuận thì tư bản khuyến khích cả hai.
+Chứng cớ là: buôn lậu và buôn nô lệ"
+(T.J.Dunning, s.đ.d.,tr.35, 36)”11
+3.2.1.4. Các nhân tố ảnh hưởng tới tỷ suất lợi nhuận
+Qua phân tích về lợi nhuận và tỷ suất lợi nhuận C.Mác đã chỉ ra các nhân
+tố cơ bản ảnh hưởng tới tỷ suất lợi nhuận mà các nhà tư bản đã tìm mọi cách để
+tận dụng những tác động tích cực của chúng nhằm làm tăng tỷ suất lợi nhuận:
+Thứ nhất, tỷ suất giá trị thặng dư.
+Sự gia tăng của tỷ suất giá trị thặng dư sẽ có tác động trực tiếp làm tăng tỷ
+suất lợi nhuận. Do đó để tăng tỷ suất lợi nhuận trước hết cần áp dụng tất cả các
+biện pháp làm tăng tỷ suất giá trị thặng dư, đặc biệt kết hợp áp dụng phương
+pháp sản xuất giá trị thặng dư tuyệt đối thông qua tăng độ dài ngày lao động và
+tăng cường độ lao động với phương pháp sản xuất giá trị thặng dư tương đối
+thông qua tăng năng suất lao động, kết hợp giữa tái sản xuất mở rộng theo chiều
+rộng và tái sản xuất mở rộng theo chiều sâu, trong đó trong dài hạn cần tăng
+cường nâng cao năng suất lao động trên cơ sở tái sản xuất mở rộng theo chiều
+sâu.
+Trước đây, do nhận thức không đầy đủ về các phương pháp sản xuất giá
+trị thặng dư, đã hình thành quan niệm phổ biến rằng, trong thời kỳ quá độ lên
+CNXH và trong CNXH không còn sản xuất giá trị thặng dư, không nên áp dụng
+phương pháp sản xuất giá trị thặng dư tuyệt đối vì nó bất công, trái với bản chất
+của xã hội mới. Nếu áp dụng thì chỉ nên chú trọng phương pháp sản xuất giá trị
+thặng dư tương đối. Quan niệm không đầy đủ này xuất phát từ nhận thức sản
+xuất giá trị thặng dư với tư cách là tính đặc thù riêng có của phương thức sản
+xuất TBCN, nên đã không thấy được rằng, sự hình thành và phát triển của các
+phương pháp sản xuất giá trị thặng dư cũng chính là sự phát triển của sản xuất
+11
+C.Mác và Ph.Ăngghen, Toàn tập, Tập 23, Nxb Chính trị quốc gia, Hà Nội, 2002, tr.1056.
+xã hội nói chung, trong các phương pháp này cũng có những thành tựu mà nhân
+loại đã đạt được trong CNTB, mà trong xây dựng xã hội mới cũng cần phải kế
+thừa, vận dụng.
+Thực tiễn phát triển kinh tế ngày nay ở nước ta cho thấy, cả ba yếu tố là
+thời gian lao động, cường độ lao động và năng suất lao động đều quan trọng, cần
+được sử dụng phù hợp để nâng cao hiệu quả kinh doanh và sức cạnh tranh của
+các doanh nghiệp, đặc biệt là doanh nghiệp nhà nước trong kinh tế thị trường
+định hướng xã hội chủ nghĩa và hội nhập kinh tế quốc tế. Trong đó, các yếu tố
+thời gian lao động và cường độ lao động có thể áp dụng ngay lập tức với những
+điều kiện hiện có và sẽ cho kết quả tích cực trong thời gian tương đối ngắn
+thông qua các biện pháp về tổ chức quản lý sản xuất, kinh doanh một cách khoa
+học. Còn yếu tố năng suất lao động thì phụ thuộc vào rất nhiều yếu tố khác như
+trình độ của người lao động, kỹ thuật, công nghệ của sản xuất…, mà những yếu
+tố này nhìn chung khó có thể thay đổi nhanh, do đó, tăng năng suất lao động là
+hướng cần chú trọng, đặc biệt trong dài hạn.
+Thứ hai, thời gian chu chuyển của tư bản
+Lợi nhuận và tỷ suất lợi nhuận với tư cách là kết quả phản ánh hiệu quả
+kinh doanh được tính toán cho từng đơn vị thời gian nhất định. Thông thường
+các chỉ tiêu này được tính cho thời gian của một năm hoạt động kinh doanh. Từ
+đây, theo lý luận tuần hoàn và chu chuyển của tư bản, cơ sở của hiệu quả kinh
+doanh là sự vận động liên tục, không gián đoạn của hoạt động sản xuất kinh
+doanh, thể hiện yêu cầu phải phối kết hợp ăn khớp nhịp nhàng tất cả các khâu,
+giai đoạn của toàn bộ quá trình tái sản xuất với tư cách là quá trình chuyển hóa
+liên tục của tư bản từ hình thái chức năng này sang hình thái chức năng khác.
+Còn mức độ hiệu quả kinh doanh cụ thể lại được quyết định bởi tốc độ
+chu chuyển của tư bản. C.Mác chỉ rõ: “sự rút ngắn thời gian chu chuyển hay rút
+ngắn một trong hai bộ phận của thời gian chu chuyển - thời gian sản xuất và thời
+gian lưu thông - làm tăng thêm khối lượng giá trị thặng dư sản xuất ra ... Nhưng
+vì tỷ suất lợi nhuận chỉ biểu hiện cái tỷ lệ giữa khối lượng giá trị thặng dư được
+sản xuất ra và tổng tư bản đã dùng để sản xuất ra khối lượng giá trị thặng dư đó,
+nên rõ ràng là mọi sự rút ngắn như thế sẽ nâng cao tỷ suất lợi nhuận lên”12.
+Từ đây, có thể thấy các biện pháp rút ngắn thời gian chu chuyển của tư
+bản đều là các biện pháp nâng cao tỷ suất lợi nhuận. Để rút ngắn thời gian sản
+xuất, cần nghiên cứu kỹ kết cấu của khoảng thời gian này đối với từng loại hình
+hoạt động sản xuất kinh doanh và các nhân tố ảnh hưởng đến từng khoảng thời
+12
+Sđd, tr.115.
+gian đó. Nhìn chung thời gian sản xuất trong nền kinh tế thị trường có thể phân
+chia thành ba khoảng thời gian chủ yếu là thời gian lao động, thời gian gián
+đoạn lao động và thời gian dự trữ sản xuất.
+Thời gian lao động là khoảng thời gian có sự tác động trực tiếp của sức
+lao động tới tư liệu sản xuất. Độ dài của khoảng thời gian này phụ thuộc vào
+nhiều yếu tố như tính chất của ngành sản xuất, tác động của các quá trình tự
+nhiên tới quá trình chuyển hóa của đối tượng lao động thành sản phẩm, công
+nghệ sử dụng để sản xuất, trình độ nguồn nhân lực, trình độ tổ chức sản xuất,
+kinh doanh…Vì vậy, để rút ngắn khoảng thời gian này cần sử dụng các biện
+pháp như lựa chọn ngành, nghề kinh doanh phù hợp, ứng dụng tiến bộ công
+nghệ hiện đại, phát triển nguồn nhân lực đáp ứng yêu cầu sản xuất kinh doanh
+trong điều kiện cách mạng khoa học – công nghệ hiện đại, áp dụng các phương
+pháp quản lý tiên tiến….
+Thời gian gián đoạn lao động là khoảng thời gian vẫn diến ra quá trình sản
+xuất song không có sự tham gia trực tiếp của con người. Độ dài của khoảng thời
+gian này cũng khác nhau tùy thuộc vào tính chất của ngành sản xuất, tác động
+của tự nhiên tới đối tượng lao động, trình độ ứng dụng tiến bộ công nghệ…Biện
+pháp chủ yếu để giảm khoảng thời gian này là ứng dựng tiến bộ công nghệ để
+đẩy nhanh quá trình chuyển hóa đối tượng lao động thành sản phẩm.
+Thời gian dự trữ sản xuất là khoảng thời gian các yếu tố sản xuất, đặc biệt
+là đối tượng lao động đã được mua về, sẵn sàng tham gia vào sản xuất, song
+chưa đi vào sản xuất mà tồn tại dưới dạng dự trữ. Trong nền kinh tế thị trường,
+dự trữ sản xuất đầy đủ luôn là điều kiện quan trọng để đảm bảo cho hoạt động
+sản xuất có thể thực hiện liên tục không ngừng, không bị rối loạn. Dự trữ sản
+xuất thừa sẽ gây lãng phí, giảm hiệu quả kinh doanh. Khoảng thời gian mà các
+yếu tố sản xuất nằm dưới dạng dự trữ sản xuất dài hay ngắn phụ thuôc vào nhiều
+yếu tố như tình hình thị trường, trình độ tổ chức sản xuất kinh doanh…, trong đó
+năng lực và trình độ hoạch định chiến lược, kế hoạch và quản lý sản xuất kinh
+doanh là rất quan trọng.
+Như vậy, căn cứ vào các nhân tố ảnh hưởng tới từng khoảng thời gian sản
+xuất như đã nêu trên, để rút ngắn thời gian sản xuất cần phải thực hiện đồng bộ
+nhiều biện pháp. Tổng hợp lại, C.Mác cho rằng, “Biện pháp chính để rút ngắn
+thời gian sản xuất là tăng năng suất lao động”13.
+Thời gian lưu thông cũng gồm nhiều khoảng thời gian như thời gian mua,
+thời gian bán, thời gian vận chuyển, bảo quản, nghiên cứu thị trường, xúc tiến
+13
+Sđd, tr.116.
+thương mại. Do vậy, độ dài của thời gian lưu thông cũng phụ thuộc vào nhiều
+yếu tố như tình hình thị trường, khoảng cách từ nơi sản xuất tới nơi tiêu thụ,
+trình độ phát triển của các ngành kết cấu hạ tầng kinh tế như giao thông, thông
+tin liên lạc, tính chất và chất lượng sản phẩm…Từ đó, để rút ngắn thời gian lưu
+thông cũng phải thực hiện nhiều giải pháp từ tăng cường nghiên cứu nhu cầu thị
+trường, đối thủ cạnh tranh, nâng cao chất lượng và đa dạng hóa sản phẩm, tổ
+chức hệ thống kinh doanh, phân phối, xúc tiến thương mại, cải thiện các điều
+kiện về kết cấu hạ tầng giao thông, thông tin liên lạc…Trong điều kiện điều kiện
+giao thông còn nhiều khó khăn, trình độ phát triển của ngành giao thông vận tải
+chưa cao, C.Mác cho rằng “Biện pháp chính để rút ngắn thời gian lưu thông là
+cải tiến các phương tiện giao thông”14.
+Từ phân tích tác động của chu chuyển tư bản tới tỷ suất lợi nhuận C.Mác
+khẳng định: “với những tư bản có cùng một cấu tạo tính theo phần trăm như nhau,
+có một tỷ suất giá trị thặng dư và ngày lao động giống nhau, thì các tỷ suất lợi
+nhuận của hai tư bản đều tỷ lệ nghịch với thời gian chu chuyển của chúng”15.
+Thứ ba, sự tiết kiệm tư bản bất biến
+Vì tỷ suất lợi nhuận là tỷ lệ giữa lợi nhuận và tư bản ứng ra, cho nên tiết
+kiệm tư bản rõ ràng có tác động tới tăng tỷ suất lợi nhuận. Tư bản ứng ra gồm tư
+bản bất biến và tư bản khả biến. Tư bản khả biến là nhân tố quyết định giá trị
+thặng dư, nhưng bản thân nó lại được quyết định bởi giá trị sức lao động, do đó
+việc giảm tư bản khả biến luôn là điều khó khăn, đặc biệt luôn phải đối mặt với
+phong trào công nhân. Còn tư bản bất biến luôn đóng vai trò là điều kiện cần
+thiết cho sản xuất giá trị thặng dư, song không trực tiếp tạo ra giá trị thặng dư.
+Theo sự phát triển của sản xuất tư bản bất biến có xu hướng tăng lên cả tuyệt đối
+và tương đối, nhưng đồng thời cũng hình thành các điều kiện để tiết kiệm bộ
+phận tư bản này, nhờ đó sẽ làm tăng tỷ suất lợi nhuận. C.Mác đã chỉ ra những
+biện pháp tiết kiệm tư bản bất biến mà các nhà tư bản trong thế kỷ XIX đã sử
+dụng để nâng cao tỷ suất lợi nhuận, bao gồm:
+Một là, kéo dài lao động thặng dư, và do đó kéo dài ngày lao động, trong
+khi tư bản khả biến vẫn y nguyên làm cho tỷ suất lợi nhuận tăng lên, bởi lẽ các
+khoản chi phí như thuế, tiền bảo hiểm, tiền lương của các loại nhân viên thường
+trực, sự mất giá của máy móc, và nhiều khoản chi phí khác của một công xưởng,
+vẫn không thay đổi dù ngày lao động dài hơn lên hay ngắn đi. Còn khi sản xuất
+thu hẹp lại thì những chi phí đó tăng lên, làm cho tỷ suất lợi nhuận giảm đi16.
+14
+Sđd, tr.116.
+15
+Sđd, tr.118.
+16
+Xem: Sđd, tr.125-127.
+Hai là, “Tiết kiệm về những điều kiện sản xuất đặc trưng cho nền sản xuất
+quy mô lớn với tư cách là những điều kiện của lao động xã hội - thực hiện được
+do tập trung tư liệu sản xuất và sử dụng tư liệu sản xuất trên quy mô lớn, - đòi
+hỏi phải có một điều kiện căn bản là sự tập trung và sự hoạt động chung của một
+số công nhân, tức là đòi hỏi phải có một sự kết hợp xã hội của lao động”17.
+Ba là, “Biến những chất thải của sản xuất, những cái gọi là phế liệu, trở
+lại thành những yếu tố sản xuất mới”18.
+Bốn là, “sự nâng cao năng suất lao động trong ngành chế tạo tư liệu lao
+động và đối tượng lao động làm cho các yếu tố này rẻ đi”19.
+Năm là, “tiết kiệm nhờ thường xuyên cải tiến thiết bị máy móc”20.
+Sáu là, tiết kiệm trong việc sử dụng bản thân tư bản bất biến nhờ mua
+được nguyên vật liệu có chât lượng tốt, nhờ sự rèn luyện và đào tạo công nhân,
+nhờ vào kỷ luật mà nhà tư bản bắt người công nhân lao động kết hợp phải tuân
+theo và hơn thế nữa còn nhò vào việc làm giả mạo các yếu tố sản xuất21.
+Bảy là, sử dụng những điều kiện lao động của công nhân một cách tiết
+kiệm22.
+Tám là, tiết kiệm nhờ những phát minh.
+Khi phân tích về các biện pháp tiết kiệm tư bản bất biến để làm tăng tỷ
+suất lợi nhuận, C.Mác nhắc nhở rằng những biện pháp này nhìn chung chỉ thể
+hiện tác dụng tích cực rõ rệt trong điều kiện lao động tập thể với quy mô lớn23.
+Đồng thời, tiết kiệm nhờ phát minh cũng chứa đựng rủi ro lớn đối với những
+chủ thể ứng dụng đầu tiên, bởi lẽ “Trong việc sản xuất một thứ máy mới, thì
+chi phí để sản xuất ra chiếc máy mới đầu tiên chênh lệch rất nhiều so với chi
+phí để sản xuất ra những chiếc máy sau…Những chi phí để quản lý một xưởng
+áp dụng đầu tiên những phát minh mới, bao giờ cũng cao hơn rất nhiều so với
+những chi phí của những xưởng sau này mọc lên trên những đống gạch vụn của
+nó”24. Theo ông, “Điều đó đúng đến nỗi, thường thường những nhà kinh doanh
+đầu tiên áp dụng những phát minh mới hay thất bại, và chỉ những người kế tục
+họ mới phát tài, vì những người này hưởng được với giá rẻ cả nhà xưởng lẫn
+máy móc, v.v.. Chính vì vậy, trong phần lớn các trường hợp, những nhà tư bản
+17
+Sđd, tr.128.
+18
+Sđd, tr.129.
+19
+Sđd, tr.130.
+20
+Sđd, tr.131.
+21
+Xem: sđd, tr.133-135.
+22
+Xem: sđd, tr.135-141.
+23
+Xem: sđd, tr.159.
+24
+Sđd, tr.164.
+- tiền tệ kém cỏi nhất và tồi tệ nhất lại là những kẻ được hưởng lợi nhiều nhất
+về tất cả những tiến bộ mới của lao động chung và của trí tuệ loài người, về sự
+áp dụng có tính chất xã hội những sự tiến bộ đó bằng lao động kết hợp”25.
+Thứ tư, sự vận động của giá cả nguyên vật liệu:
+Nền kinh tế thị trường tư bản chủ nghĩa là nền kinh tế mở, do đó ngoại
+thương có vai trò quan trọng đối với quá trình tái sản xuất và tỷ suất lợi nhuận
+của từng quốc gia. “Ngoại thương ảnh hưởng đến tỷ suất lợi nhuận, ngay cả
+trong trường hợp ta gác lại không kể đến mọi ảnh hưởng của ngoại thương đối
+với tiền công bằng cách làm cho giá cả những tư liệu sinh hoạt cần thiết giảm
+xuống. Cụ thể là ngoại thương ảnh hưởng đến giá cả nguyên liệu và vật liệu phụ
+dùng trong công nghiệp hay nông nghiệp… Do đó, chúng ta thấy rằng việc bãi
+bỏ hay giảm thuế quan đánh vào nguyên liệu có một tầm quan trọng to lớn như
+thế nào đối với công nghiệp”26.
+Phân tích chu chuyển của tư bản lưu động cho thấy, “Giá trị của nguyên
+liệu và vật liệu phụ mà người ta tiêu dùng để sản xuất ra sản phẩm, chuyển toàn
+bộ và ngay một lần vào giá trị của sản phẩm đó, còn giá trị của những yếu tố tư
+bản cố định thì chỉ chuyển dần dần mỗi lần một ít vào sản phẩm theo với sự hao
+mòn của những yếu tố ấy. Do đó, so với giá cả tư bản cố định thì giá cả của
+nguyên liệu ảnh hưởng đến giá cả của sản phẩm trên một mức độ lớn hơn nhiều,
+tuy rằng tỷ suất lợi nhuận là do tổng số giá trị của tư bản đã bỏ ra quyết định”27.
+Thứ năm, sự tăng lên của cấu tạo hữu cơ của tư bản:
+Dưới tác động của tích lũy tư bản trong điều kiện cạnh tranh nhằm thu lợi
+nhuận cao, sức sản xuất của lao động ngày càng được nâng cao thể hiện sự gia
+tăng không ngừng của cấu tạo hữu cơ tư bản. Tuy nhiên sự gia tăng không
+ngừng của cấu tạo hữu tư bản lại có tác động trái ngược với mục tiêu của kinh
+doanh TBCN, từ đó đã phản ánh ngày càng rõ giới hạn của phương thức sản
+xuất tư bản chủ nghĩa. Theo C.Mác, giới hạn đó “bộc lộ ra như sau:
+Tỷ suất lợi nhuận giảm xuống do sức sản xuất của lao động phát triển, là
+một quy luật, quy luật này đến một lúc nào đó thì xung đột gay gắt với bản thân
+sự phát triển của sức sản xuất của lao động, cho nên luôn luôn phải có những
+cuộc khủng hoảng để khắc phục sự xung đột đó”28.
+“Quyết định sự mở rộng hay thu hẹp sản xuất không phải là cái tỷ lệ giữa
+sản xuất và những nhu cầu của xã hội, những nhu cầu của những con người đã
+25
+Sđd, tr.164-165.
+26
+Sđd, tr.169.
+27
+Sđd, tr.170.
+28
+Sđd, tr.393.
+phát triển về mặt xã hội, mà là sự chiếm đoạt lao động không được trả công và tỷ lệ
+giữa lao động không được trả công ấy với lao động đã vật hóa nói chung”29.
+Từ đó, “Mâu thuẫn giữa quyền lực xã hội chung, mà tư bản chuyển biến
+thành, với quyền lực tư nhân của những nhà tư bản cá biệt đối với những điều
+kiện sản xuất xã hội ấy, ngày càng trở nên gay gắt và đòi hỏi phải thủ tiêu quan
+hệ ấy, vì nó đồng thời đòi hỏi rằng những điều kiện sản xuất ấy cũng phải
+chuyển thành những điều kiện sản xuất chung, tập thể, xã hội. Sự phát triển của
+những lực lượng sản xuất trong nền sản xuất tư bản chủ nghĩa và phương thức
+thực hiện sự phát triển ấy quyết định sự cải biến đó”30.
+Như vậy, có nhiều nhân tố làm tăng tỷ suất lợi nhuận mà các nhà tư bản
+trước đây và cả ngày nay đã sử dụng để làm giàu. Những nhân tố đó cũng cần
+được nhận thức và vận dụng trong nền kinh tế thị trường định hướng xã hội chủ
+nghĩa ở nước ta hiện nay, đặc biệt trong bối cảnh hội nhập kinh tế quốc tế ngày
+càng rộng và sâu. Tuy nhiên từ phân tích tác động của nhân tố cấu tạo hữu cơ
+của tư bản, có thể hình thành nhận thức không đúng, rằng trong thực tiễn thì các
+ngành có cấu tạo hữu cơ tư bản cao, đặc biệt là những ngành đi đầu về khoa học
+công nghệ sẽ có tỷ suất lợi nhuận thấp. Do đó, từ phân tích lợi nhuận, tỷ suất lợi
+nhuận với tư cách là hình thái chuyển hóa của giá trị thặng dư và tỷ suất giá trị
+thặng dư, C.Mác đã đi tới luận giải về biểu hiện của quy luật kinh tế tuyệt đối
+của CNTB với tư cách là sức mạnh chi phối điều tiết các hoạt động kinh tế chủ
+yếu của các nhà tư bản thông qua phân phối và thực hiện lợi ích của tư bản trong
+điều kiện kinh tế thị trường dưới hình thái quy luật lợi nhuận bình quân.
+3.2.1.6. Lợi nhuận bình quân, giá cả sản xuất
+Trong nền kinh tế thị trường tư bản chủ nghĩa sự phát triển của cạnh tranh
+từ nội bộ ngành đến cạnh tranh giữa các ngành tất yếu dẫn tới hình thành lợi
+p'
+nhuận bình quân, là mức lợi nhuận có tác động điều tiết đối với các hoạt động
+sản xuất kinh doanh cơ bản. Lợi nhuận bình quân là lợi nhuận thu được theo tỷ
+suất lợi nhuận bình quân. Tỷ suất lợi nhuận bình quân là con số trung bình của
+các tỷ suất lợi nhuận. Tỷ suất lợi nhuận bình quân được tính bằng số bình quân
+gia quyền của các tỷ suất lợi nhuận như sau:
+Nếu ký hiệu lợi nhuận bình quân là 
+ và giá trị tư bản ứng trước là K thì
+lợi nhuận bình quân được tính như sau:
+29
+Sđd, tr.393.
+30
+Sđd, tr.401.
+Khi lợi nhuận bình quân trở thành quy luật phổ biến chi phối các hoạt
+động kinh doanh trong nền kinh tế thị trường thì giá trị của hàng hóa chuyển hóa
+thành giá cả sản xuất. Giá cả sản xuất là giá cả mang lại lợi nhuận bình quân.
+Nếu ký hiệu giá cả sản xuất là GCSX thì giá cả sản xuất được tính như sau:
+Sự hình thành tỷ suất lợi nhuận bình quân, lợi nhuận bình quân và giá cả
+sản xuất là quá trình lịch sử lâu dài, phản ánh quá trình hình thành và phát triển
+của nền kinh tế thị trường tư bản chủ nghĩa. Những điều kiện hình thành tỷ suất
+lợi nhuận bình quân, lợi nhuận bình quân, giá cả sản xuất bao gồm:
+Thứ nhất, Tư bản tự do di chuyển: trong xã hội việc buôn bán phải được
+hoàn toàn tự do, và tất cả các độc quyền đều phải được xóa bỏ, trừ những độc
+quyền tự nhiên; chế độ tín dụng đã phát triển; các lĩnh vực sản xuất đều hướng
+tới mục tiêu hiệu quả kinh tế cao; dân cư phải có một mật độ lớn.
+Thứ hai, Sức lao động tự do di chuyển: phải bãi bỏ tất cả những đạo luật
+cản trở không cho công nhân chuyển từ lĩnh vực sản xuất này sang lĩnh vực sản
+xuất khác hay từ địa điểm sản xuất này sang một địa điểm sản xuất khác; công
+nhân không quan tâm đến nội dung của lao động của mình, không có thành kiến
+về nghề nghiệp, mục tiêu tìm việc làm và lao động là thu nhập; quy đến mức cao
+nhất lao động trong tất cả các lĩnh vực sản xuất thành lao động giản đơn.
+Trong nền kinh tế thị trường TBCN, lợi nhuận bình quân đã trở thành căn
+cứ cho các nhà tư bản lựa chọn ngành nghề, phương án kinh doanh, do đó, nó là
+quy luật kinh tế điều tiết chi phối các hoạt động sản xuất kinh doanh chủ yếu. Từ
+đó, các hoạt động sản xuất kinh doanh trong các lĩnh vực như sản xuất công
+nghiệp, thương mại, ngân hàng, sản xuất nông nghiệp với mục tiêu thu lợi nhuận
+và lợi nhuận cao đều căn cứ vào lợi nhuận bình quân. Mặc dù cách thức hình
+thành khác nhau nhưng các hình thái cụ thể của lợi nhuận như lợi nhuận công
+nghiệp, lợi nhuận thương nghiệp, lợi nhuận ngân hàng, lợi nhuận nông nghiệp
+đều hướng tới mức tối thiểu là phải ngang bằng lợi nhuận bình quân.
+Trong thực tế lịch sử phát triển kinh tế thế giới, sự hình thành và hoạt
+động của lợi nhuận bình quân thể hiện quan hệ sản xuất TBCN đã trở thành
+thống trị trong đời sống kinh tế, đã làm cho quy luật giá trị - quy luật kinh tế căn
+bản của sản xuất và trao đổi hàng hóa phải hoạt động dưới hình thái chuyển hóa
+là quy luật giá cả sản xuất. Điều đó chứng tỏ, chủ nghĩa tư bản hình thành từ
+kinh tế hàng hóa, phát triển trên cơ sở các quy luật của kinh tế hàng hóa, làm
+cho kinh tế hàng hóa phát triển thành phổ biến, thành kinh tế thị trường. Đồng
+thời điều đó cũng chứng tỏ rằng, CNTB đã tìm ra và biết cách vận dụng các
+phương thức buộc các quy luật của nền kinh tế thị trường phải phục vụ lợi ích
+của các nhà tư bản. CNTB đã sử dụng kinh tế thị trường với tư cách là công cụ
+hữu hiệu để tồn tại, củng cố và phát triển. Những kinh nghiệm đó hoàn toàn có
+thể kế thừa và cần phải vận dụng sáng tạo vào phát triển nền kinh tế thị trường
+định hướng xã hội chủ nghĩa ở Việt Nam.
+Để đẩy nhanh sự phát triển nền kinh tế thị trường định hướng xã hội chủ
+nghĩa ở nước ta cần phải vận dụng lý luận lợi nhuận bình quân, giá cả sản xuất
+vào thực tiễn quản lý nhà nước, đặc biệt là trong việc tạo lập môi trường cạnh
+tranh bình đẳng, lành mạnh thông qua tạo lập các điều kiện thuận lợi cho sự di
+chuyển của các nguồn vốn đầu tư thông qua hoàn thiện khung khổ thể chế, cải
+thiện môi trường kinh doanh, đổi mới và nâng cao hiệu quả hoạt động của doanh
+nghiệp nhà nước, phát triển đồng bộ các loại hình thị trường, đặc biệt là thị
+trường vốn, thị trường sức lao động…, đồng thời từng cá nhân người lao động,
+nhà kinh doanh trên cơ sở đó lựa chọn loại hình lao động kinh doanh phù hợp để
+thực hiện lợi ích của mình.
+3.2.2. Lợi tức
+3.2.2.1. Sự hình thành tư bản cho vay trong nền kinh tế thị trường tư
+bản chủ nghĩa
+Tư bản cho vay được hình thành trước khi nền kinh tế thị trường tư bản
+chủ nghĩa được xác lập dưới hình thái tư bản cho vay nặng lãi. Lợi tức cho vay
+cho vay trước chủ nghĩa tư bản thường ở mức rất cao do người đi vay hoặc là
+các tầng lớp có thu nhập thường xuyên cao sử dụng để bù đắp thanh toán tiêu
+dùng xa hoa hoặc là những người sản xuất nhỏ bù đắp phương tiện thanh toán
+trong những hoàn cảnh cấp thiết.
+Trong quá trình phát triển nền kinh tế thị trường tư bản chủ nghĩa đã hình
+thành hình thái tư bản cho vay mới. Tư bản cho vay trong chủ nghĩa tư bản là bộ
+phận tư bản xã hội dưới hình thái tiền tệ, được tách ra từ sự vận động tuần hoàn
+của tư bản nhất định để gia nhập vào sự vận động tuần hoàn của tư bản khác.
+Tư bản dưới hình thái tiền tệ trong trường hợp này không chỉ bao gồm tư bản
+đang tồn tại dưới hình thái hiện vật là một lượng tiền, mà bao hàm cả những tư
+bản tồn tại dưới những hình thái hiện vật khác như nguyên nhiên vật liệu, tư liệu
+lao động những được quy thành những lượng tiền nhất định.
+Tư bản cho vay trong chủ nghĩa tư bản có đặc điểm:
+Thứ nhất, Quyền sử dụng tách khỏi quyền sở hữu. Chủ thể sở hữu tư bản
+không phải là chủ thể sử dụng, chủ thể sử dụng tư bản chỉ được sử dụng trong
+một thời hạn nhất định và không có quyền sở hữu.
+Thứ hai, Là hàng hóa đặc biệt. Người bán không mất quyền sở hữu, người
+mua chỉ được quyền sử dụng trong một thời gian. Sau khi sử dụng, giá trị sử
+dụng và giá trị của tư bản cho vay không mất đi, mà được bảo tồn, thậm chí còn
+tăng thêm. Giá cả của tư bản cho vay được quyết định bởi giá trị sử dụng của nó
+là khả năng thu được lợi nhuận bình quân, do đó không những không được
+quyết định bởi giá trị, mà còn thấp hơn nhiều so với giá trị
+Thứ ba, Là hình thái tư bản phiến diện nhất song được sùng bái nhất. Tư
+bản cho vay tạo ra ảo tưởng là tiền đẻ ra tiền, che dấu quan hệ bóc lột vì không
+phản ánh rõ nguồn gốc của lợi tức cho vay.
+3.2.2.2. Nguồn gốc, bản chất của lợi tức, tỷ suất lợi tức
+Lợi tức cho vay trong chủ nghĩa tư bản là phần lợi nhuận bình quân mà
+chủ thể sử dụng tư bản nhượng lại cho chủ thể sở hữu tư bản. Lợi tức cho vay
+có nguồn gốc là một bộ phận giá trị thặng dư được tạo ra trong sản xuất, bề
+ngoài chỉ phản ánh quan hệ giữa tư bản sở hữu và tư bản sử dụng, song thực chất
+phản ánh quan hệ giữa tập thể tư bản sở hữu và sử dụng với giai cấp công nhân
+làm thuê.
+Sự hình thành lợi tức cho vay làm cho lợi nhuận bình quân được chia
+thành hai phần: lợi tức (z) và lợi nhuận doanh nghiệp (Pdn), tạo ra nhận thức
+phổ biến là tư bản trực tiếp tạo ra lợi tức, còn tài năng kinh doanh trực tiếp tạo ra
+lợi nhuận doanh nghiệp.
+Tỷ suất lợi tức là tỷ lệ phần trăm giữa lợi tức và tư bản cho vay. Nếu ký
+hiệu tỷ suất lợi tức là z’, tư bản cho vay là TBCV, thì công thức tính tỷ suất lợi
+tức như sau:
+Tỷ suất lợi tức chịu ảnh hưởng của các nhân tố chủ yếu là tỷ suất lợi
+nhuận bình quân và tình hình cung cầu về tư bản cho vay.
+3.2.2.3. Hình thức vận động của tư bản cho vay
+Tư bản cho vay trong nền kinh tế thị trường tư bản chủ nghĩa vận động
+thông qua các hình thức tín dụng. Tín dụng là hình thức vận động của tư bản
+cho vay, phản ánh quan hệ kinh tế giữa chủ thể sở hữu và chủ thể sử dụng tư
+bản cho vay dựa trên các nguyên tắc hoàn trả, có kỳ hạn và có lợi tức.
+Trong nền kinh tế thị trường tư bản chủ nghĩa căn cứ vào tính chất tín
+dụng có thể phân biệt hai loại hình tín dụng cơ bản là tín dụng thương mại và tín
+dụng ngân hàng:
+Tín dụng thương mại là hình thức tín dụng được thực hiện thông qua việc
+mua, bán chịu. Hình thức thực hiện của tín dụng thương mại là kỳ phiếu thương
+mại (thương phiếu). Sự phát triển của tín dụng thương mại đẩy nhanh lưu thông
+hàng hóa, góp phần đẩy nhanh tốc độ chu chuyển của tư bản, tuy nhiên thông
+qua phát triển thương mại trung gian có thể góp phần làm trầm trọng thêm nguy
+cơ khủng hoảng sản xuất thừa. Sự xuất hiện của kỳ phiếu thương mại cung cấp
+cho nền kinh tế công cụ thanh toán mới, tạo điều kiện cho hình thành thanh toán
+không dùng tiền mặt và tín dụng ngân hàng.
+Tín dụng ngân hàng là hình thức tín dụng có sự trung gian của ngân
+hàng. Ngân hàng là tổ chức kinh tế chuyên doanh trong lĩnh vực tiền tệ, có vai
+trò tập trung tư bản nhàn rỗi và tạm thời nhàn rỗi trong nền kinh tế để đưa tới
+nơi cần sử dụng, giải quyết mâu thuẫn giữa cung và cầu về tư bản của các chủ
+thể trong nền kinh tế, góp phần đảm bảo cho tuần hoàn của các tư bản cá biệt có
+thể thực hiện liên tục với hiệu quả cao. Khác với tư bản cho vay chỉ là tư bản
+tiềm thế, tư bản ngân hàng là tư bản hoạt động, tham gia vào cạnh tranh giữa các
+ngành và góp phần bình quân hóa tỷ suất lợi nhuận, do đó tư bản ngân hàng thu
+được lợi nhuận bình quân.
+Tín dụng thương mại là cơ sở hình thành tín dụng ngân hàng, đến lượt
+mình tín dụng ngân hàng phát triển lại có tác động thúc đẩy tín dụng thương mại
+phát triển.
+Tín dụng trong nền kinh tế thị trường tư bản chủ nghĩa có những vai trò
+cơ bản: tiết kiệm chi phí lưu thông; thúc đẩy tích tụ, tập trung tư bản, cạnh tranh,
+san bằng các tỷ suất lợi nhuận; mở rộng sự thống trị của quan hệ sản xuất tư bản
+chủ nghĩa; tạo điều kiện cho sự hình thành phát triển mô hình doanh nghiệp hiện
+đại trên cơ sở xã hội hóa hiện vật - công ty cổ phần; thúc đẩy sự hình thành và
+phát triển của thị trường chứng khoán. Do đó, trong nền kinh tế thị trường hiện
+đại tín dụng trở thành công cụ điều tiết kinh tế của nhà nước.
+3.2.2.4. Công ty cổ phần, tư bản giả và thị trường chứng khoán
+Trên cơ sở phát triển lan rộng của sự tách bạch quyền sở hữu và quyền sử
+dụng tư bản theo sự phát triển của tín dụng, công ty cổ phần đã được thành lập.
+Công ty cổ phần là mô hình doanh nghiệp hoạt động dựa trên nguồn vốn được
+hình thành thông qua phát hành cổ phiếu. Cơ cấu tổ chức của công ty cổ phần
+gồm Hội đồng quản trị, Ban lãnh đạo điều hành và ban kiểm soát. Chủ sở hữu
+công ty cổ phần là các cổ đông, thực hiện quyền lợi của mình với số cổ phần
+nắm giữ thông qua Đại hội cổ đông. Cổ phiếu là giấy chứng nhận quyền sở hữu
+của cổ đông, nó chỉ là bản sao của số tư bản thực đã đầu tư vào hoạt động kinh
+doanh của công ty cổ phần. nhưng mang lại thu nhập cho chủ sở hữu dưới hình
+thái cổ tức. Cổ phiếu có thể mua đi, bán lại trên thị trường theo thị giá cổ phiếu.
+Thị giá cổ phiếu được tính như sau:
+Cổ tức
+Thị giá cổ phiếu =
+Tỷ suất lợi tức nhận gửi của ngân hàng
+Công ty cổ phần có vai trò to lớn đối với thúc đẩy xã hội hóa sản xuất trên
+cơ sở sở hữu tư nhân về vốn, thúc đẩy sự hình thành đội ngũ quản lý kinh doanh
+chuyên nghiệp.
+Sự hình thành và phát triển của thương phiếu, cổ phiếu, trái phiếu đã tạo
+cơ sở cho sự hình thành loại hình tư bản mới là tư bản giả. Tư bản giả là tư bản
+tồn tại dưới hình thức chứng khoán có giá đem lại thu nhập cho người sở hữu
+chúng. Sở dĩ gọi là tư bản giả vì nó chỉ là “bản sao” của tư bản thực tế. Tư bản
+giả có hai loại chủ yếu là cổ phiếu và trái phiếu. Trái phiếu là những giấy ghi
+nhận nợ do công ty, ngân hàng, chính phủ phát hành để vay nợ những người
+mua trái phiếu. Người có trái phiếu công ty chỉ là chủ nợ của công ty, chứ không
+phải là người đồng sở hữu công ty. Tư bản giả có thể vận động hoàn toàn tách
+rời với tư bản thật. Trong một số trường hợp, tư bản thật không còn nhưng tư
+bản giả vẫn còn. Tư bản giả khác tư bản thật không chỉ về chất mà còn khác về
+lượng. Ban đầu giá trị danh nghĩa của các chứng khoán phản ánh giá trị tư bản
+thực tế đầu tư. Nhưng trên thị trường chứng khoán, giá cả của những chứng
+khoán đó không phải là mệnh giá - giá trị danh nghĩa, mà là thị giá chứng khoán.
+Trên thực tế, tổng giá cả của các chứng khoán lớn hơn nhiều lần tổng tư bản
+thực tế đã đầu tư.
+Việc mua bán tư bản giả được thực hiện trên thị trường đặc thù là thị
+trường chứng khoán. Thị trường chứng khoán là loại hình thị trường đặc thù,
+nơi diễn ra các giao dịch về chứng khoán. Thị trường chứng khoán có hai cấp
+độ: Thị trường sơ cấp và thị trường thứ cấp. Thị trường sơ cấp là thị trường phát
+hành chứng khoán lần đầu để huy động vốn, thị trường thứ cấp là thị trường mua
+bán lại các chứng khoán.
+Huy động vốn qua phát hành chứng khoán có sự khác biệt với huy động
+vốn qua ngân hàng: vốn huy động qua ngân hàng thường là vốn ngắn hạn, tín
+dụng ngắn hạn còn vốn huy động qua phát hành chứng khoán là vốn dài hạn, tín
+dụng dài hạn; đối với vốn huy động qua ngân hàng, người sở hữu vốn không biết
+người sử dụng vốn còn đối với vốn huy động vốn qua phát hành chứng khoán,
+người sở hữu biết được tình hình sử dụng vốn họ đã đầu tư. Thị trường chứng
+khoán đáp ứng yêu cầu huy động vốn đầu tư dài hạn, tạo nên môi trường đầu tư
+rất linh hoạt. Tuy nhiên, thị trường này rất dễ biến động, chứa đựng nhiều rủi ro
+đối với các nhà đầu tư chứng khoán.
+3.2.3. Địa tô tư bản chủ nghĩa
+3.2.3.1. Tư bản kinh doanh nông nghiệp
+Tư bản kinh doanh nông nghiệp là bộ phận tư bản xã hội đầu tư vào lĩnh
+vực nông nghiệp. Sự hình thành và trở thành thống trị của tư bản trong sản xuất
+nông nghiệp trong lịch sử phát triển kinh tế thị trường trên thế giới được thực
+hiện thông qua hai con đường. Theo con đường thứ nhất, kinh tế địa chủ phong
+kiến thông qua cải cách mà dần dần chuyển sang kinh doanh theo phương thức
+tư bản chủ nghĩa. Đó là con đường của các nước Đức, Italia, Nhật, Nga ...
+Theo con đường thứ hai, chế độ kinh tế địa chủ cùng quyền sở hữu ruộng
+đất phong kiến được thủ tiêu bằng các biện pháp cách mạng, mở đường cho kinh
+tế tư bản chủ nghĩa nhanh chóng hình thành và phát triển. Đó là con đường diễn
+ra ở Pháp.
+Sự hình thành và trở thành thống trị của tư bản trong nông nghiệp đã tạo
+ra một nền nông nghiệp hợp lý, đẩy nhanh xã hội hoá, áp dụng tiến bộ khoa học
+và công nghệ một cách phổ biến; nâng cao năng suất cây trồng và vật nuôi, năng
+suất ruộng đất và lao động nông nghiệp, nâng cao chất lượng sản phẩm nông
+nghiệp.
+Tuy nhiên, quá trình tích tụ và tập trung tư bản trong nông nghiệp so với
+các lĩnh vực khác có đặc thù là không xoá bỏ hoàn toàn kinh tế hộ và trang trại
+gia đình trong nông nghiệp. Tuy quy mô có khác nhau nhưng kinh tế hộ gia đình
+và trang trại vẫn là những tổ chức kinh tế cơ sở quan trọng của nền nông nghiệp
+tư bản chủ nghĩa.
+Sự hình thành và trở thành thống trị của tư bản trong nông nghiệp dẫn tới
+trong nông nghiệp tư bản chủ nghĩa có ba giai cấp cơ bản: địa chủ là người sở
+hữu ruộng đất, nhưng không trực tiếp kinh doanh mà cho thuê đất; nhà tư bản
+kinh doanh nông nghiệp là người thuê ruộng đất của địa chủ để kinh doanh theo
+phương thức sản xuất tư bản chủ nghĩa; công nhân nông nghiệp là người lao
+động làm thuê cho các nhà tư bản kinh doanh nông nghiệp.
+3.2.3.2. Địa tô tư bản chủ nghĩa
+Kinh doanh trong lĩnh vực sản xuất nông nghiệp, nhà tư bản không những
+phải bù đắp được chi phí sản xuất, thu được lợi nhuận bình quân, mà còn phải
+trả địa tô cho người cho thuê đất để sản xuất. Địa tô tư bản chủ nghĩa là lợi
+nhuận siêu ngạch dôi ra ngoài lợi nhuận bình quân mà nhà tư bản kinh doanh
+nông nghiệp phải trả cho địa chủ vì đã kinh doanh trên ruộng đất của địa chủ.
+Về bản chất địa tô tư bản chủ nghĩa trước hết phải là một phần của giá trị
+nông sản. Để đảm bảo hoạt động kinh doanh nông nghiệp có thể tái tạo liên tục
+ít nhất ở mức bình thường, nhà tư bản kinh doanh nông nghiệp chỉ có thể sử
+dụng một phần giá trị thặng dư thu được để trả cho địa chủ, đồng thời anh ta
+phải thu được lợi nhuận bình quân. Do đó, giá trị thặng dư trong nông nghiệp
+phải lớn đủ mức chia thành hai phần: lợi nhuận bình quân và địa tô tư bản chủ
+nghĩa. Từ đó, xét theo biểu hiện bề ngoài thì địa tô tư bản chủ nghĩa thể hiện
+quan hệ giữa hai giai cấp là nhà tư bản kinh doanh nông nghiệp và địa chủ, song
+về thực chất phản ánh quan hệ giữa một bên là nhà tư bản kinh doanh nông
+nghiệp và địa chủ và bên kia là công nhân làm thuê trong nông nghiệp.
+Địa tô tư bản chủ nghĩa có nhiều loại hình, trong đó chủ yếu là địa tô
+chênh lệch và địa tô tuyệt đối.
+Địa tô chênh lệch là lợi nhuận siêu ngạch dôi ra ngoài lợi nhuận bình
+quân được hình thành trên những ruộng đất có điều kiện kinh doanh trung bình
+và thuận lợi. Địa tô chênh lệch được tính bằng chênh lệch giữa giá cả sản xuất
+chung của nông sản, được hình thành trong những điều kiện kinh doanh kém
+thuận lợi nhất, và giá cả sản xuất cá biệt trên những ruộng đất có điều kiện kinh
+doanh trung bình và thuận lợi. Địa tô chênh lệch có hai loại: địa tô chênh lệch I
+và địa tô chênh lệch II.
+Địa tô chênh lệch I được hình thành trên những ruộng đất có điều kiện tự
+nhiên trung bình và thuận lợi, bao gồm những thuận lợi về mức độ màu mỡ của
+đất và vị trí địa lý của đất, địa tô chênh lệch II do thâm canh mà có. Sự hình
+thành địa tô chênh lệch II dẫn đến mâu thuẫn giữa hai giai cấp nhà tư bản kinh
+doanh nông nghiệp và địa chủ, trong đó địa chủ luôn muốn cho thuê đất với thời
+hạn càng ngắn càng tốt, còn nhà tư bản kinh doanh nông nghiệp lại muốn thời
+hạn thuê đất càng dài càng tốt. Khi thời hạn thuê đất đã được xác định, nhà tư
+bản bằng mọi cách cố gắng khai thác ruộng đất, làm xuất hiện xu hướng độ màu
+mỡ của đất đai giảm dần.
+Địa tô tuyệt đối là địa tô thu được do nông nghiệp lạc hậu tương đối so
+với công nghiệp và các ngành sản xuất khác, đồng thời độc quyền tư hữu ruộng
+đất trong nông nghiệp ngăn cản không cho nông nghiệp tham gia vào cạnh
+tranh bình quân hóa tỷ suất lợi nhuận.
+Ví dụ:
+Trong công nghiệp: 800c + 200v + 200m = 1200
+Trong nông nghiệp: 600c + 400v + 400m = 1400
+Giá trị thặng dư được tạo ra trong nông nghiệp lớn hơn trong công nghiệp
+là 400 m - 200m = 200m. Nếu như phần 200m trong công nghiệp tham gia vào
+quá trình bình quân hóa lợi nhuận, làm cho lợi nhuận bình quân có mức 200 thì
+nhà tư bản kinh doanh nông nghiệp cũng chỉ được nhận lợi nhuận bằng lợi
+nhuận bình quân. Phần giá trị thặng dư dôi ra ngoài mức lợi nhuận bình quân
+được giữ lại để nộp địa tô tuyệt đối cho địa chủ.
+Trong chủ nghĩa tư bản, không phải chỉ đất đai sử dụng vào sản xuất nông
+nghiệp mới phải nộp địa tô, mà tất cả các loại đất - đất xây dựng, đất hầm mỏ -
+cũng phải đem lại địa tô cho người sở hữu chúng. Địa tô đất xây dựng về cơ bản
+được hình thành như địa tô đất nông nghiệp, nhưng trong việc hình thành loại
+địa tô này vị trí của đất đai là yếu tố quyết định nhất, đồng thời loại địa tô này có
+xu hướng tăng lên nhanh chóng do sự phát triển của dân số, do nhu cầu về nhà ở
+tăng lên và do những tư bản cố định sát nhập vào ruộng đất ngày càng tăng lên.
+Địa tô hầm mỏ cũng hình thành và được quyết định như địa tô đất nông nghiệp,
+nhưng trong quá trình hình thành loại địa tô này, giá trị của khoáng sản, hàm
+lượng, trữ lượng của khoáng sản, vị trí và điều kiện khai thác là những yếu tố
+quyết định. Địa tô độc quyền được hình thành trên những ruộng đất có thể trồng
+những loại cây cho sản phẩm quý hiếm, có giá trị cao, hoặc có những khoáng
+sản đặc biệt có giá trị.
+Đất đai trong nền kinh tế tư bản chủ nghĩa không chỉ là đối tượng sử
+dụng, cho thuê mà còn được bán. Giá cả của đất đai không phải là biểu hiện
+bằng tiền của giá trị đất đai. Vì đất đai xét một cách thuần tuý tự nhiên thì không
+phải là sản phẩm của lao động, không có lao động kết tinh, không có giá trị. Vì
+vậy, giá cả của đất đai phản ánh quan hệ kinh tế phái sinh đặc biệt. Giá cả đất
+đai là địa tô tư bản hóa, được tính theo sự biến động của địa tô và tỷ suất lợi tức
+tiền gửi vào ngân hàng. Giá cả đất đai được tính theo công thức sau:
+Địa tô
+Giá cả đất đai =
+Tỷ suất lợi tức nhận gửi của ngân hàng
+Lý luận địa tô tư bản chủ nghĩa của C.Mác không chỉ vạch rõ bản chất
+quan hệ sản xuất tư bản chủ nghĩa trong nông nghiệp mà còn là cơ sở khoa học
+dể xây dựng các chính sách kinh tế liên quan đến thị trường bất động sản, thuế
+đất, đến điều tiết các loại địa tô, đến giải quyết các quan hệ đất đai... nhằm kết
+hợp hài hoà các lợi ích, khuyến khích thâm canh, sử dụng đất đai tiết kiệm, phát
+triển một nền nông nghiệp hàng hoá sinh thái bền vững.
+TÓM TẮT CHƯƠNG
+1. Kinh tế thị trường tư bản chủ nghĩa là nền kinh tế hàng hóa phát triển
+cao, vừa có điểm giống với kinh tế hàng hóa về yếu tố, chủ thể, quan hệ kinh tế,
+vừa khác về mục đích biểu hiện thông qua phạm trù giá trị thặng dư.
+2. Điều kiện căn bản để hình thành nền kinh tế thị trường tư bản chủ nghĩa
+cũng như sự vận động, phát triển của kinh tế thị trường là sức lao động phải trở
+thành hàng hóa phổ biến. Sức lao động là hàng hóa đặc biệt, là điều kiện nền
+tảng quyết định của sản xuất giá trị thặng dư.
+3. Nguồn gốc của giá trị thặng dư trong nền kinh tế thị trường tư bản chủ
+nghĩa là lao động thặng dư của công nhân làm thuê. Bản chất kinh tế - xã hội của
+giá trị thặng dư là quan hệ giai cấp giữa công nhân làm thuê và các nhà tư bản.
+4. Tư bản với tư cách là quan hệ sản xuất thống trị trong nền kinh tế thị
+trường tư bản chủ nghĩa biểu hiện ra dưới nhiều hình thức: tư bản bất biến, tư
+bản khả biến, tư bản cố định, tư bản lưu động.
+5. Giá trị thặng dư được đo lường bằng tỷ suất và khối lượng giá trị thặng
+dư. Các phương pháp cơ bản để gia tăng giá trị thặng dư bao gồm phương pháp
+sản xuất giá trị thặng dư tuyết đối và phương pháp sản xuất giá trị thặng dư
+tương đối.
+6. Giá trị thặng dư có biểu hiện cụ thể thông qua các hình thái lợi nhuận,
+lợi tức, địa tô. Trong nền kinh tế thị trường tư bản chủ nghĩa, lợi nhuận bình
+quân có vai trò điều tiết lợi nhuận, lợi tức và địa tô; giá cả sản xuất có vai trò
+điều tiết giá cả thị trường.
+CÁC THUẬT NGỮ THEN CHỐT
+Hàng hóa sức lao động
+Giá trị thặng dư, tỷ suất giá trị thặng dư, khối lượng giá trị thặng dư
+Tư bản, tư bản bất biến, tư bản khả biến, tư bản cố định, tư bản lưu
+động Chi phí sản xuất, lợi nhuận, tỷ suất lợi nhuận, lợi tức, địa tô
+CÂU HỎI THẢO LUẬN, BÀI TẬP TÌNH HUỐNG
+1. Hãy phân tích làm rõ: Vì sao sức lao động trở thành hàng hóa? Tính
+đặc biệt và vai trò của hàng hóa sức lao động đối với phát triển kinh tế - xã hội
+là như thế nào? Cần làm gì để hoàn thiện thị trường sức lao động trong nền kinh
+tế thị trường ở Việt Nam hiện nay? Lý luận hàng hóa sức lao động có thể vận
+dụng cho sinh viên vào quá trình lập nghiệp sau khi tốt nghiệp như thế nào?
+2. Hãy so sánh phạm trù giá trị thặng dư với phạm trù giá trị? Trong nền 
+kinh tế thị trường nói chung có sự tồn tại của giá trị thặng dư hay không?
+3. Hãy so sánh hai phương pháp sản xuất giá trị thặng dư? Nếu bạn là chủ
+doanh nghiệp thì cần vận dụng lý luận về các phương pháp sản xuất giá trị thặng
+dư như thế nào?
+4. Hãy nêu những vai trò cơ bản của lợi nhuận và tỷ suất lợi nhuận trong
+nền kinh tế nước ta hiện nay? Theo bạn quy luật kinh tế nào đang điều tiết lợi
+nhuận trong nền kinh tế thị trường định hướng xã hội chủ nghĩa? Có thể vận
+dụng các phạm trù này vào thực tiễn sau khi tốt nghiệp ra trường như thế nào?
+5. Hãy phân biệt các phạm trù lợi nhuận, lợi tức và địa tô? Ý nghĩa lý luận
+và thực tiễn?
+CÂU HỎI ÔN TẬP
+1. Nội dung và khả năng vận dụng lý luận hàng hóa sức lao động trong 
+đời sống kinh tế - xã hội ở Việt Nam ngày nay?
+2. Nguồn gốc, bản chất và các phương pháp sản xuất giá trị thặng dư? 
+Định hướng vận dụng trong đời sống kinh tế - xã hội ở Việt Nam ngày nay?
+3. Nội dung và khả năng vận dụng lý luận lợi nhuận, lợi tức, địa tô trong 
+đời sống kinh tế - xã hội ở Việt Nam ngày nay?
+TÀI LIỆU HỌC TẬP:
+Tài liệu tham khảo bắt buộc
+1. C.Mác và Ph.Ăng-ghen, Toàn tập, Tập 23, Nxb Chính trị quốc gia, Hà 
+Nội, 2002, tr.250-296.
+2. C.Mác và Ph.Ăng-ghen, Toàn tập, Tập 25, Nxb Chính trị quốc gia, Hà 
+Nội, 2002, Phần I, 47-83.
+Tài liệu tham khảo tự chọn
+1. Đảng Cộng sản Việt Nam, Văn kiện Đại hội Đại biểu toàn quốc lần thứ 
+XII (2016), Nxb Chính trị quốc gia, Hà Nội, tr. 55-132.
+2. PGS,TS Đoàn Xuân Thủy - chủ biên (2016), Phân phối lợi nhuận: Từ
+lý luận của C.Mác đến thực tiễn ngày nay. NXB Thông tin và Truyền thông, Hà
+Nội.
+chương 3. Trong quá trình đó, người sử dụng lao động là người tổ chức, quản lý;
+người lao động là người bị quản lý. Kết quả của quá trình lao động là hàng hóa,
+dịch vụ trong đó chứa đựng giá trị và giá trị thặng dư mà người lao động đã tạo
+ra. Sau khi thực hiện giá trị và giá trị thặng dư, người lao động được trả lương,
+người sử dụng lao động nhận được lợi nhuận. Lợi ích kinh tế của hai bên đã
+được thực hiện.
+Như vậy, quan hệ lợi ích kinh tế giữa người lao động và người sử dụng
+lao động được bắt đầu từ thị trường lao động, đến việc sử dụng sức lao động
+trong các hoạt động sản xuất - kinh doanh và kết thúc bằng việc thực hiện giá trị
+và giá trị thặng dư trên thị trường hàng hóa, dịch vụ. Quá trình đó chịu ảnh
+hưởng của rất nhiều nhân tố nên không phải khi nào cũng được kết thúc tốt đẹp.
+Người lao động và người sử dụng lao động luôn phải cạnh tranh và hợp tác với
+nhau.
+Phương thức thực hiện quan hệ lợi ích kinh tế giữa những người sử dụng
+lao động. Những người sử dụng lao động trước hết cạnh tranh với nhau trong
+cùng ngành kinh doanh. Họ cạnh tranh với nhau trong việc mua các yếu tố đầu
+vào (thuê đất đai, vốn, sức lao động…). Cạnh tranh giữa họ có thể làm giá cả các
+yếu tố sản xuất tăng lên. Sau khi mua được các yếu tố sản xuất cần thiết, người
+sử dụng lao động tiến hành quá trình sản xuất hàng hóa, dịch vụ. Để thực
+hiện lợi ích của mình và cạnh tranh với những người sản xuất, kinh doanh cùng
+ngành, họ phải tìm mọi cách để nâng cao chất lượng hàng hóa, dịch vụ; tiết giảm
+mọi chi phí đến mức có thể để có thể bán được hàng hóa, dịch vụ với mức giá
+thu hồi được vốn và có lãi.
+Những người sử dụng lao động ở các ngành kinh doanh khác nhau cũng
+cạnh tranh với nhau. Họ di chuyển vốn đầu tư từ những ngành có tỷ suất lợi
+nhuận thấp sang những ngành có tỷ suất lợi nhuận cao. Quá trình đó chỉ chấm
+dứt khi sự chênh lệch tỷ suất lợi nhuận không còn nữa (hình thành tỷ suất lợi
+nhuận bình quân). Khi tỷ suất lợi nhuận bình quân hình thành, hàng hóa, dịch vụ
+được bán theo giá cả sản xuất (chi phí sản xuất cộng với lợi nhuận bình quân).
+Khi đó, lợi ích kinh tế của người sử dụng lao động được thực hiện bằng cách
+chia giá trị thặng dư theo vốn (tư bản). Như vậy, quan hệ lợi ích kinh tế giữa
+những người sử dụng lao động được thực hiện thông qua cạnh tranh và hợp tác
+giữa họ với nhau trên thị trường.
+Phương thức thực hiện quan hệ lợi ích giữa những người lao động. Lợi
+ích kinh tế của người lao động được thực hiện khi họ có việc làm, từ đó có thu
+nhập để bảo đảm cuộc sống. Để có việc làm và thu nhập, người lao động phải
+cạnh tranh với nhau trên thị trường lao động, đặc biệt là khi cung về lao động
+vượt cầu về lao động. Để cạnh tranh với nhau, người lao động có thể học tập,
+nâng cao tay nghề, nâng cao sức khỏe, thể lực… Điều này phù hợp với yêu cầu
+phát triển nguồn nhân lực, với lợi ích xã hội. Tuy nhiên, cạnh tranh với nhau
+người lao động buộc phải chấp nhận hạ thấp tiền lương hoặc tăng cường độ lao
+động, hoặc kéo dài thời gian lao động.
+Trong điều kiện dân số và lao động gia tăng nhanh, vượt quá mức tăng
+cầu về lao động thì khó tránh khỏi tình trạng một bộ phận người lao động không
+tìm được việc làm, bị thất nghiệp. Khi đó, người lao động cũng không thể giúp
+nhau và tình trạng người lao động bị bần cùng là không tránh khỏi.
+Phương thức thực hiện quan hệ giữa lợi ích người lao động, lợi ích người
+sử dụng lao động và lợi ích xã hội. Lợi ích kinh tế của người lao động và người
+sử dụng lao động được các chủ thể trực tiếp chăm lo, thực hiện. Trong cơ chế thị
+trường, lợi ích xã hội không có chủ thể trực tiếp chăm lo, nhưng - theo nhà kinh
+tế học cổ điển A. Smith (1723 – 1790) - khi các chủ thể chăm lo cho lợi ích của
+mình thì nền kinh tế thị trường xuất hiện “bàn tay vô hình” chăm lo lợi ích xã
+hội. Nếu người lao động tích cực, say mê, sáng tạo trong lao động; người sử
+dụng lao động chăm lo cho các hoạt động kinh doanh, không làm tổn hại lợi ích
+của bất cứ chủ thể nào thì khi lợi ích kinh tế của họ được thực hiện thì lợi ích xã
+hội cũng đồng thời, được thực hiện.
+Lợi ích lớn nhất của xã hội (hay đất nước) là phát triển. Khi lợi ích xã hội
+(hay lợi ích quốc gia) được thực hiện có nghĩa là đất nước phát triển. Đó là cơ
+sở, tiền đề để thực hiện các lợi ích khác. Vì vậy, chăm lo và bảo vệ lợi ích quốc
+gia là nghĩa vụ của mọi công dân, của mọi chủ thể kinh tế và của nhà nước.
+7.1.5.2. Tác động của nhà nước đến quan hệ các lợi ích kinh tế
+Trong nền kinh tế thị trường hiện đại, nhà nước là một chủ thể kinh tế, có
+lợi ích riêng. Lợi ích kinh tế của nhà nước được thực hiện bằng việc thu thuế với
+các tổ chức và cá nhân. Nguồn thu từ thuế càng tăng, lợi ích nhà nước càng được
+bảo đảm. Do đó, nhà nước cũng có quan hệ lợi ích, vừa thống nhất, vừa mâu
+thuẫn với các chủ thể khác. Nếu mức thuế tăng, lợi ích kinh tế nhà nước được
+thực hiện nhưng lợi ích của các chủ thể khác có thể bị tổn hại và ngược lại.
+Đồng thời, nhà nước còn là người đại diện cho lợi ích xã hội. Nhà nước chăm lo
+và bảo vệ lợi ích xã hội và lợi ích chính đáng của các chủ thể bằng các quy định
+pháp luật, hành chính, kinh tế…
+Trên thị trường lao động, người lao động và người sử dụng lao động
+không phải khi nào cũng gặp được nhau. Nhà nước có thể hỗ trợ cho việc thành
+lập và hoạt động của các tổ chức môi giới việc làm. Khi cung lao động vượt quá
+cầu lao động, nhà nước có thể hỗ trợ thị trường bằng việc kích cầu về lao động
+bằng việc mở rộng đầu tư công xây dựng các công trình kết cấu hạ tầng, thực
+hiện các chương trình giải quyết việc làm, xuất khẩu lao động… Trong dài hạn
+và trung hạn, nhà nước có thể tác động đến cung về lao động bằng các chương
+trình dân số, kế hoạch hóa gia đình; phát triển giáo dục, đào tạo nghề…
+Ởcác nước đang phát triển, cung lao động thường vượt cầu lao động nên
+người lao động thường ở vào thế yếu trong quan hệ với người sử dụng lao động
+và phải chấp nhận mức tiền lương rất thấp. Để bảo vệ lợi ích kinh tế người lao
+động, nhà nước thường đưa ra quy định mức tiền lương tối thiểu, cao hơn mức
+cân bằng trên thị trường. Nhà nước còn hỗ trợ người lao động bằng các quy định
+về ký kết các thỏa ước về hợp đồng lao động.
+Để hỗ trợ, bảo vệ lợi ích kinh tế của những người sử dụng lao động, nhà
+nước có thể trợ giúp người sử dụng lao động về thông tin thị trường, xúc tiến
+đầu tư và xúc tiến bán hàng, hỗ trợ về thuế, lãi suất… Để hạn chế mâu thuẫn,
+xung đột giữa người lao động và người sử dụng lao động, nhà nước còn đưa các
+quy định về đình công, bãi công, sa thải nhân công…
+Trong cơ chế thị trường, những hiện tượng lừa đảo, gian lận, buôn lậu…
+diễn ra khá phổ biến. Để bảo vệ lợi ích doanh nghiệp, lợi ích người tiêu dùng và
+lợi ích đất nước, nhà nước phải sử dụng nhiều loại công cụ khác nhau, cả pháp
+luật và giáo dục; hành chính và kinh tế… Khi nền kinh tế tăng trưởng nóng hoặc
+trì trệ, suy giảm, vì lợi ích quốc gia và lợi ích kinh tế của các chủ thể, nhà nước
+phải can thiệp, điều tiết.
+Do đó, người lao động, người sử dụng lao động và các chủ thể khác tuân
+thủ các quy định của nhà nước khi thực hiện các lợi ích kinh tế của mình chính
+là họ đã góp phần phát triển đất nước, thực hiện lợi ích xã hội.
+Như vậy, trong cơ chế thị trường phương thức thực hiện các quan hệ lợi
+ích kinh tế là hợp tác và cạnh tranh, dưới sự tác động của các quy luật thị
+trường. Đồng thời, các quan hệ lợi ích còn chịu sự tác động mạnh mẽ bởi sự can
+thiệp, điều tiết của nhà nước.
+7.2. CÁC QUAN HỆ LỢI ÍCH KINH TẾ CHỦ YẾU TRONG NỀN KINH TẾ
+THỊ TRƯỜNG Ở VIỆT NAM
+7.2.1. Quan hệ lợi ích giữa người lao động và người sử dụng lao động
+Người lao động là người có đủ thể lực và trí lực để lao động, tức là có khả
+năng lao động. Khi họ bán sức lao động sẽ nhận được tiền lương (hay tiền công)
+và chịu sự quản lý, điều hành của người sử dụng lao động.
+Người sử dụng lao động là chủ doanh nghiệp, cơ quan, tổ chức, hợp tác
+xã, hộ gia đình, cá nhân có thuê mướn, sử dụng lao động theo hợp đồng lao
+động. Là người trả tiền mua hàng hóa sức lao động nên người sử dụng lao động
+có quyền tổ chức, quản lý quá trình làm việc của người lao động. Người lao
+động và người sử dụng lao động là hai loại chủ thể quan trọng nhất của nền kinh
+tế thị trường vì họ trực tiếp cung ứng hàng hóa, dịch vụ cho thị trường.
+Lợi ích kinh tế của người sử dụng lao động thể hiện tập trung ở lợi nhuận
+mà họ thu được trong quá trình kinh doanh. Lợi ích kinh tế của người lao động
+thể hiện tập trung ở tiền lương mà họ nhận được từ việc bán sức lao động của
+mình cho người sử dụng lao động. Lợi ích kinh tế của người lao động và người
+sử dụng lao động có quan hệ chặt chẽ, vừa thống nhất, vừa mâu thuẫn với nhau.
+Sự thống nhất về lợi ích kinh tế giữa người lao động và người sử dụng lao
+động thể hiện: nếu người sử dụng lao động thực hiện các hoạt động kinh tế một
+cách bình thường họ sẽ thu được lợi nhuận, thực hiện được lợi ích kinh tế của
+mình; đồng thời, họ sẽ tiếp tục sử dụng lao động nên người lao động cũng thực
+hiện được lợi ích kinh tế của mình vì có việc làm, nhận được tiền lương. Ngược
+lại, nếu người lao động tích cực làm việc, lợi ích kinh tế của họ được thực hiện
+thông qua tiền lương được nhận, đồng thời, góp phần vào sự gia tăng lợi nhuận
+của người sử dụng lao động. Vì vậy, tạo lập sự thống nhất trong quan hệ lợi ích
+giữa người lao động và người sử dụng lao động là điều kiện quan trọng thực
+hiện lợi ích kinh tế của cả hai bên.
+Tuy nhiên, quan hệ lợi ích kinh tế, giữa người lao động và người sử dụng
+lao động còn có sự mâu thuẫn. Tại một thời điểm nhất định, thu nhập từ các hoạt
+động kinh tế là xác định nên lợi nhuận của người sử dụng lao động tăng lên thì
+tiền lương của người lao động giảm xuống và ngược lại. Vì lợi ích của mình,
+người sử dụng lao động luôn tìm cách giảm tới mức thấp nhất các khoản chi phí
+trong đó có tiền lương của người lao động để tăng lợi nhuận; người lao động đấu
+tranh đòi tăng lương. Nếu mâu thuẫn không được giải quyết hợp lý sẽ ảnh hưởng
+xấu tới các hoạt động kinh tế.
+Để bảo vệ lợi ích kinh tế của mình, người lao động và người sử dụng lao
+động đã thành lập các tổ chức riêng. Công đoàn là tổ chức quan trọng nhất bảo
+vệ quyền lợi người lao động. Người sử dụng lao động có các nghiệp đoàn, hội
+nghề nghiệp…
+7.2.2. Quan hệ lợi ích giữa những người sử dụng lao động
+Những người sử dụng lao động cũng có quan hệ lợi ích với nhau. Trong
+cơ chế thị trường, những người sử dụng lao động vừa là đối tác, vừa là đối thủ
+của nhau, từ đó tạo ra sự thống nhất và mâu thuẫn về lợi ích kinh tế giữa họ.
+Những người sử dụng lao động liên kết và cạnh tranh với nhau trong ứng xử với
+người lao động, với những người cho vay vốn, cho thuê đất, với nhà nước, trong
+chiếm lĩnh thị trường…
+Trong cơ chế thị trường, mâu thuẫn về lợi ích kinh tế giữa những người sử
+dụng lao động làm cho họ cạnh tranh với nhau quyết liệt. Hệ quả tất yếu là
+không ít các các nhà doanh nghiệp bị thua lỗ, phá sản… bị loại bỏ khỏi thương
+trường. Đồng thời, những người chiến thắng nhanh chóng trưởng thành.
+Sự thống nhất về lợi ích kinh tế làm cho những người sử dụng lao động
+liên kết chặt chẽ với nhau, hỗ trợ lẫn nhau. Sự thống nhất và mâu thuẫn về lợi
+ích kinh tế giữa những người sử dụng lao động làm cho họ trở thành đội ngũ
+doanh nhân, đóng góp quan trọng vào sự phát triển nền kinh tế. Sự thống nhất và
+mâu thuẫn về lợi ích kinh tế trở thành động lực cho sự phát triển đội ngũ những
+người sử dụng lao động (đội ngũ doanh nhân).
+7.2.3. Quan hệ lợi ích giữa những người lao động
+Trong nền kinh tế thị trường, nhiều người muốn bán sức lao động. Để
+thực hiện lợi ích kinh tế của mình, người lao động không chỉ phải quan hệ với
+người sử dụng lao động, mà còn phải quan hệ với nhau. Nếu có nhiều người bán
+sức lao động, người lao động phải cạnh tranh với nhau. Hậu quả là tiền lương
+của người lao động bị giảm xuống, một bộ phận người lao động bị sa thải. Nếu
+những người lao động thống nhất được với nhau, họ có thể thực hiện được các
+yêu sách của mình (ở một chừng mực nhất định) đối với giới chủ (những người
+sử dụng lao động).
+Để hạn chế mâu thuẫn lợi ích kinh tế trong nội bộ, những người lao động
+đã thành lập tổ chức riêng của mình để thống nhất hành động.
+7.2.4. Quan hệ giữa lợi ích cá nhân, lợi ích nhóm và lợi ích xã hội
+Trong cơ chế thị trường, cá nhân tồn tại dưới nhiều hình thức. Người lao
+động, người sử dụng lao động đều là thành viên của xã hội nên người lao động,
+người sử dụng lao động đều có lợi ích cá nhân và có quan hệ chặt chẽ với lợi ích
+xã hội. Nếu người lao động và người sử dụng lao động làm việc theo đúng các
+quy định của pháp luật và thực hiện được các lợi ích kinh tế của mình thì họ đã
+góp phần phát triển nền kinh tế, thực hiện lợi ích kinh tế của xã hội. Khi lợi ích
+kinh tế của xã hội được thực hiện sẽ tạo lập môi trường thuận lợi để người lao
+động và người sử dụng lao động thực hiện tốt hơn các lợi ích kinh tế của mình.
+Ngược lại, nếu giữa người lao động và người sử dụng lao động nảy sinh
+mâu thuẫn không giải quyết được; hoặc người lao động và người sử dụng lao
+động cộng tác với nhau là hàng giả, hàng nhái, trốn thuế… thì lợi ích kinh tế của
+xã hội sẽ bị tổn hại. Biểu hiện là nền kinh tế chậm phát triển, chất lượng cuộc
+sống của người dân chậm được cải thiện… Từ đó ảnh hưởng xấu đến lợi ích
+kinh tế của các chủ thể, trong đó có lợi ích kinh tế của người lao động và người
+sử dụng lao động. Quan hệ lợi ích giữa các chủ thể trên cho thấy, lợi ích cá nhân
+và lợi ích xã hội có quan hệ nhiều chiều.
+Cá nhân bao giờ cũng là thành viên của một cộng đồng nhất định, gắn bó
+mật thiết với cộng đồng ấy. Một mặt, cá nhân góp phần tạo nên sự tồn tại và
+phát triển của cộng đổng, mặt khác, đời sống của cá nhân cũng bị quy định hết
+sức chặt chẽ bởi sự tồn tại và phát triển của cộng đồng xã hội. Điều đó có nghĩa
+là việc thực hiện các lợi ích cá nhân hay lợi ích xã hội bao giờ cũng có ảnh
+hưởng qua lại với nhau. Mối quan hệ giữa lợi ích cá nhân và lợi ích xã hội có ý
+nghĩa quyết định không chỉ với sự phát triển của từng cá nhân, mà còn đối với
+sự phát triển của toàn xả hội. Thông thường, lợi ích cá nhân bao giờ cũng là
+động lực trực tiếp và mạnh mẽ nhất, thúc đẩy hoạt động của cá nhân. Vì thế,
+có thể nói, lợi ích cá nhân là cơ sở để thực hiện lợi ích xã hội (nếu như lợi ích cá
+nhân và lợi ích xã hội thống nhất với nhau). Ngược lại, lợi ích xã hội trong
+trường hợp này lại là điều kiện và đóng vai trò định hướng trong việc thực hiện
+lợi ích cá nhân. Vì vậy, khi xem xét mối quan hệ giữa lợi ích cá nhân và lợi ích
+xã hội, cần đặt chúng trong các mối quan hệ căn bản của một cá nhân với cả
+cộng đồng xã hội. Quan hệ giữa cá nhân và xã hội bao giờ cũng được thực hiện
+theo các nguyên tắc nhất định, được thể hiện dưới hình thức các bộ luật, các lệ,
+khế ước xã hội cụ thể.
+Trong hệ thống các quan hệ xã hội, quan hệ giữa quyền và nghĩa vụ của
+cá nhân và xã hội là quan hệ phản ánh mối tương quan giữa lợi ích cá nhân và
+lợi ích xã hội. Lợi ích cá nhân và lợi ích xã hội có sự thống nhất nhất định và
+được thể hiện ở những khía cạnh sau:
+Thứ nhất, lợi ích cá nhân là cơ sở, là nền tảng của lợi ích xã hội. Trong
+quá trình hoạt động thực hiện lợi ích cá nhân của mình, các chủ thể cũng sẽ tạo
+ra những điều kiện cho việc thực hiện lợi ích cá nhân của các chủ thể khác, đồng
+thời tham gia vào lợi ích xã hội, đóng góp cho lợi ích của xã hội, cộng đồng, mà
+anh ta là một thành viên. Chẳng hạn, một cá nhân bỏ vốn kinh doanh, nhằm thu
+lợi nhuận, cá nhân đó cũng đổng thời tạo việc làm, thu nhập cho những cá nhân
+khác, tạo ra lợi ích xã hội như giảm tỷ lệ thất nghiệp, tăng sản phẩm quốc dân,
+tăng thu ngân sách nhà nước...
+Xã hội càng phát triển nhu cầu, lợi ích của cá nhân càng cao. Nhưng xã
+hội phát triển bao giờ cũng thông qua hành động của các cá nhân. Và như vậy,
+động lực thúc đẩy con người trong hoạt động để thỏa mãn nhu cầu, lợi ích của
+họ cũng chính là động lực thúc đẩy xã hội.
+Thứ hai, lợi ích xã hội tạo ra những điều kiện, phương tiện, môi trường
+thuận lợi cho hoạt động thực hiện lợi ích cá nhân. Không một cá nhân, một lĩnh
+vực, một địa phương nào có thể tồn tại tách khỏi cộng động, xã hội, quốc gia.
+Chủ thể lợi ích chỉ có thể hoạt động thực hiện lợi ích cá nhân của mình trong
+một môi trường xã hội an toàn, ổn định, nhờ những điều kiện, những phương
+tiện do xã hội tạo ra và được xã hội cho phép. Cá nhân chỉ có thể kinh doanh lâu
+dài trong một môi trường chính trị ổn định. Hoạt động kinh doanh của cá nhân
+cũng phải nhờ vào hệ thống giao thông thuận lợi, hê thống pháp luật nghiém
+minh. Việc tăng nguổn thu ngân sách với tư cách là lợi ích xã hội cho phép nhà
+nước đầu tư xây dựng kết cấu hạ tầng và đó chính là những điều kiện thuận lợi
+cho các chủ thể theo đuổi lợi ích cá nhân của mình. Vì vậy, trong quá trình hoạt
+động thực hiện lợi ích cá nhân, các chủ thê phải có trách nhiệm và nghĩa vụ
+tham gia đóng góp vào lợi ích xã hội.
+Sự tổn tại và phát triển của cộng đồng, xã hội quyết định sự tồn tại, phát
+triển của cá nhân. Vì vậy, lợi ích xã hội đóng vai trò quan trọng trong việc định
+hướng cho lợi ích cá nhân và các hoạt động thực hiện lợi ích cá nhân. Lợi ích xã
+hội là cơ sở của sự thống nhất giữa các lợi ích cá nhân, qua đó, tạo ra sự thống
+nhất trong hoạt động của các chủ thể khác nhau trong xã hội. Ph. Ăngghen đã
+từng khẳng định: “Ở đâu không có lợi ích chung, thì ở đó không thể có sự thông
+nhất về mục đích và cũng không thể có sự thống nhất về hành động được”51.
+Các cá nhân, tổ chức hoạt động trong cùng ngành, cùng lĩnh vực, liên kết
+với nhau trong hành động để thực hiện tốt hơn lợi ích riêng (lợi ích cá nhân, tổ
+chức) của họ hình thành nên “lợi ích nhóm”. Đó là các hiệp hội ngành nghề, các
+tổ chức chính trị, xã hội, các nhóm dân cư chung một số lợi ích theo vùng, theo
+sở thích... Các cá nhân, tổ chức hoạt động trong các ngành, lĩnh vực khác nhau
+nhưng có mối liên hệ với nhau, liên kết với nhau trong hành động để thực hiện
+tốt hơn lợi ích riêng mình hình thành nên “nhóm lợi ích”. Đó là mô hình liên kết
+giữa 4 nhà trong nông nghiệp: nhà nông – nhà doanh nghiệp – nhà khoa học –
+nhà nước; mô hình liên kết trên thị trường nhà ở: nhà doanh nghiệp kinh doanh
+bất động sản – ngân hàng thương mại – người mua nhà...
+“Lợi ích nhóm” và “nhóm lợi ích” nếu phù hợp với lợi ích quốc gia,
+không gây tổn hại đến các lợi ích khác cần được tôn trọng, bảo vệ và tạo điều
+kiện phát triển; ngược lại, khi chúng mâu thuẫn với lợi ích quốc gia, làm tổn hại
+các lợi ích khác thì cần phải ngăn chặn.
+Hộp 7.1: Lợi ích nhóm
+Lợi ích nhóm thực ra là sự câu kết của những cán bộ đương chức thoái hoá biến chất với
+những kẻ lợi dụng những người này để có được những cơ chế, chính sách có lợi cho mình.
+Đơn giản chỉ cần một chữ ký, một cái thư tay để thuận tiện trong trong việc cấp đất, cấp dự
+án cũng sẽ đem lại những lợi ích vô cùng lớn, nhưng không phải cho nhân dân mà là cho
+một nhóm nhỏ người. Lợi ích nhóm có nhiều cách biểu hiện bằng nhiều phương thức, thủ
+đoạn khác nhau, nhưng không thể không nhận diện được và phòng ngừa, ngăn chặn nó. Vì
+vậy, phải triệt để xoá bỏ cơ chế "xin - cho", "duyệt - cấp", tăng cường minh bạch, công khai
+hoá để phòng, chống triệt để “lợi ích nhóm”.
+Cao Văn Thống - Trần Duy Hưng
+http://tcnn.vn/Plus.aspx/vi/News/125/0/1010067/0/39258/Giai_
+phap_phong_chong_loi_ich_nhom
+Trong thực tế, “lợi ích nhóm” và “nhóm lợi ích” có sự tham gia của công 
+chức, viên chức hoặc các cơ quan công quyền sẽ tác động tiêu cực đến lợi ích xã
+51 C.Mác - Ph.Ảngghen (1995), Toàn tập, Tập 8, Nxb, Chính trị quốc gia, Hà Nội – tr.28.
+hội và các lợi ích kinh tế khác vì quyền lực nhà nước sẽ bị lạm dụng và phục vụ
+cho lợi ích của các cá nhân. Tuy nhiên, “lợi ích nhóm” và “nhóm lợi ích” tiêu
+cực thường không lộ diện. Vì vậy, việc chống lợi ích nhóm” và “nhóm lợi ích”
+tiêu cực vô cùng khó khăn. Tuy nhiên, bảo đảm sự thống nhất giữa lợi ích cá
+nhân và lợi ích xã hội đòi hỏi việc chống lợi ích nhóm” và “nhóm lợi ích” tiêu
+cực phải được thực hiện quyết liệt, thường xuyên.
+7.3. ĐẢM BẢO HÀI HÒA CÁC LỢI ÍCH KINH TẾ TRONG PHÁT
+TRIỂN Ở VIỆT NAM
+7.3.1. Quan niệm về sự hài hòa giữa các lợi ích kinh tế
+Hài hoà là sự ổn định, sự thống nhất của các mặt đối lập của sự vật; sự
+vận động trong sự phối hợp nhịp nhàng giữa những mặt khác biệt nhằm duy trì
+cho sự vật tồn tại, mà chưa thể và chưa có khả năng chuyển hoá thành sự vật
+khác. Hài hòa là cơ sở sự tồn tại lâu dài của sự vật.
+Hài hòa các lợi ích kinh tế là sự thống nhất biện chứng giữa lợi ích kinh tế
+của các chủ thể, trong đó mặt mâu thuẫn được hạn chế, trách được va chạm,
+xung đột; mặt thống nhất được khuyến khích, tạo điều kiện phát triển cả chiều
+rộng và chiều sâu, từ đó tạo động lực thúc đẩy các hoạt động kinh tế, góp phần
+thực hiện tốt hơn các lợi ích kinh tế, đặc biệt là lợi ích xã hội.
+Để có sự hài hòa giữa các lợi ích kinh tế chỉ có kinh tế thị trường là không
+đủ vì các lợi ích kinh tế luôn vừa thống nhất, vừa mâu thuẫn với nhau, mà cần có
+sự can thiệp của nhà nước. Bảo đảm hài hòa các lợi ích kinh tế là sự can thiệp
+của nhà nước bằng các công cụ giáo dục, pháp luật, hành chính, kinh tế… nhằm
+hạn chế mâu thuẫn, tăng cường sự thống nhất, thực hiện tốt hơn các lợi ích kinh
+tế.
+7.3.2. Nội dung đảm bảo hài hòa các lợi ích kinh tế
+7.3.2.1. Phát triển bền vững
+Mức độ thực hiện các lợi ích kinh tế phụ thuộc vào số lượng, chất lượng
+hàng hóa, dịch vụ mà các chủ thể nhận được. Ở tầm vĩ mô, các lợi ích kinh tế
+phụ thuộc tốc độ, chất lượng tăng trưởng; sự ổn định của tăng trưởng kinh tế
+trong dài hạn. Đồng thời, phương thức và mức độ thỏa mãn các nhu cầu vật chất
+luôn được thực hiện trong môi trường xã hội, môi trường tự nhiên an toàn, ổn
+định. Nói cách khác, phát triển bền vững là cơ sở đảm bảo cho việc thực hiện
+các lợi ích kinh tế.
+Khái niệm phát triển bền vững do Liên minh quốc tế bảo tồn thiên nhiên
+(UICN) đưa ra vào đầu thập niên tám mươi của thế kỷ XX được nhiều tổ chức
+quốc tế sử dụng và tiếp tục nghiên cứu nhằm bổ sung và hoàn thiện. Năm 1987,
+Ngân hàng thế giới (WB) định nghĩa phát triển bền vững là: “Sự phát triển đáp
+ứng các nhu cầu hiện tại mà không làm nguy hại đến khả năng đáp ứng nhu cầu
+của các thế hệ tương lai”. Định nghĩa đơn giản này là điểm khởi đầu quan trọng
+cho những nghiên cứu tiếp theo, ngày càng sâu sắc hơn.
+Các nhu cầu được hiểu theo nghĩa rộng, bao gồm cả nhu cầu vật chất và
+nhu cầu tinh thần. Việc đáp ứng các nhu cầu hiện tại mà không làm nguy hại đến
+khả năng đáp ứng nhu cầu của các thế hệ tương lai đòi hỏi phải chuyển giao các
+nguồn lực sẵn có từ thế hệ này sang thế hệ khác: các nguồn tài nguyên thiên
+nhiên, kết cấu hạ tầng kinh tế - xã hội, các nguồn vốn, các năng lực của con
+người…  Đến  Hội  nghị thượng  đỉnh  thế giới  về phát  triển  bền  vững  ở
+Johannesbug (Cộng hoà Nam Phi) năm 2002, khái niệm phát triển bền vững
+được làm rõ hơn, theo đó, phát triển bền vững là quá trình phát triển có sự kết
+hợp chặt chẽ, hài hoà giữa tăng trưởng kinh tế, cải thiện các vấn đề xã hội và
+bảo vệ môi trường.
+Như vậy, phát triển bền vững là cơ sở để thực hiện lợi ích kinh tế của mọi
+chủ thể, không chỉ của thế hệ hiện tại, mà cả cho các thế hệ tương lai. Vì vậy,
+phát triển bền vững cần được sự quan tâm của mọi chủ thể, trước hết là nhà
+nước.
+Để phát triển bền vững cần các điều kiện: kinh tế thị trường có môi trường
+thuận lợi để phát triển; các thành tựu khoa học - công nghệ ngày càng nhiều và
+được ứng dụng để nâng cao năng suất, chất lượng, hiệu quả của nền kinh tế; nhà
+nước pháp quyền thật sự hành động vì lợi ích chính đáng của người dân và đất
+nước; thể chế chính trị, xã hội tương hợp với thể chế kinh tế; quan hệ giữa tăng
+trưởng kinh tế, phát triển xã hội và bảo vệ môi trường thật sự hài hòa...
+7.3.2.2. Hạn chế gia tăng giãn cách về thu nhập, ngăn chặn xung đột
+giữa các lợi ích kinh tế
+Dưới sự tác động của các quy luật thị trường, sự phân hóa về mức thu
+nhập, mức sống giữa các tầng lớp dân cư mang tính tất yếu. Điều đó có nghĩa là
+việc thực hiện các lợi ích kinh tế sẽ rất khác nhau, nguy cơ căng thẳng, xung đột
+giữa các tầng lớp dân cư hoàn toàn có thể xảy ra. Lịch sử phát triển của các
+nước đi trước đã minh chứng cho điều đó.
+Hạn chế gia tăng giãn cách về thu nhập không phải bằng hạn chế gia tăng
+thu nhập của người giàu, mà vẫn phải tạo điều kiện thuận lợi để họ giàu hơn vì
+điều đó phù hợp với lợi ích xã hội. Điều quan trọng là tạo điều kiện để người
+nghèo, người thu nhập thấp gia tăng nhanh thu nhập của họ.
+Khi mâu thuẫn giữa các lợi ích kinh tế xảy ra, cần phải xử lý kịp thời,
+nhanh chóng, mềm dẻo, tránh mọi xung đột.
+7.3.3. Những định hướng lớn bảo đảm hài hòa các lợi ích kinh tế
+7.3.3.1. Tạo lập môi trường thuận lợi cho các hoạt động kinh tế
+Kinh tế thị trường có những ưu việt hơn hẳn so với kinh tế tự nhiên và
+kinh tế chỉ huy: năng động, hiệu quả, duy trì động lực mạnh mẽ để phát triển lực
+lượng sản xuất, cải thiện và nâng cao đời sống dân cư. Điều đó có nghĩa là kinh
+tế thị trường là cơ chế kinh tế đáp ứng tốt nhất lợi ích kinh tế của các chủ thể.
+Do đó, phát triển kinh tế thị trường là điều kiện tiên quyết bảo đảm sự hài hòa
+lợi ích kinh tế của các chủ thể.
+Các hoạt động kinh tế bao giờ cũng cũng diễn ra trong một môi trường
+nhất định. Môi trường càng thuận lợi, các hoạt động kinh tế càng hiệu quả và
+không ngừng mở rộng. Môi trường vĩ mô thuận lợi không tự hình thành, mà phải
+được nhà nước tạo lập. Tạo lập môi trường thuận lợi cho các hoạt động kinh tế
+trước hết là giữ vững ổn định về chính trị. Trong những năm vừa qua, Việt Nam
+đã thực hiện rất tốt điều này. Nhờ đó, các nhà đầu tư trong nước và ngoài nước
+rất yên tâm khi tiến hành đầu tư.
+Tạo lập môi trường thuận lợi cho các hoạt động kinh tế đòi hỏi phải xây
+dựng được môi trường pháp luật thông thoáng, bảo vệ được lợi ích chính đáng
+của các chủ thể kinh tế trong và ngoài nước. Trong bối cảnh hội nhập quốc tế
+ngày càng sâu rộng, hệ thống pháp luật còn phải tuân thủ các chuẩn mực và
+thông lệ quốc tế. Trong những năm vừa qua, hệ thống pháp luật của nước ta
+đang thay đổi tích cực. Tuy nhiên, vấn đề lớn nhất hiện nay là tuân thủ pháp
+luật.
+Tạo lập môi trường thuận lợi cho các hoạt động kinh tế tất yếu phải đầu tư
+xây dựng kết cấu hạ tầng của nền kinh tế (bao gồm hệ thống đường bộ, đường
+sắt, đường sông, đường hàng không…; hệ thống cầu cống; hệ thống điện, nước;
+hệ thống thông tin liên lạc…). Nhờ phát triển kết cấu hạ tầng được coi là một
+trong ba đột phá lớn, trong những năm vừa qua, kết cấu hạ tầng của nền kinh tế
+nước ta đã được cải thiện rất đáng kể, đáp ứng nhu cầu của các hoạt động kinh
+tế. Môi trường vĩ mô về kinh tế đòi hỏi nhà nước phải đưa ra được các chính
+sách phù hợp với nhu cầu của nền kinh tế trong từng giai đoạn. Thực tế cho
+thấy, các chính sách kinh tế của Việt Nam đang từng bước đáp ứng yêu cầu này.
+Tạo lập môi trường thuận lợi cho các hoạt động kinh tế còn là tạo lập môi
+trường văn hóa phù hợp với yêu cầu phát triển kinh tế thị trường. Đó là môi
+trường trong đó con người năng động, sáng tạo; tôn trọng kỷ cương, pháp luật;
+giữ chữ tín…
+7.3.3.2. Tối ưu hóa quan hệ nhà nước và thị trường
+Lý luận và thực tiễn đều khẳng định: nhà nước và thị trường đều rất cần
+thiết. Tuy nhiên, sử dụng nhà nước và thị trường như thế nào để phát triển kinh
+tế - xã hội thì vẫn có nhiều quan điểm khác nhau.
+Kinh tế thị trường có rất nhiều ưu việt: năng động; hiệu quả; duy trì động
+lức mạnh mẽ để cải tiến kỹ thuật, phát triển lực lượng sản xuất; loại bỏ được
+những nhân tố không hiệu quả, khuyến khích được nhân tố hiệu quả… Nhờ đó,
+kinh tế thị trường góp phần quan trọng trong thực hiện các lợi ích kinh tế. Tuy
+nhiên, kinh tế thị trường thị trường cũng có không ít khuyết tật: phát triển không
+ổn định; không đáp ứng được yêu cầu về hàng hóa công cộng; sự xuất hiện của
+độc quyền; hiện tượng ngoại ứng; hiện tượng thiếu hụt và méo mó thông tin;
+xuất hiện nhiều vấn đề xã hội và môi trường… Đặc biệt, kinh tế thị trường làm
+phân hóa giàu – ngày càng sâu sắc, ảnh hưởng xấu đến sự hài hòa giữa các lợi
+ích kinh tế. Do đó, nhà nước phải can thiệp, nhằm hạn chế và khắc phục những
+khuyết tật nêu trên. Tuy nhiên, nhà nước cũng có không ít khuyết tật. Cán bộ,
+công chức nhà nước dễ chủ quan, duy ý chí, lạm quyền…
+Do đó, để hạn chế khuyết tật, phát huy ưu việt của kinh tế thị trường và
+của nhà nước, cần phải kết hợp nhà nước và thị trường. Nguyên tắc kết hợp là:
+nhà nước chỉ làm và phải làm thật tốt những gì thị trường không làm được;
+những gì các chủ thể thị trường làm tốt phải để họ làm.
+Hộp 7.2: Quan hệ nhà nước và thị trường ở Việt Nam
+Thị trường đóng vai trò chủ yếu trong huy động và phân bổ có hiệu quả các nguồn lực
+phát triển, là động lực chủ yếu để giải phóng sức sản xuất; các nguồn lực nhà nước
+được phân bổ theo chiến lược, quy hoạch, kế hoạch phù hợp với cơ chế thị trường. Nhà
+nước đóng vai trò định hướng, xây dựng và hoàn thiện thể chế kinh tế, tạo môi trường
+cạnh tranh bình đẳng, minh bạch và lành mạnh; sử dụng các công cụ, chính sách và các
+nguồn lực của Nhà nước để định hướng và điều tiết nền kinh tế, thúc đẩy sản xuất kinh
+doanh và bảo vệ môi trường; thực hiện tiến bộ, công bằng xã hội trong từng bước, từng
+chính sách phát triển.
+Đảng CSVN: Văn kiện Đại hội đại biểu toàn quốc lần thứ XII, NXB Chính trị quốc gia,
+Hà Nội7 .-32016,.3.3. Hoàntr.25,26thiện. công cụ điều tiết kinh tế vĩ mô
+Hiệu quả can thiệp của nhà nước vào nền kinh tế phụ thuộc vào mức độ
+hoàn thiện của các công cụ điều tiết kinh tế vĩ mô. Đó là công cụ thuế, lãi suất,
+các chính sách kinh tế… Sử dụng hợp lý các công cụ này góp phần thực hiện
+các mục tiêu kinh tế vĩ mô: tăng trưởng kinh tế, tạo việc làm, ổn định giá cả, ổn
+định tiền tệ…, góp phần thực hiện lợi ích kinh tế của các chủ thể.
+Do mâu thuẫn về lợi ích kinh tế giữa các chủ thể và tác động của các quy
+luật thị trường, sự phân hóa về thu nhập giữa các tầng lớp dân cư làm cho lợi ích
+kinh tế của một bộ phận dân cư được thực hiện rất khó khăn, hạn chế. Vì vậy,
+nhà nước cần có các chính sách, trước hết là chính sách phân phối thu nhập
+nhằm bảo đảm hài hòa các lợi ích kinh tế. Trong điều kiện kinh tế thị trường,
+một mặt, phải thừa nhận sự chênh lệch về mức thu nhập giữa các tập thể, các cá
+nhân là khách quan; nhưng mặt khác phải ngăn chặn sự chênh lệch thu nhập quá
+đáng. Sự phân hóa xã hội thái quá có thể dẫn đến căng thẳng, thậm chí xung đột
+xã hội. Đó là những vấn đề mà chính sách phân phối thu nhập cần phải tính đến.
+Cơ chế thị trường có rất nhiều ưu việt, không chỉ trong lĩnh vực sản xuất
+mà cả trong lĩnh vực phân phối. Các nguyên tắc phân phối thu nhập chủ yếu của
+cơ chế thị trường bao gồm:
+- Phân phối thu nhập gắn liền với quy mô sử dụng các nguồn lực. Trong
+điều kiện hiệu quả sử dụng các nguồn lực không đổi thì: lao động càng nhiều,
+chất lượng càng cao thì thu nhập càng cao; vốn càng nhiều thì lợi nhuận hoặc
+lãi càng lớn; đất đai, nhà cửa càng nhiều thì tiền cho thuê càng lớn. Như vậy,
+phân phối theo các nguyên tắc của cơ chế thị trường có tác dụng khuyến khích
+việc mở rộng quy mô sử dụng các nguồn lực.
+- Phân phối thu nhập gắn liền với hiệu quả sử dụng các nguồn lực. Trong
+cơ chế thị trường, các nguồn lực đều là hàng hoá, có giá cả. Giá cả các nguồn
+lực là thu nhập của người sở hữu các nguồn lực đó và cũng nhờ đó các nguồn
+lực có thể dịch chuyển từ nơi có hiệu quả thấp đến nơi có hiệu quả cao.
+Như vậy, phân phối theo nguyên tắc thị trường sẽ có tác dụng mở rộng
+quy mô huy động và sử dụng có hiệu quả các nguồn lực. Điều đó có vai trò đặc
+biệt quan trọng trong việc thúc đẩy nền kinh tế tăng trưởng và phát triển, đáp
+ứng lợi ích xã hội. Bởi vậy, chính sách phân phối thu nhập cần phải được xây
+dựng trên các nguyên tắc của kinh tế thị trường.
+Phân phối không chỉ phụ thuộc vào quan hệ sở hữu, mà còn phụ thuộc vào
+sản xuất. Trình độ phát triển của lực lượng sản xuất càng cao, hàng hóa, dịch vụ
+càng dồi dào, chất lượng càng tốt, phần được nhận của các chủ thể càng lớn. Do
+đó, phát triển mạnh mẽ lực lượng sản xuất, phát triển khoa học - công nghệ để
+nâng cao thu nhập cho các chủ thể kinh tế. Đó chính là những điều kiện vật chất
+để thực hiện ngày càng đầy đủ sự công bằng xã hội trong phân phối.
+7.3.3.4. Thực hiện công bằng xã hội trong quan hệ biện chứng với tăng
+trưởng kinh tế
+“Dân giàu” thì “nước mạnh”. Nhà nước cần có các chính sách khuyến
+khích người dân làm giàu hợp pháp, tạo điều kiện và giúp đỡ họ bằng mọi biện
+pháp. Về nguyên tắc, người dân được làm tất cả những gì luật pháp không cấm;
+luật pháp chỉ cấm những hoạt động tổn hại lợi ích quốc gia và các lợi ích hợp
+pháp khác.
+Đồng thời, cần thực hiện có hiệu quả các chính sách xoá đói giảm nghèo,
+tạo điều kiện và cơ hội tiếp cận bình đẳng các nguồn lực phát triển, hưởng thụ
+các dịch vụ xã hội cơ bản, vươn lên thoát đói nghèo vững chắc ở các vùng nghèo
+và các bộ phận dân cư nghèo, khắc phục tư tưởng bao cấp, ỷ lại.
+Chú trọng các chính sách ưu đãi xã hội, vận động toàn dân tham gia các
+hoạt động đền ơn đáp nghĩa, uống nước nhớ nguồn. Đẩy mạnh các hoạt động
+nhân đạo, từ thiện, giúp đỡ người nghèo, đồng bào các vùng gặp thiên tai...
+7.3.3.5. Chống mọi hình thức thu nhập bất hợp pháp
+Trong cơ chế thị trường, thu nhập từ các hoạt động bất hợp pháp như
+buôn lậu, làm hàng giả, hàng nhái; lừa đảo; tham nhũng… tồn tại khá phổ biến.
+Các hoạt động này càng gia tăng, càng làm tổn hại lợi ích kinh tế của các chủ thể
+làm ăn chân chính.
+Chống mọi hình thức thu nhập bất hợp pháp, trước hết, phải có bộ máy
+nhà nước liêm chính, có hiệu lực. Bộ máy nhà nước phải tuyển dụng, sử dụng
+được những người có tài, có tâm. Cán bộ, công chức nhà nước phải được đãi
+ngộ xứng đáng và chịu trách nhiệm đến cùng mọi quyết định trong phạm vi,
+chức trách của họ.
+Hộp 7.3: Xây dựng Đảng trong sạch, vững mạnh
+Các cấp ủy, tổ chức đảng chỉ đạo rà soát, hoàn thiện các quy định, văn bản quy
+phạm pháp luật về quản lý, điều hành bảo đảm công khai, minh bạch, góp phần
+xóa bỏ cơ chế "xin - cho", "duyệt - cấp"; ngăn chặn, đẩy lùi tham nhũng, tiêu cực,
+"lợi ích nhóm", "sân sau", trục lợi trong quản lý, sử dụng ngân sách, tài sản công,
+cổ phần hóa doanh nghiệp nhà nước, vốn đầu tư, đất đai, tài nguyên, khoáng sản,
+tài chính, ngân hàng, thuế, hải quan, phân bổ, quản lý và sử dụng biên chế...
+Thứ hai, nhà nước phải kiểm soát được thu nhập của công dân, trước hết
+là thu nhập của cán bộ, công chức nhà nước. Sự phát triển của công nghệ thông
+tin và mạng internet là cơ hội thuận lợi để kiểm soát thu nhập. Thứ ba, cần phải
+xây dựng, hoàn thiện hệ thống luật pháp và thực thi luật pháp thật sự nghiêm
+túc. Trong điều kiện mở cửa, hội nhập việc xây dựng và thực thi luật pháp phải
+phù hợp với thông lệ quốc tế. Thứ tư, phải công khai, minh bạch mọi cơ chế,
+chính sách và quy định của nhà nước... Thứ năm, nâng cao hiệu lực, hiệu quả
+của hoạt động thanh tra, kiểm tra và xử lý vi phạm. Đồng thời, chống được “lợi
+ích nhóm” và “nhóm lợi ích” tiêu cực. Đây là chức năng quan trọng của nhà
+nước.
+Từ khóa: lợi ích, lợi ích kinh tế, quan hệ lợi ích, nhóm lợi ích, cá nhân, người
+lao động, người sử dụng lao động, xã hội, nhà nước, quốc gia, thống nhất, mâu
+thuẫn…
+TÓM TẮT
+Lợi ích kinh tế là phương thức và mức độ thỏa mãn các nhu cầu vật chất
+của con người. Về bản chất, lợi ích kinh tế mang tính khách quan, là quan hệ xã
+hội và mang tính lịch sử. Lợi ích kinh tế chịu sự ảnh hưởng mạnh mẽ của trình
+độ phát triển của lực lượng sản xuất, quan hệ sản xuất, chính sách nhà nước và
+mức độ hội nhập. Thước đo việc thực hiện và hình thức biểu hiện của các lợi ích
+kinh tế là thu nhập. Thu nhập của người lao động là tiền lương; thu nhập của
+người sử dụng lao động là lợi nhuận; thu nhập của nhà nước là thuế. Lợi ích
+kinh tế là động lực của các hoạt động kinh tế. Phương thức thực hiện các lợi ích
+kinh tế là cơ chế thị trường và sự can thiệp, điều tiết của nhà nước.
+Các lợi ích kinh tế gắn với các chủ thể kinh tế, có quan hệ biện chứng,
+vừa thống nhất vừa mâu thuẫn với nhau. Sự thống nhất giữa các lợi ích làm cho
+việc thực hiện lợi ích này sẽ tạo điều kiện cho việc thực hiện lợi ích khác.
+Ngược lại, mâu thuẫn giữa các lợi ích làm cho việc thực hiện lợi ích này sẽ gây
+khó khăn, cản trở việc thực hiện lợi ích khác.
+Trong cơ chế thị trường, các chủ thể kinh tế có quan hệ lợi ích kinh tế với
+nhau. Các quan hệ chủ yếu là: quan hệ lợi ích giữa người lao động và người sử
+dụng lao động; quan hệ lợi ích giữa những người sử dụng lao động với nhau;
+quan hệ lợi ích giữa những người lao động với nhau. Mặc dù có những khác biệt
+lớn nhưng đó đều là lợi ích cá nhân. Các cá nhân cùng chung lợi ích hình thành
+lợi ích nhóm, có thể tác động tích cực hoặc tiêu cực đến lợi ích xã hội.
+Để hạn chế mâu thuẫn giữa các lợi ích kinh tế và những tác động xấu của
+việc thực hiện một số lợi ích đến lợi ích xã hội; bảo đảm hài hòa các lợi ích phải
+có sự can thiệp của nhà nước. Nội dung bảo đảm hài hòa các lợi ích phát triển
+bền vững và ngăn ngừa, hạn chế mâu thuẫn, xung đột giữa các lợi ích kinh tế.
+Những định hướng lớn bảo đảm hài hòa các lợi ích kinh tế là tạo lập môi trường
+thuận lợi cho các hoạt động kinh tế; tối ưu hóa quan hệ giữa nhà nước và thị
+trường; hoàn thiện các công cụ điều tiết kinh tế vĩ mô; thực hiện công bằng xã
+hội trong quan hệ biện chứng với tăng trưởng kinh tế; chống mọi hình thức thu
+nhập bất hợp pháp.
+CÂU HỎI ÔN TẬP
+1. Bản chất và vai trò của lợi ích kinh tế?
+2. Thước đo và các hình thức biểu hiện của lợi ích kinh tế?
+3. Phương thức thực hiện quan hệ lợi ích kinh tế?
+4. Các quan hệ lợi ích kinh tế chủ yếu trong nền kinh tế thị trường?
+5. Thế nào là hài hòa các lợi ích kinh tế? Nhà nước cần phải làm gì để bảo
+đảm hài hòa các lợi ích kinh tế?
+NỘI DUNG THẢO LUẬN
+1. Lý luận cơ bản về lợi ích kinh tế?
+2. Vai trò của nhà nước và của kinh tế thị trường trong thực hiện các lợi ích
+kinh tế?
+3. Vận dụng lý luận lợi ích kinh tế vào thực tiễn Việt Nam?
+DANH MỤC TÀI LIỆU THAM KHẢO
+1. Đảng CSVN (2016): Văn kiện Đại hội đại biểu toàn quốc lần thứ XII,
+NXB Chính trị quốc gia, Hà Nội - 2016.
+2. Đảng CSVN (2018): Nghị Quyết Hội nghị BCHTW lần thứ 4, Khóa XII.
+3. Lê Quốc Lý (2014): Lợi ích nhóm – Thực trạng và giải pháp, Nxb Chính
+trị quốc gia, Hà Nội.
+4. C.Mác - Ph.Ảngghen (1995), Toàn tập, Tập 4, 8, 13. Nxb, Chính trị quốc
+gia, Hà Nội.
+5. http://tcnn.vn/Plus.aspx/vi/News/125/0/1010067/0/39258/Giai_phap_pho
+ng_chong_loi_ich_nhom
+6. “Lợi ích nhóm” và “Chủ nghĩa tư bản thân hữu” - cảnh báo nguy cơ,
+http://www.tapchicongsan.org.vn/Home/Nghiencuu-
+ Traodoi/2015/33662/
+Loi-ich-nhom-va-Chu-nghia-tu-ban-than-huu-
+ canh.aspx
+Chương 3
+GIÁ TRỊ THẶNG DƯ  
+TRONG NỀN KINH TẾ THỊ TRƯỜNG
+Sau khi đã nghiên cứu lý luận giá trị của C. Mác, Chương 3 sẽ
+tiếp tục trang bị hệ thống tri thức lý luận về giá trị thặng dư của C.
+Mác trong điều kiện nền kinh tế thị trường tự do cạnh tranh tư bản
+chủ nghĩa để thấy được các quan hệ lợi ích cơ bản nhất thông qua
+phân phối giá trị mới do lao động tạo ra giữa các chủ thể cơ bản
+trong nền kinh tế thị trường tư bản chủ nghĩa. Trên cơ sở đó, giúp
+cho sinh viên hình thành kỹ năng giải quyết có căn cứ khoa học
+quan hệ lợi ích của mình khi khởi nghiệp hoặc tham gia các hoạt
+động kinh tế - xã hội trong bối cảnh xã hội hiện đại.
+Chương 3 sẽ được trình bày với ba nội dung: i) Lý luận của C.
+Mác về giá trị thặng dư, đây cũng chính là nội dung cốt lõi học
+thuyết giá trị thặng dư của C. Mác, hòn đá tảng trong lý luận kinh
+tế chính trị của C. Mác; ii) Tích lũy tư bản (cách thức sử dụng giá
+trị thặng dư); iii) Phân phối giá trị thặng dư trong nền kinh tế thị
+trường tự do cạnh tranh tư bản chủ nghĩa
+I- LÝ LUẬN CỦA C. MÁC VỀ GIÁ TRỊ THẶNG DƯ
+Lý luận giá trị thặng dư của C. Mác được trình bày cô đọng
+nhất trong tác phẩm Tư bản; trong đó, C. Mác luận giải khoa
+học về nguồn gốc và bản chất của giá trị thặng dư.
+1. Nguồn gốc của giá trị thặng dư
+a) Công thức chung của tư bản
+Để tìm ra công thức chung của tư bản cần xem xét vai trò của
+tiền trong lưu thông hàng hóa giản đơn và tiền trong nền sản xuất
+tư bản chủ nghĩa.
+Tiền trong nền sản xuất hàng hóa giản đơn vận động trong
+quan hệ H-T-H.
+Tiền trong nền sản xuất tư bản chủ nghĩa vận động trong quan
+hệ T-H-T.
+Điểm khác nhau cơ bản giữa hai hình thức vận động nêu trên
+thể hiện ở mục đích của quá trình lưu thông. Mục đích trong lưu
+thông hàng hóa giản đơn là giá trị sử dụng. Mục đích trong lưu
+thông tư bản là giá trị lớn hơn vì nếu không thu được lượng giá trị
+lớn hơn thì sự lưu thông này không có ý nghĩa. Do vậy, tư bản vận
+động theo công thức: T-H-T’ (đây là công thức chung của tư bản).
+Các hình thái tư bản đều vận động theo công thức này; trong đó
+T’= T + t (t>0).
+Số tiền trội ra lớn hơn được gọi là giá trị thặng dư; số tiền ứng
+ra ban đầu với mục đích thu được giá trị thặng dư trở thành tư bản.
+Tiền biến thành tư bản khi được dùng để mang lại giá trị thặng dư.
+Tư bản là giá trị mang lại giá trị thặng dư.
+Vậy, nguồn gốc của giá trị thặng dư từ đâu mà có? Việc mua,
+bán hàng hóa thấp hơn hoặc bằng giá trị sẽ không có giá trị tăng
+thêm, nếu người mua hàng hóa để bán hàng hóa đó cao hơn giá trị
+thì chỉ được lợi xét về người bán, nhưng xét về người mua thì lại bị
+thiệt. Trong nền kinh tế thị trường, mỗi người đều đóng vai trò là
+người bán và đồng thời cũng là người mua. Do đó, nếu được lợi
+khi bán thì lại bị thiệt khi mua. Lưu thông (mua, bán thông thường)
+không tạo ra giá trị tăng thêm xét trên phạm vi xã hội.
+Bí mật ở đây là nhà tư bản đã mua được một loại hàng hóa đặc
+biệt nào đó mà trong quá trình sử dụng loại hàng hóa này, giá trị
+của nó không những được bảo mà còn tạo ra được giá trị mới lớn
+hơn giá trị bản thân nó. Đó là hàng hóa sức lao động.
+b) Hàng hóa sức lao động
+C. Mác viết: “Sức lao động hay năng lực lao động là toàn bộ
+những năng lực thể chất và tinh thần tồn tại trong cơ thể, trong một
+con người đang sống, và được người đó đem ra vận dụng mỗi khi
+sản xuất ra một giá trị sử dụng nào đó”1.
+* Hai điều kiện để sức lao động trở thành hàng hóa:
+- Người lao động được tự do về thân thể.
+- Người lao động không có đủ các tư liệu sản xuất cần thiết để 
+tự kết hợp với sức lao động của mình tạo ra hàng hóa để bán, cho
+nên họ phải bán sức lao động.
+* Thuộc tính của hàng hóa sức lao động 
+Hàng hóa sức lao động cũng có hai thuộc tính gồm: giá trị và
+giá trị sử dụng.
+- Giá trị của hàng hóa sức lao động cũng do số lượng lao
+động xã hội cần thiết để sản xuất và tái sản xuất ra sức lao động
+quyết định.
+_______________
+1. C. Mác và Ph. Ăngghen: Toàn tập, Sđd, t.23, tr.251.
+Sức lao động chỉ tồn tại như năng lực con người sống, muốn
+tái sản xuất ra năng lực đó người lao động phải tiêu dùng một
+lượng tư liệu sinh hoạt nhất định.
+Do vậy, thời gian lao động xã hội cần thiết để tái sản xuất ra
+sức lao động sẽ được quy thành thời gian lao động xã hội cần thiết
+để sản xuất ra những tư liệu sinh hoạt ấy. Diễn đạt theo cách khác,
+giá trị của hàng hóa sức lao động được đo lường gián tiếp thông 
+qua lượng giá trị của các tư liệu sinh hoạt để tái sản xuất ra sức lao
+động.
+Giá trị của hàng hóa sức lao động do các bộ phận sau đây hợp 
+thành:
+Một là, giá trị tư liệu sinh hoạt cần thiết (cả vật chất, tinh thần)
+để tái sản xuất ra sức lao động;
+Hai là, phí tổn đào tạo người lao động;
+Ba là, giá trị những tư liệu sinh hoạt cần thiết (vật chất và tinh
+thần) để nuôi con của người lao động.
+Nếu đúng theo nguyên tắc ngang giá trong nền kinh tế thị 
+trường thì giá cả của hàng hóa sức lao động phải phản ánh lượng
+giá trị nêu trên.
+- Giá trị sử dụng của hàng hóa sức lao động cũng nhằm mục
+đích thỏa mãn nhu cầu của người mua.
+Người mua hàng hóa sức lao động mong muốn thỏa mãn nhu 
+cầu có được giá trị lớn hơn, giá trị tăng thêm. Giá trị sử dụng của
+hàng hóa sức lao động được thể hiện trong quá trình sử dụng sức 
+lao động.
+Hàng hóa sức lao động là loại hàng hóa đặc biệt, mang yếu tố
+tinh thần và lịch sử. Giá trị sử dụng của hàng hóa sức lao động có 
+tính năng đặc biệt mà không hàng hóa thông thường nào có được,
+đó là trong khi sử dụng nó, không những giá trị của nó được bảo
+tồn mà còn tạo ra được lượng giá trị lớn hơn. Đây chính là chìa
+khóa chỉ rõ nguồn gốc của giá trị lớn hơn giá trị thặng dư nêu trên 
+do hao phí sức lao động mà có.
+c) Sự sản xuất giá trị thặng dư
+Quá trình sản xuất giá trị thặng dư là sự thống nhất của quá
+trình tạo ra và làm tăng giá trị.
+Để có được giá trị thặng dư, nền sản xuất xã hội phải đạt đến một
+trình độ nhất định. Trình độ đó phản ánh việc người lao động chỉ phải
+hao phí một phần thời gian lao động (trong thời gian lao động đã được 
+thỏa thuận mua bán theo nguyên tắc ngang giá) là có thể bù đắp được
+giá trị hàng hóa sức lao động, bộ phận này là thời gian lao động tất
+yếu.
+Ngoài thời gian tất yếu đó, vẫn trong nguyên tắc ngang giá đã
+thoả thuận, người lao động phải làm việc trong sự quản lý của
+người mua hàng hóa sức lao động và sản phẩm làm ra thuộc sở hữu
+của nhà tư bản, thời gian đó là thời gian lao động thặng dư.
+Ví dụ:
+Giả sử sản xuất giá trị thặng dư được thực hiện dưới hình thái
+sản xuất cụ thể là sản xuất sợi và trong quá trình sản xuất này, nhà
+tư bản thuần tuý chỉ đóng vai trò là chủ sở hữu và chỉ có người
+công nhân là người lao động trực tiếp.
+Để tiến hành sản xuất sợi, nhà tư bản phải ứng ra số tiền như
+sau:
+- 50 USD để mua 50 kg bông,
+- 3 USD hao mòn máy móc để kéo 50 kg bông thành sợi,
+- 15 USD mua hàng hoá sức lao động để sử dụng trong 1 ngày 
+làm việc 8 giờ và điều này được người công nhân thoả thuận chấp
+nhận.
+Như vậy, nhà tư bản ứng ra tổng là 68 USD.
+Trong quá trình sản xuất sợi, bằng lao động cụ thể, người công 
+nhân biến bông thành sợi. Giá trị của bông và hao mòn máy móc
+được chuyển vào giá trị của sợi. Bằng lao động trừu tượng, người
+công nhân tạo ra giá trị mới, giả định, trong 4 giờ lao động công
+nhân đã chuyển toàn bộ 50 kg bông thành sợi. Giá trị sợi gồm:
+Giá trị 50 kg bông chuyển vào: 50 USD
+Hao mòn máy móc: 3 USD
+Giá trị mới bằng giá trị sức lao động: 15 USD  
+Tổng cộng: 68 USD
+Nhà tư bản ứng ra 68 USD, giả định sợi được bán hết, thu
+về 68 USD. Nếu quá trình lao động dừng lại tại điểm này thì
+không có giá trị thặng dư, tiền ứng ra chưa trở thành tư bản.
+Để có giá trị thặng dư, thời gian lao động phải vượt quá cái
+điểm bù lại giá trị sức lao động. Lưu ý là nhà tư bản mua sức lao
+động của công nhân để sử dụng trong 8 giờ (với 15 USD như đã
+thỏa thuận), không phải là 4 giờ.
+Công nhân phải tiếp tục làm việc trong 4 giờ nữa. Trong 4 giờ
+này, nhà tư bản chỉ phải bỏ thêm 50 USD để mua 50 kg bông và 3
+USD hao mòn máy móc.
+Quá trình lao động 4 giờ sau diễn ra như quá trình đầu. Số sợi
+được tạo ra trong 4 giờ lao động sau cũng có giá trị 68 USD. Con
+số này bao gồm:
+Giá trị của bông chuyển vào: 50 USD
+Hao mòn máy móc: 3 USD
+Giá trị mới tạo thêm: 15 USD
+Tổng cộng: 68 USD
+Sau khi sợi được bán hết, giá trị thu về sau 8h lao động của
+công nhân là: 68 USD + 68 USD = 136 USD.
+Tổng cộng, nhà tư bản ứng ra 100 USD + 6 USD + 15 USD =
+121 USD, trong khi đó số sợi sản xuất ra có giá trị 136 USD.
+Do đó, nhà tư bản thu được lượng giá trị thặng dư là 136 USD
+- 121 USD = 15 USD.
+Phần chênh lệch này là giá trị thặng dư. Đây là giá trị mới do
+người lao động tạo ra ngoài hao phí lao động tất yếu. Phần giá trị
+mới này nhà tư bản nắm lấy do địa vị là người chủ sở hữu.
+Như vậy, giá trị thặng dư là bộ phận giá trị mới dôi ra ngoài
+giá trị sức lao động do công nhân tạo ra, là kết quả của lao động
+không công của công nhân cho nhà tư bản. Ký hiệu giá trị thặng
+dư là m.
+Sở dĩ được gọi là dôi ra vì người lao động chỉ cần một phần
+nhất định thời gian hao phí sức lao động đã được thỏa thuận theo
+nguyên tắc ngang giá là đã đủ để bù đắp giá trị hàng hóa sức lao 
+động của mình. Thoả thuận này được phản ánh ở một bản hợp
+đồng lao động giữa người mua và người bán hàng hóa sức lao
+động. Tất nhiên, trên thực tế trong nền kinh tế thị trường, thỏa
+thuận này rất khó đạt được mức ngang giá, nghĩa là tiền công của
+người bán sức lao động rất khó phản ánh lượng giá trị đầy đủ theo
+ba yếu tố cấu thành giá trị.
+Trong ví dụ nêu trên đã giả định người mua sức lao động là nhà 
+tư bản với tư cách là chủ sở hữu thuần tuý để phân biệt với người lao
+động làm thuê. Trong trường hợp việc quản lý doanh nghiệp cũng do
+người lao động được thuê thì giá trị mới là thuần tuý do lao động làm
+thuê tạo ra.
+Còn trong trường hợp người mua hàng hóa sức lao động cũng
+phải hao phí sức lao động dưới dạng quản lý thì giá trị mới đó cũng 
+có sự đóng góp một phần từ lao động quản lý với tư cách là lao
+động phức tạp. Trên thực tế, đa số người mua sức lao động cũng
+phải tham gia quản lý và hao phí sức lao động.
+Như vậy, đến đây có thể khái quát: tư bản là giá trị đem lại giá 
+trị thặng dư.
+Quá trình sản xuất giá trị thặng dư, xét từ phía nhà tư bản, là
+quá trình ứng ra và sử dụng tư bản với tư cách là giá trị mang lại 
+giá trị thặng dư. Để tiến hành sản xuất, nhà tư bản phải ứng tư bản
+ra mua tư liệu sản xuất và sức lao động.
+Để khẳng định rõ hơn nguồn gốc của giá trị thặng dư là do 
+hao phí sức lao động tạo ra, cần phân tích vai trò của tư liệu sản 
+xuất trong mối quan hệ với người lao động trong quá trình làm 
+tăng giá trị. Việc phân tích này được C. Mác nghiên cứu dưới 
+nội hàm của hai thuật ngữ: tư bản bất biến và tư bản khả biến.
+d) Tư bản bất biến và tư bản khả biến  
+Để tiến hành sản xuất, nhà tư bản cần mua tư liệu sản xuất và 
+hàng hóa sức lao động.
+- Tư bản bất biến 
+Bộ phận tư bản tồn tại dưới hình thái tư liệu sản xuất mà giá 
+trị được lao động cụ thể của công nhân làm thuê bảo toàn và 
+chuyển nguyên vẹn vào giá trị sản phẩm, tức là giá trị không biến 
+đổi trong quá trình sản xuất, được C. Mác gọi là tư bản bất biến 
+(ký hiệu là c).
+Tư bản bất biến không tạo ra giá trị thặng dư nhưng là điều 
+kiện cần thiết để quá trình tạo ra giá trị thặng dư được diễn ra.
+Máy móc, nguyên nhiên vật liệu là điều kiện để cho quá trình
+làm tăng giá trị được diễn ra. Không có máy móc, không có quá 
+trình tổ chức kinh doanh thì đương nhiên không có quá trình sản 
+xuất giá trị thặng dư.
+Ngày nay, máy móc được tự động hóa như người máy, thì 
+người máy cũng chỉ có vai trò là máy móc, chừng nào việc sử dụng 
+sức lao động còn có lợi hơn cho người mua hàng hóa sức lao động 
+so với sử dụng người máy, thì chừng đó nhà tư bản còn sử dụng 
+sức lao động sống của người bán sức lao động làm thuê.
+Tuy nhiên, cần lưu ý, việc ứng dụng thiết bị công nghệ tiên
+tiến vào sản xuất là tiền đề để tăng năng suất lao động xã hội, do
+đó, máy móc, công nghệ tiên tiến rất cần thiết cho quá trình làm
+tăng giá trị.
+- Tư bản khả biến
+Bộ phận tư bản dùng để mua hàng hóa sức lao động thì khác.
+Giá trị của nó được chuyển cho công nhân làm thuê, biến thành tư
+liệu sinh hoạt cần thiết và mất đi trong quá trình tái sản xuất sức
+lao động của công nhân làm thuê. Tuy nhiên, trong quá trình sản
+xuất, công nhân làm thuê bằng lao động trừu tượng tạo ra giá trị
+mới với lượng lớn hơn giá trị sức lao động.
+C. Mác kết luận: Bộ phận tư bản tồn tại dưới hình thái sức lao
+động không tái hiện ra, nhưng thông qua lao động trừu tượng của
+công nhân làm thuê mà tăng lên, tức là biến đổi về số lượng trong
+quá trình sản xuất, được Mác gọi là tư bản khả biến (ký hiệu là v).
+Như vậy, đến đây, nếu gọi G là giá trị hàng hóa thì có thể công
+thức hóa về giá trị hàng hóa dưới dạng như sau:
+G = c + (v+m)
+Trong đó:
+(v+m) là bộ phận giá trị mới của hàng hóa, do hao phí lao 
+động tạo ra;
+c là giá trị của những tư liệu sản xuất đã được tiêu dùng, là bộ 
+phận lao động quá khứ đã được kết tinh trong máy móc, nguyên, 
+nhiên vật liệu. Bộ phận này được chuyển vào giá trị sản phẩm mới.
+đ) Tiền công  
+Tiền công là giá cả của hàng hóa sức lao động. Đó là bộ phận
+của giá trị mới do chính hao phí sức lao động của người lao động
+làm thuê tạo ra, nhưng nó lại thường được hiểu là do người mua
+sức lao động trả cho người lao động làm thuê.
+Cứ sau một thời gian lao động nhất định, người lao động làm 
+thuê được trả một khoản tiền công nhất định. Điều đó thậm chí làm
+cho người lao động cũng nhầm hiểu là người mua sức lao động đã
+trả công cho mình. Trái lại, nguồn gốc của tiền công chính là do
+hao phí sức lao động của người lao động làm thuê tự trả cho mình
+thông qua sổ sách của người mua hàng hóa sức lao động.
+Cần nhấn mạnh điểm này để người lao động cũng như người
+chủ mua hàng hóa sức lao động phải đặt địa vị của mỗi bên trong 
+quan hệ lợi ích thống nhất. Nếu tự khởi nghiệp, lập doanh nghiệp
+và mua hàng hóa sức lao động thì cũng cần phải đối xử với người
+lao động thật trách nhiệm vì người lao động đang là nguồn gốc cho 
+sự giàu có của mình. Trái lại, nếu phải bán hàng hóa sức lao động
+thì cần phải biết bảo vệ lợi ích của bản thân trong quan hệ lợi ích
+với người mua hàng hóa sức lao động.
+Lưu ý, khi khẳng định nguồn gốc của giá trị thặng dư là do lao
+động của người lao động làm thuê hao phí tạo ra thì không có
+nghĩa là người mua hàng hóa sức lao động đã thu được ngay giá trị
+thặng dư dưới dạng hình thái tiền. Trái lại, để thu được giá trị
+thặng dư dưới hình thái tiền, gọi là thực hiện giá trị thặng dư, thì
+hàng hóa được sản xuất ra ấy phải được bán đi, nghĩa là nó phải
+được thị trường chấp nhận. Khi hàng hóa không bán được, chủ 
+doanh nghiệp sẽ bị phá sản.
+Vì vậy, C. Mác nhấn mạnh, để có giá trị thặng dư, nhà tư bản
+không những cần phải thực hiện quá trình sản xuất giá trị thặng dư,
+mà còn cần phải chuẩn bị các điều kiện cần thiết cho quá trình đó 
+và thực hiện giá trị, giá trị thặng dư chứa đựng trong những hàng
+hóa đã được sản xuất ra. Tổng thể những hoạt động đó biểu hiện sự
+vận động tuần hoàn, chu chuyển của tư bản.
+e) Tuần hoàn và chu chuyển của tư bản
+* Tuần hoàn của tư bản
+Tuần hoàn của tư bản là sự vận động của tư bản lần lượt trải
+qua ba giai đoạn dưới ba hình thái kế tiếp nhau (tư bản tiền tệ, tư
+bản sản xuất, tư bản hàng hóa) gắn với thực hiện những chức năng
+tương ứng (chuẩn bị các điều kiện cần thiết để sản xuất ra giá trị
+thặng dư, thực hiện giá trị thặng dư) và quay trở về hình thái ban 
+đầu cùng với giá trị thặng dư.
+Mô hình của tuần hoàn tư bản là:
+SLĐ
+T – H                      ... SX ... H’ - T’
+TLSX 
+Qua mô hình này càng thấy rõ hơn nguồn gốc của giá trị thặng
+dư được tạo ra trong sản xuất là do hao phí sức lao động của người 
+lao động chứ không phải do mua rẻ bán đắt mà có. Kết quả của quá
+trình sản xuất là H’ trong giá trị của H’ có bao hàm giá trị thặng
+dư. Khi bán được H’ người ta thu được T’. Trong T’ có giá trị 
+thặng dư dưới hình thái tiền.
+Tuần hoàn của tư bản phản ánh những mối quan hệ khách
+quan giữa các hoạt động cần kết hợp nhịp nhàng, kịp thời, đúng lúc
+trong quá trình sản xuất kinh doanh trong nền kinh tế thị trường nói 
+chung và kinh tế thị trường tư bản chủ nghĩa nói riêng.
+Để sản xuất kinh doanh hiệu quả, chủ thể kinh doanh phải có
+các yếu tố sản xuất cần thiết với số lượng, chất lượng, cơ cấu phù
+hợp, phải có trình độ tổ chức sắp xếp và thực hiện công việc theo 
+quy trình; đồng thời cần có những điều kiện bên ngoài thuận lợi
+cho việc thực hiện quá trình đó, do đó, không những cần có nỗ lực
+to lớn của doanh nhân, mà còn cần tới sự hỗ trợ tích cực của nhà 
+nước thông qua kiến tạo môi trường kinh doanh thuận lợi.
+Trong điều kiện môi trường kinh doanh cụ thể nhất định, các
+nhà tư bản khác nhau cùng thực hiện đầy đủ các bước của quy trình
+kinh doanh có thể nhận được những mức hiệu quả khác nhau do
+chu chuyển tư bản của họ khác nhau.
+* Chu chuyển của tư bản
+Chu chuyển của tư bản là tuần hoàn của tư bản được xét với 
+tư cách là quá trình định kỳ, thường xuyên lặp đi lặp lại và đổi mới
+theo thời gian.
+Chu chuyển của tư bản được đo lường bằng thời gian chu
+chuyển hoặc tốc độ chu chuyển.
+Thời gian chu chuyển của tư bản là khoảng thời gian mà 
+một tư bản kể từ khi được ứng ra dưới một hình thái nhất định
+cho đến khi quay trở về dưới hình thái đó cùng với giá trị thặng 
+dư. Thời gian chu chuyển của tư bản bao gồm thời gian sản xuất
+và thời gian lưu thông.
+Tốc độ chu chuyển của tư bản là số lần mà một tư bản được
+ứng ra dưới một hình thái nhất định quay trở về dưới hình thái đó
+cùng với giá trị thặng dư tính trong một đơn vị thời gian nhất định.
+Thông thường, tốc độ chu chuyển được tính bằng số vòng chu
+chuyển của tư bản trong thời gian 1 năm.
+Nếu ký hiệu số vòng chu chuyển của tư bản là n, thời gian của
+một năm là CH, thời gian một vòng chu chuyển là ch, thì tốc độ
+chu chuyển của từng bộ phận tư bản được tính như sau:
+n= CH
+ch
+Xét theo phương thức chu chuyển giá trị của tư bản sản xuất
+vào giá trị sản phẩm, tư bản được chia thành các bộ phận: tư bản cố
+định và tư bản lưu động.
+Tư bản cố định là bộ phận tư bản sản xuất tồn tại dưới hình
+thái tư liệu lao động tham gia toàn bộ vào quá trình sản xuất
+nhưng giá trị của nó chỉ chuyển dần từng phần vào giá trị sản
+phẩm theo mức độ hao mòn.
+Hao mòn của tư bản cố định bao gồm hao mòn hữu hình (sự
+mất mát về giá trị sử dụng và giá trị) do sử dụng và tác động của tự
+nhiên gây ra, và hao mòn vô hình (sự mất giá thuần túy) do sự tăng 
+lên của năng suất lao động sản xuất tư liệu lao động và sự xuất hiện
+của những thế hệ tư liệu lao động mới có năng suất cao hơn.
+Tư bản lưu động là bộ phận tư bản sản xuất tồn tại dưới hình 
+thái sức lao động, nguyên nhiên vật liệu, vật liệu phụ, giá trị của
+nó được chuyển một lần, toàn phần vào giá trị sản phẩm khi kết
+thúc từng quá trình sản xuất.
+Để thu được hiệu quả sản xuất kinh doanh cao, các nhà tư
+bản phải nỗ lực rút ngắn thời gian chu chuyển hay đẩy nhanh tốc
+độ chu chuyển tư bản trên cơ sở nắm vững các yếu tố ảnh hưởng
+đến thời gian chu chuyển của tư bản, đồng thời sử dụng hiệu quả 
+tư bản cố định và tư bản lưu động.
+Khái quát lại, nguồn gốc của giá trị thặng dư là do hao phí lao
+động tạo ra.
+2. Bản chất của giá trị thặng dư
+Như vậy, nghiên cứu về nguồn gốc của giá trị thặng dư trên
+đây cho chúng ta thấy, giá trị thặng dư là kết quả của sự hao phí 
+sức lao động trong sự thống nhất của quá trình tạo ra và làm tăng
+giá trị.
+Quá trình đó được diễn ra trong quan hệ xã hội giữa người
+mua hàng hóa sức lao động với người bán hàng hóa sức lao động.
+Do đó, nếu giả định xã hội chỉ có hai giai cấp, là giai cấp tư sản và 
+giai cấp công nhân, thì giá trị thặng dư trong nền kinh tế thị trường
+tư bản chủ nghĩa mang bản chất kinh tế - xã hội là quan hệ giai 
+cấp; trong đó, giai cấp các nhà tư bản làm giàu dựa trên cơ sở thuê
+mướn lao động của giai cấp công nhân. Ở đó, mục đích của nhà tư
+bản là giá trị thặng dư, người lao động làm thuê phải bán sức lao 
+động cho nhà tư bản ấy.
+Sinh thời, chứng kiến cảnh người lao động bị áp bức lao động 
+với tiền công rẻ mạt, trong khi nhà tư bản thì không ngừng giàu có, 
+C. Mác nhận thấy có một sự bất công sâu sắc về mặt xã hội. C. 
+Mác gọi đó là quan hệ bóc lột, mặc dù về mặt kinh tế, nhà tư bản 
+không vi phạm quy luật kinh tế về trao đổi ngang giá (ví dụ về sự 
+sản xuất giá trị thặng dư nêu trên cho thấy, nhà tư bản đã trả cho 
+công nhân đúng bằng giá trị hàng hóa sức lao động, nghĩa là nhà tư
+bản tuân thủ quy luật giá trị).
+Sự giải thích khoa học của C. Mác ở đây đã vượt hẳn so với 
+các nhà kinh tế trước đó. Tính khoa học thể hiện ở chỗ, C. Mác đã 
+mô tả được một thực tế, nhà tư bản đã không vi phạm quy luật kinh 
+tế về trao đổi ngang giá thông qua ký hợp đồng thỏa thuận với 
+người lao động làm thuê, song trong trao đổi ngang giá đó, giá trị 
+thặng dư vẫn được tạo ra cho nhà tư bản bằng lao động sống chứ 
+không phải do máy móc sinh ra.
+Trong điều kiện ngày nay, quan hệ đó vẫn đang diễn ra nhưng
+với trình độ và mức độ rất khác, rất tinh vi và dưới hình thức văn
+minh hơn so với cách mà nhà tư bản đã từng thực hiện trong thế kỷ
+XIX.
+Để hiểu sâu hơn bản chất của giá trị thặng dư, C. Mác làm rõ
+hai phạm trù tỷ suất và khối lượng giá trị thặng dư.
+Mục đích của nhà tư bản trong nền kinh tế thị trường tư bản
+chủ nghĩa không những chỉ dừng lại ở mức có được giá trị thặng 
+dư, mà quan trọng là phải thu được nhiều giá trị thặng dư, do đó
+cần có thước đo để đo lường giá trị thặng dư về mặt lượng.
+Tỷ suất giá trị thặng dư là tỷ lệ phần trăm giữa giá trị thặng
+dư và tư bản khả biến để sản xuất ra giá trị thặng dư đó.
+Công thức tính tỷ suất giá trị thặng dư là:
+m'=
+m
+v x 100%
+Trong đó:  
+m’ là tỷ suất giá trị thăng dư;  
+m là giá trị thặng dư;  
+v là tư bản khả biến. 
+Tỷ suất giá trị thặng dư cũng có thể tính theo tỷ lệ phần trăm
+giữa thời gian lao động thặng dư (t’) và thời gian lao động tất yếu 
+(t).
+m'= t'
+t x 100%
+Khối lượng giá trị thặng dư là lượng giá trị thặng dư bằng
+tiền mà nhà tư bản thu được. Công thức tính khối lượng giá trị 
+thặng dư là:
+M = m’. V
+Trong đó:  
+M là khối lượng giá trị thặng dư;
+m′ là tỷ suất giá trị thặng dư;
+V là tổng tư bản khả biến. 
+Tỷ suất giá trị thặng dư phản ánh trình độ khai thác sức lao 
+động làm thuê; khối lượng giá trị thặng dư phản ánh quy mô giá trị 
+thặng dư mà chủ sở hữu tư liệu sản xuất thu được.
+3. Các phương pháp sản xuất giá trị thặng dư
+Để thu được nhiều giá trị thặng dư cần có phương pháp nhất 
+định. C. Mác đã chỉ ra nhà tư bản sử dụng hai phương pháp sản 
+xuất giá trị thặng dư là sản xuất giá trị thặng dư tuyệt đối và sản 
+xuất giá trị thặng dư tương đối.
+- Sản xuất giá trị thặng dư tuyệt đối 
+Giá trị thặng dư tuyệt đối là giá trị thặng dư thu được do kéo 
+dài ngày lao động vượt quá thời gian lao động tất yếu, trong khi 
+năng suất lao động, giá trị sức lao động và thời gian lao động tất 
+yếu không thay đổi.
+Ví dụ: Ngày lao động là 8 giờ, thời gian lao động tất yếu là 4 
+giờ, thời gian lao động thặng dư là 4 giờ, tỷ suất giá trị thặng dư là
+100%.
+Giả định nhà tư bản kéo dài ngày lao động thêm 2 giờ nữa với
+mọi điều kiện không đổi thì giá trị thặng dư tuyệt đối tăng từ 4 giờ
+lên 6 giờ và tỷ suất giá trị thặng dư sẽ là:
+m'= 6 giờ
+4 giờx 100%=150%
+Để có nhiều giá trị thặng dư, người mua hàng hóa sức lao
+động phải tìm mọi cách để kéo dài ngày lao động và tăng cường độ
+lao động.
+Tuy nhiên, ngày lao động chịu giới hạn về mặt sinh lý (công 
+nhân phải có thời gian ăn, ngủ, nghỉ ngơi, giải trí) nên không thể 
+kéo dài bằng ngày tự nhiên, còn cường độ lao động cũng không thể 
+tăng vô hạn quá sức chịu đựng của con người.
+Hơn nữa, công nhân kiên quyết đấu tranh đòi rút ngắn ngày
+lao động. Quyền lợi hai bên có mâu thuẫn, thông qua đấu tranh, tuỳ 
+tương quan lực lượng mà tại các dân tộc trong từng giai đoạn lịch
+sử cụ thể có thể quy định độ dài nhất định của ngày lao động. Tuy
+vậy, ngày lao động phải dài hơn thời gian lao động tất yếu và cũng 
+không thể vượt giới hạn về thể chất và tinh thần của người lao
+động.
+- Sản xuất giá trị thặng dư tương đối
+Giá trị thặng dư tương đối là giá trị thặng dư thu được nhờ rút
+ngắn thời gian lao động tất yếu; do đó kéo dài thời gian lao động
+thặng dư trong khi độ dài ngày lao động không thay đổi hoặc thậm chí 
+rút ngắn.
+Ví dụ: Ngày lao động 8 giờ, với 4 giờ lao động tất yếu, 4 giờ
+lao động thặng dư, tỷ suất giá trị thặng dư là 100%. Nếu giá trị sức
+lao động giảm khiến thời gian lao động tất yếu rút xuống còn 2 giờ
+thì thời gian lao động thặng dư sẽ là 6 giờ. Khi đó:
+m'= 6 giờ
+2 giờx 100%=300%
+Nếu ngày lao động giảm xuống còn 6 giờ nhưng giá trị sức lao 
+động giảm khiến thời gian lao động tất yếu rút xuống còn 1 giờ thì 
+thời gian lao động thặng dư sẽ là 5 giờ. Khi đó:
+m'= 5 giờ
+1 giờx 100%=500%
+Để hạ thấp giá trị sức lao động thì phải giảm giá trị các tư liệu 
+sinh hoạt và dịch vụ cần thiết để tái sản xuất sức lao động, do đó 
+phải tăng năng suất lao động trong các ngành sản xuất ra tư liệu 
+sinh hoạt và các ngành sản xuất ra tư liệu sản xuất để chế tạo ra tư 
+liệu sinh hoạt đó.
+Trong thực tế, việc cải tiến kỹ thuật, tăng năng suất lao
+động diễn ra trước hết ở một hoặc vài xí nghiệp riêng biệt, làm
+cho hàng hoá do các xí nghiệp ấy sản xuất ra có giá trị cá biệt
+thấp hơn giá trị xã hội, do đó, sẽ thu được một số giá trị thặng
+dư trội hơn so với các xí nghiệp khác. Phần giá trị thặng dư trội 
+hơn đó là giá trị thặng dư siêu ngạch.
+Xét trong từng trường hợp đơn vị sản xuất cá biệt, giá trị
+thặng dư siêu ngạch là một hiện tượng tạm thời, xuất hiện rồi
+mất đi, nhưng xét toàn bộ xã hội tư bản thì giá trị thặng dư siêu
+ngạch lại là hiện tượng tồn tại thường xuyên.
+Giá trị thặng dư siêu ngạch là động lực mạnh nhất thúc đẩy
+các nhà tư bản ra sức cải tiến kỹ thuật, tăng năng suất lao động. 
+Hoạt động riêng lẻ đó của từng nhà tư bản đã dẫn đến kết quả làm
+tăng năng suất lao động xã hội, hình thành giá trị thặng dư tương
+đối, thúc đẩy lực lượng sản xuất phát triển. Vì vậy, giá trị thặng 
+dư siêu ngạch là hình thái biến tướng của giá trị thặng dư tương
+đối.
+Trong thực tiễn lịch sử phát triển kinh tế thị trường trên thế
+giới, giai cấp tư sản đã thực hiện những cuộc cách mạng lớn về sản 
+xuất để không ngừng nâng cao năng suất lao động. Đó là cách
+mạng về tổ chức, quản lý lao động thông qua thực hiện hiệp tác
+giản đơn, cách mạng về sức lao động thông qua thực hiện hiệp tác
+có phân công và cách mạng về tư liệu lao động thông qua sự hình 
+thành và phát triển của nền đại công nghiệp.
+Sự hình thành và phát triển của nền đại công nghiệp thông qua
+cách mạng công nghiệp đã mở ra những điều kiện mới cho phát
+triển khoa học và công nghệ, thúc đẩy sản xuất nói chung và sản
+xuất giá trị thặng dư nói riêng phát triển nhanh.
+Cùng với toàn cầu hóa kinh tế, khoa học và công nghệ ngày
+càng trở thành nhân tố quan trọng của sản xuất giá trị thặng dư
+trong nền kinh tế thị trường trên thế giới hiện nay.
+II- TÍCH LŨY TƯ BẢN
+Sau khi nghiên cứu bản chất của việc tạo giá trị thặng dư, nội
+dung tiếp theo sẽ nghiên cứu cách thức nhà tư bản sử dụng giá trị
+thặng dư. Để hiểu được nội dung này, cần nghiên cứu nội dung về
+tích lũy tư bản. Việc nghiên cứu tích lũy tư bản sẽ giúp vận dụng
+để rút ra kinh nghiệm cho việc phát triển doanh nghiệp nói chung.
+1. Bản chất của tích lũy tư bản
+Để chỉ ra bản chất của tích lũy tư bản, cần nghiên cứu về tái
+sản xuất.
+Trong nền kinh tế thị trường tư bản chủ nghĩa, quá trình sản
+xuất liên tục được lặp đi lặp lại không ngừng, quá trình đó được
+gọi là tái sản xuất. Tái sản xuất có hai hình thức chủ yếu là tái sản
+xuất giản đơn và tái sản xuất mở rộng.
+Tái sản xuất giản đơn là sự lặp lại quá trình sản xuất với quy
+mô như cũ. Trong trường hợp này, ứng với nền sản xuất tư bản chủ
+nghĩa, toàn bộ giá trị thặng dư đã được nhà tư bản tiêu dùng cho cá
+nhân.
+Tuy nhiên, tư bản không những được bảo tồn mà còn phải
+không ngừng lớn lên. Để thực hiện tái sản xuất mở rộng, nhà tư
+bản phải biến một bộ phận giá trị thặng dư thành tư bản phụ thêm. 
+Sự chuyển hóa một phần giá trị thặng dư thành tư bản gọi là tích
+lũy tư bản.
+Bản chất của tích lũy tư bản là quá trình tái sản xuất mở rộng
+tư bản chủ nghĩa thông qua việc chuyển hóa giá trị thặng dư thành
+tư bản phụ thêm để tiếp tục mở rộng sản xuất kinh doanh thông
+qua mua thêm hàng hóa sức lao động, mở mang nhà xưởng, mua
+thêm nguyên - vật liệu, trang bị thêm máy móc, thiết bị... Nghĩa là, 
+nhà tư bản không sử dụng hết giá trị thặng dư thu được cho tiêu
+dùng cá nhân mà biến nó thành tư bản phụ thêm. Do đó khi thị 
+trường thuận lợi, nhà tư bản bán được hàng hóa, giá trị thặng dư sẽ
+ngày càng nhiều, nhà tư bản trở nên giàu có hơn.
+Thực chất, nguồn gốc duy nhất của tích lũy tư bản là giá trị
+thặng dư. Nhờ có tích lũy tư bản, quan hệ sản xuất tư bản chủ nghĩa
+không những trở thành thống trị, mà còn không ngừng mở rộng sự
+thống trị đó.
+2. Những nhân tố ảnh hưởng tới quy mô tích lũy
+Với khối lượng giá trị thặng dư nhất định, quy mô tích lũy tư
+bản phụ thuộc vào tỷ lệ phân chia giữa tích lũy và tiêu dùng. Nếu
+tỷ lệ giữa tích lũy và tiêu dùng đã được xác định thì quy mô tích 
+lũy tư bản phụ thuộc vào khối lượng giá trị thặng dư. Các nhân tố
+chủ yếu ảnh hưởng tới quy mô tích lũy gồm:
+Thứ nhất, trình độ khai thác sức lao động.
+Tỷ suất giá trị thặng dư tăng sẽ tạo tiền đề để tăng quy mô giá
+trị thặng dư. Từ đó tạo điều kiện để tăng quy mô tích lũy. Để nâng
+cao tỷ suất giá trị thặng dư, ngoài sử dụng các phương pháp sản
+xuất giá trị thặng dư tuyệt đối và sản xuất giá trị thặng dư tương
+đối, nhà tư bản còn có thể sử dụng các biện pháp cắt giảm tiền
+công, tăng ca, tăng cường độ lao động.
+Thứ hai, năng suất lao động xã hội.
+Năng suất lao động tăng làm cho giá trị tư liệu sinh hoạt giảm
+xuống, giá trị sức lao động giảm giúp cho nhà tư bản thu được
+nhiều giá trị thặng dư hơn, góp phần tăng quy mô tích lũy.
+Thứ ba, sử dụng hiệu quả máy móc.
+C. Mác gọi việc này là chênh lệch giữa tư bản sử dụng và tư
+bản tiêu dùng. Theo C. Mác, máy móc được sử dụng toàn bộ tính
+năng của nó, song giá trị chỉ được tính dần vào giá trị sản phẩm
+qua khấu hao. Sau mỗi chu kỳ như thế, máy móc vẫn hoạt động
+toàn bộ nhưng giá trị của bản thân nó đã giảm dần do tính giá khấu
+hao để chuyển vào giá trị sản phẩm. Hệ quả là, mặc dù giá trị đã bị
+khấu hao, song tính năng hay giá trị sử dụng thì vẫn nguyên như
+cũ, như lực lượng phục vụ không công trong sản xuất. Sự phục vụ
+không công ấy được lao động sống nắm lấy và làm cho chúng hoạt
+động. Chúng được tích lũy lại cùng với tăng quy mô tích luỹ tư
+bản. Đồng thời, sự lớn lên không ngừng của quỹ khấu hao trong
+khi chưa cần thiết phải đổi mới tư bản cố định cũng trở thành
+nguồn tài chính có thể sử dụng cho mở rộng sản xuất.
+Thứ tư, đại lượng tư bản ứng trước.  
+Thị trường thuận lợi, hàng hóa luôn bán được, tư bản ứng 
+trước càng lớn sẽ là tiền đề cho tăng quy mô tích luỹ.
+3. Một số hệ quả của tích lũy tư bản
+Theo C. Mác, quá trình tích lũy trong nền kinh tế thị trường tư 
+bản dẫn tới các hệ quả kinh tế mang tính quy luật như sau:
+Thứ nhất, tích lũy tư bản làm tăng cấu tạo hữu cơ của tư bản. 
+Cấu tạo hữu cơ của tư bản là cấu tạo giá trị được quyết định
+bởi cấu tạo kỹ thuật và phản ánh sự biến đổi của cấu tạo kỹ thuật 
+của tư bản (ký hiệu là c/v).
+C. Mác cho rằng, nền sản xuất có thể được quan sát qua hình
+thái hiện vật cũng có thể quan sát qua hình thái giá trị.
+Nếu quan sát qua hình thái hiện vật thì mối quan hệ tỷ lệ giữa 
+số lượng tư liệu sản xuất và số lượng sức lao động được coi là cấu
+tạo kỹ thuật.
+Cấu tạo kỹ thuật này, nếu quan sát qua hình thái giá trị phản
+ánh ở mối quan hệ tỷ lệ giữa tư bản bất biến với tư bản khả biến. 
+Tỷ lệ giá trị này được gọi là cấu tạo hữu cơ. Cấu tạo hữu cơ luôn
+có xu hướng tăng do cấu tạo kỹ thuật cũng vận động theo xu hướng
+tăng lên về lượng.
+Vì vậy, quá trình tích lũy tư bản không ngừng làm tăng cấu tạo
+hữu cơ của tư bản.
+Thứ hai, tích luỹ tư bản làm tăng tích tụ và tập trung tư bản.
+Trong quá trình tái sản xuất tư bản chủ nghĩa, quy mô của tư
+bản cá biệt tăng lên thông qua quá trình tích tụ và tập trung tư bản.
+Tích tụ tư bản là sự tăng thêm quy mô của tư bản cá biệt bằng
+cách tư bản hóa giá trị thặng dư. Tích tụ tư bản làm tăng quy mô tư
+bản cá biệt đồng thời làm tăng quy mô tư bản xã hội do giá trị
+thặng dư được biến thành tư bản phụ thêm. Tích tụ tư bản là kết
+quả trực tiếp của tích luỹ tư bản.
+Tập trung tư bản là sự tăng lên của quy mô tư bản cá biệt mà
+không làm tăng quy mô tư bản xã hội do hợp nhất các tư bản cá
+biệt vào một chỉnh thể tạo thành một tư bản cá biệt lớn hơn. Tập
+trung tư bản có thể được thực hiện thông qua sáp nhập các tư bản
+cá biệt với nhau.
+Tích tụ và tập trung tư bản đều góp phần tạo tiền đề để có thể
+thu được nhiều giá trị thặng dư hơn cho người mua hàng hóa sức
+lao động.
+Thứ ba, quá trình tích lũy tư bản không ngừng làm tăng
+chênh lệch giữa thu nhập của nhà tư bản với thu nhập của
+người lao động làm thuê cả tuyệt đối lẫn tương đối.
+Thực tế, xét chung trong toàn bộ nền kinh tế tư bản chủ nghĩa, 
+thu nhập mà các nhà tư bản có được lớn hơn rất nhiều lần so với 
+thu nhập dưới dạng tiền công của người lao động làm thuê. C. Mác 
+đã quan sát thấy thực tế này và gọi đó là sự bần cùng hóa người lao 
+động. Cùng với sự gia tăng quy mô sản xuất và cấu tạo hữu cơ của 
+tư bản, tư bản khả biến có xu hướng giảm tương đối so với tư bản 
+bất biến, dẫn tới nguy cơ thừa nhân khẩu. Do đó, quá trình tích lũy 
+tư bản có tính hai mặt, một mặt thể hiện tích lũy sự giàu sang về 
+phía giai cấp tư sản; mặt khác tích lũy sự bần cùng về phía giai cấp 
+công nhân làm thuê.
+Bần cùng hoá giai cấp công nhân làm thuê biểu hiện dưới hai 
+hình thái là bần cùng hoá tương đối và bần cùng hoá tuyệt đối. Bần 
+cùng hoá tương đối là cùng với đà tăng trưởng lực lượng sản xuất, 
+phần sản phẩm phân phối cho giai cấp công nhân làm thuê tuy có 
+tăng tuyệt đối, nhưng lại giảm tương đối so với phần dành cho giai 
+cấp tư sản. Bần cùng hoá tuyệt đối thể hiện sự sụt giảm tuyệt đối 
+về mức sống của giai cấp công nhân làm thuê. Bần cùng hóa tuyệt 
+đối thường xuất hiện đối với bộ phận giai cấp công nhân làm thuê 
+đang thất nghiệp và đối với toàn bộ giai cấp công nhân làm thuê 
+trong các điều kiện kinh tế khó khăn, đặc biệt trong khủng hoảng 
+kinh tế.
+III- CÁC HÌNH THỨC BIỂU HIỆN
+CỦA GIÁ TRỊ THẶNG DƯ  
+TRONG NỀN KINH TẾ THỊ TRƯỜNG
+Nghiên cứu về hình thức biểu hiện của giá trị thặng dư thực
+chất là phân tích về các quan hệ lợi ích giữa những nhà tư bản với
+nhau, giữa nhà tư bản với địa chủ trong việc phân chia giá trị thặng
+dư thu được trên cơ sở hao phí sức lao động của người lao động
+làm thuê.
+1. Lợi nhuận
+Để làm rõ bản chất của lợi nhuận, C. Mác bắt đầu phân tích
+làm rõ chi phí sản xuất.
+a) Chi phí sản xuất 
+Mục đích của nhà tư bản là thu hồi được giá trị tư bản đã ứng
+ra từ giá trị hàng hóa đã bán được. Khái niệm chi phí sản xuất xuất
+hiện trong mối quan hệ đó.
+Ví dụ:
+Để sản xuất ra hàng hóa nhà tư bản phải đầu tư khối lượng
+tổng tư bản có giá trị là 1.000.000 USD, trong đó:
+- Mua máy móc: 500.000 USD. Máy móc này được sử dụng
+trong 10 chu kỳ sản xuất (giả định là 10 năm), nghĩa là mỗi năm sẽ
+khấu hao 50.000 USD, phần này sẽ được chuyển vào giá trị hàng
+hóa của 1 năm.
+- Nguyên,  nhiên, vật liệu: 400.000 USD/năm
+- Tư bản khả biến: 100.000 USD/năm;
+- Tỷ suất giá trị thặng dư: 100% 
+Trong trường hợp như vậy, giá trị hàng hóa được tạo ra trong
+một năm là:
+400.000 USD + 50.000 USD + 100.000 USD + 100.000
+USD = 650.000 USD
+Nếu trong giá trị 650.000 USD trừ đi 100.000 USD là giá trị
+thặng dư thì chỉ còn lại 550.000 USD. Phần này được gọi là chi phí
+sản xuất.
+Khái niệm chi phí sản xuất:
+Chi phí sản xuất tư bản chủ nghĩa là phần giá trị của hàng
+hóa, bù lại giá cả của những tư liệu sản xuất đã tiêu dùng và giá
+cả của sức lao động đã được sử dụng để sản xuất ra hàng hóa ấy.
+Đó là chi phí mà nhà tư bản đã bỏ ra để sản xuất ra hàng hóa.
+Chi phí sản xuất được ký hiệu là k.
+Về mặt lượng: k = c + v.
+Khi xuất hiện phạm trù chi phí sản xuất thì giá trị hàng hóa G
+= c + (v+m) sẽ biểu hiện thành: G = k + m.
+Chi phí sản xuất có vai trò quan trọng: bù đắp tư bản về giá trị và
+hiện vật, đảm bảo điều kiện cho tái sản xuất trong kinh tế thị trường;
+tạo cơ sở cho cạnh tranh, là căn cứ quan trọng cho cạnh tranh về giá
+bán hàng giữa các nhà tư bản.
+b) Bản chất lợi nhuận
+Trong thực tế sản xuất kinh doanh, giữa giá trị hàng hóa và chi
+phí sản xuất có một khoản chênh lệch. Do đó sau khi bán hàng hóa
+(bán ngang giá), nhà tư bản không những bù đắp đủ số chi phí đã
+ứng ra mà còn thu được số chênh lệch bằng giá trị thặng dư. Số
+chênh lệch này C. Mác gọi là lợi nhuận (ký hiệu là p).
+Khi đó giá trị hàng hóa được viết là: G = k + p
+Từ đó p = G - k.
+Từ cách tính toán trên thực tế như vậy, người ta chỉ quan tâm
+tới khoản chênh lệch giữa giá trị hàng hóa bán được với chi phí
+phải bỏ ra mà không quan tâm đến nguồn gốc sâu xa của khoản 
+chênh lệch đó chính là giá trị thặng dư chuyển hóa thành. Thậm
+chí, với nhà tư bản, lợi nhuận còn được quan niệm là do tư bản ứng 
+trước sinh ra.
+C. Mác khái quát: “Giá trị thặng dư, được quan niệm là con đẻ 
+của toàn bộ tư bản ứng trước, mang hình thái chuyển hóa là lợi 
+nhuận”1.
+Điều đó có nghĩa, lợi nhuận chẳng qua chỉ là hình thái biểu
+hiện của giá trị thặng dư trên bề mặt nền kinh tế thị trường.
+Nhà tư bản cá biệt chỉ cần bán hàng hóa với giá cả cao hơn chi
+phí sản xuất là đã có lợi nhuận. Trong trường hợp bán đúng bằng
+_______________
+1. C. Mác và Ph. Ăngghen: Toàn tập, Sđd, t.25, ph.I, tr.65.
+chi phí sản xuất là không có lợi nhuận. Bán hàng hóa thấp hơn giá
+trị và cao hơn chi phí sản xuất cũng có thể đã có lợi nhuận. Trong
+trường hợp này, lợi nhuận nhỏ hơn giá trị thặng dư. Lợi nhuận
+chính là mục tiêu, động cơ, động lực của hoạt động sản xuất, kinh
+doanh trong nền kinh tế thị trường.
+Tuy nhiên, lợi nhuận khi được đo bằng số tuyệt đối chỉ phản 
+ánh quy mô của hiệu quả kinh doanh mà chưa phản ánh rõ mức độ
+hiệu quả của kinh doanh, do đó cần được bổ sung bằng số đo tương
+đối là tỷ suất lợi nhuận.
+c) Tỷ suất lợi nhuận và các nhân tố ảnh hưởng tới tỷ suất lợi
+nhuận
+* Tỷ suất lợi nhuận
+Tỷ suất lợi nhuận là tỷ lệ phần trăm giữa lợi nhuận và toàn bộ 
+giá trị của tư bản ứng trước (ký hiệu là p’).
+Tỷ suất lợi nhuận được tính theo công thức:
+p'= p
+c+v x 100%
+Tỷ suất lợi nhuận phản ánh mức doanh lợi đầu tư tư bản.
+Tỷ suất lợi nhuận thường được tính hằng năm, từ đây hình
+Hộp 3.1. Quan niệm của P. Samuelson về lợi nhuận
+Lợi nhuận là phần thu nhập thặng dư tính bằng hiệu quả giữa 
+giá trị tổng doanh thu trừ đi tổng chi phí.
+Lợi nhuận là phần thưởng cho việc gánh chịu rủi ro và cho 
+sự đổi mới.
+Nguồn: P. Samuelson: Kinh tế học, Sđd, t.1, tr. 515, 533.
+thành khái niệm tỷ suất lợi nhuận hằng năm. Mặc dù lợi nhuận có
+vai trò quan trọng đối với kinh doanh tư bản chủ nghĩa, vì sự hiện
+diện của nó thể hiện hiệu quả kinh tế, tuy nhiên so với lợi nhuận thì
+tỷ suất lợi nhuận phản ánh đầy đủ hơn mức độ hiệu quả kinh
+doanh. Chính vì vậy, tỷ suất lợi nhuận với tư cách là số đo tương
+đối của lợi nhuận, đã trở thành động cơ quan trọng nhất của hoạt
+động cạnh tranh tư bản chủ nghĩa.
+Như vậy, lợi nhuận, tỷ suất lợi nhuận là những phạm trù thể
+hiện lợi ích kinh tế của nhà tư bản trong nền kinh tế thị trường tư
+bản chủ nghĩa, từ đó các nhà tư bản muốn làm giàu và làm giàu
+nhanh cần phải tìm ra cách thức để có được tỷ suất lợi nhuận cao
+nhất.
+* Các nhân tố ảnh hưởng tới tỷ suất lợi nhuận
+Từ công thức tính tỷ suất lợi nhuận có thể thấy, những nhân tố
+nào ảnh hưởng tới giá trị của tử số hoặc mẫu số, hoặc cả tử số cả
+mẫu số của phân thức cũng sẽ ảnh hưởng tới tỷ suất lợi nhuận. C.
+Mác nêu ra các nhân tố sau:
+Thứ nhất, tỷ suất giá trị thặng dư. Sự gia tăng của tỷ suất giá
+trị thặng dư sẽ có tác động trực tiếp làm tăng tỷ suất lợi nhuận.
+Thứ hai, cấu tạo hữu cơ của tư bản (c/v). Cấu tạo hữu cơ của
+tư bản tác động tới chi phí sản xuất, do đó tác động tới lợi nhuận và
+tỷ suất lợi nhuận.
+Thứ ba, tốc độ chu chuyển của tư bản. Nếu tốc độ chu chuyển
+của tư bản càng lớn thì tỷ lệ giá trị thặng dư hằng năm tăng lên, do 
+đó, tỷ suất lợi nhuận tăng.
+Thứ tư, tiết kiệm tư bản bất biến. Trong điều kiện tư bản khả
+biến không đổi, nếu giá trị thặng dư giữ nguyên, tiết kiệm tư bản
+bất biến làm tăng tỷ suất lợi nhuận.
+d) Lợi nhuận bình quân
+Cạnh tranh giữa các ngành là cơ chế cho sự hình thành lợi 
+nhuận bình quân. Ở các ngành sản xuất kinh doanh khác nhau, do
+có những điều kiện tự nhiên, kinh tế, kỹ thuật và tổ chức quản lý
+khác nhau, nên tỷ suất lợi nhuận giữa các ngành cũng khác nhau.
+Giả sử có ba ngành sản xuất (cơ khí, dệt và da), vốn của các 
+ngành đều bằng nhau (bằng 100 đơn vị tiền tệ), tỷ suất giá trị thặng
+dư đều bằng nhau (bằng 100%), tốc độ chu chuyển của vốn ở các
+ngành đều bằng nhau.
+Do đặc điểm của mỗi ngành sản xuất khác nhau, nên cấu tạo
+hữu cơ của vốn (tư bản) ở từng ngành khác nhau, tỷ suất lợi nhuận
+ở các ngành khác nhau (xem bảng).
+Ngành
+sản xuất
+Chi phí
+sản xuất
+Tỷ suất
+giá trị
+thặng dư
+(m' (%))
+Giá trị
+thặng
+dư (m)
+Tỷ suất
+lợi
+nhuận
+(P' (%))
+Tỷ suất
+lợi nhuận,
+bình quân
+(p̅ (%))
+Lợi
+nhuận
+bình
+quân
+(p̅)
+Giá
+cả
+sản
+xuất
+Cơ khí 80 c + 20 v 
+100 
+20 
+20 
+30 
+30 
+130
+Dệt 
+70 c + 30 v 
+100 
+30 
+30 
+30 
+30 
+130
+Da 
+60 c + 40 v 
+100 
+40 
+40 
+30 
+30 
+130
+Ở đây, tỷ suất lợi nhuận ở ngành da là cao nhất, nên các doanh
+nghiệp ở ngành cơ khí (thậm chí cả ở ngành dệt) sẽ di chuyển vốn
+của mình sang đầu tư vào ngành da.
+Đến một thời điểm nhất định, sản phẩm của ngành da sẽ tăng
+lên (cung lớn hơn cầu), làm cho giá cả hàng hoá ở ngành da sẽ hạ
+xuống thấp hơn giá trị của nó và tỷ suất lợi nhuận ở ngành da giảm
+xuống.
+Ngược lại, sản phẩm của ngành cơ khí sẽ giảm đi (cung nhỏ
+hơn cầu), nên giá cả sẽ cao hơn giá trị và do đó tỷ suất lợi nhuận ở
+ngành cơ khí sẽ tăng lên.
+Nếu tỷ suất lợi nhuận ở ngành cơ khí cao hơn ngành da thì các
+doanh nghiệp lại chuyển vốn đầu tư vào ngành cơ khí. Đây gọi là
+hiện tượng tự do di chuyển vốn sản xuất kinh doanh. Sự tự do di
+chuyển vốn vào các ngành chỉ tạm dừng lại khi tỷ suất lợi nhuận ở
+tất cả các ngành đều xấp xỉ bằng nhau, tức là hình thành tỷ suất lợi
+nhuận bình quân (p'̅) .
+Về cách tính, lợi nhuận bình quân (p̅) được tính theo tỷ suất
+lợi nhuận bình quân (là con số trung bình của các tỷ suất lợi
+nhuận).
+Tỷ suất lợi nhuận bình quân được tính bằng số bình quân gia
+quyền của các tỷ suất lợi nhuận như sau:
+100%
+  x 
+ v)
+(c
+p
+p'
+
+
+
+
+Trong nền kinh tế thị trường cạnh tranh giữa các ngành tất yếu 
+dẫn tới hình thành lợi nhuận bình quân.
+Lợi nhuận bình quân là số lợi nhuận bằng nhau của những tư 
+bản như nhau đầu tư vào các ngành khác nhau.
+Nếu ký hiệu giá trị tư bản ứng trước là K thì lợi nhuận bình
+quân được tính như sau:
+p̅ = p̅ x K
+Khi lợi nhuận chuyển hóa thành lợi nhuận bình quân thì giá trị
+của hàng hóa chuyển hóa thành giá cả sản xuất. Giá cả sản xuất
+được tính như sau: GCSX = k + p̅
+Những điều kiện hình thành tỷ suất lợi nhuận bình quân, lợi
+nhuận bình quân, giá cả sản xuất bao gồm: tư bản tự do di chuyển
+và sức lao động tự do di chuyển. Trong nền kinh tế thị trường tư
+bản chủ nghĩa, lợi nhuận bình quân đã trở thành căn cứ cho các 
+doanh nghiệp lựa chọn ngành, nghề, phương án kinh doanh sao cho
+có hiệu quả nhất.
+đ) Lợi nhuận thương nghiệp
+Trong nền kinh tế thị trường tư bản chủ nghĩa, do sự phân
+công lao động xã hội, xuất hiện bộ phận chuyên môn hóa việc lưu
+thông hàng hóa. Bộ phận này gọi là tư bản thương nghiệp.
+Lợi nhuận thương nghiệp là số chênh lệch giữa giá bán và 
+giá mua hàng hóa. Nguồn gốc của lợi nhuận thương nghiệp
+chính là một phần của giá trị thặng dư mà nhà tư bản sản xuất 
+trả cho nhà tư bản thương nghiệp do nhà tư bản thương nghiệp
+đã giúp cho việc tiêu thụ hàng hóa.
+Cách thức thực hiện là nhà tư bản sản xuất bán hàng hóa cho
+nhà tư bản thương nghiệp với giá cả cao hơn chi phí sản xuất để
+đến lượt nhà tư bản thương nghiệp bán hàng hóa đúng giá trị của 
+hàng hóa.
+Khi đó lợi nhuận thương nghiệp là phần chênh lệch giữa giá
+mua và giá bán, song giá bán không nhất thiết phải cao hơn giá trị. 
+Vẻ bề ngoài này làm cho người ta nhầm tưởng việc mua bán đã tạo
+ra lợi nhuận cho nhà tư bản thương nghiệp. Trái lại, lợi nhuận
+thương nghiệp thực chất là một phần của giá trị thặng dư.
+2. Lợi tức
+Trong nền kinh tế thị trường, luôn xuất hiện hiện tượng có 
+chủ thể thì có lượng tiền nhàn rỗi, trong khi lại có những chủ thể
+khác lại cần tiền để mở rộng sản xuất kinh doanh. Tình hình đó
+thúc đẩy hình thành quan hệ cho vay và đi vay. Người cho vay sẽ 
+thu được lợi tức. Người đi vay phải trả lợi tức cho người cho vay.
+Vậy lợi tức đó từ đâu?
+Người đi vay thu được lợi nhuận bình quân, do phải đi vay
+tiền của người khác cho nên người đi vay phải khấu trừ một phần
+của lợi nhuận bình quân thu được để trả cho người cho vay.
+Vậy, lợi tức là một phần của lợi nhuận bình quân mà người đi
+vay (tư bản đi vay) phải trả cho người cho vay (tư bản cho vay) vì
+đã sử dụng lượng tiền nhàn rỗi của người cho vay. Đây là quan hệ
+kinh tế phản ánh quan hệ lợi ích giữa người đi vay với người cho
+vay. Song về thực chất, lợi tức đó là một phần của giá trị thặng dư
+mà người đi vay đã thu được thông qua sử dụng tiền vay đó.
+Tư bản cho vay trong chủ nghĩa tư bản có đặc điểm:
+Thứ nhất, quyền sử dụng tách khỏi quyền sở hữu.
+Chủ thể sở hữu tư bản không phải là chủ thể sử dụng, chủ thể
+sử dụng tư bản chỉ được sử dụng trong một thời hạn nhất định và
+không có quyền sở hữu.
+Thứ hai, tư bản cho vay là hàng hóa đặc biệt.
+Người bán không mất quyền sở hữu, người mua chỉ được
+quyền sử dụng trong một thời gian. Sau khi sử dụng, tư bản cho
+vay không mất giá trị sử dụng và giá trị mà được bảo tồn, thậm chí
+còn tăng thêm.
+Giá cả của tư bản cho vay được quyết định bởi giá trị sử dụng
+của nó là khả năng thu được lợi nhuận bình quân, do đó không
+những không được quyết định bởi giá trị, mà còn thấp hơn nhiều so
+với giá trị.
+Thứ ba, tư bản cho vay là hình thái tư bản phiến diện nhất,
+song cũng được sùng bái nhất.
+Tư bản cho vay vận động theo công thức T - T’, tạo ra ảo 
+tưởng là tiền đẻ ra tiền không phản ánh rõ nguồn gốc của lợi tức
+cho vay.
+Tỷ suất lợi tức là tỷ lệ phần trăm giữa lợi tức và tư bản cho 
+vay. Nếu ký hiệu tỷ suất lợi tức là z’, tư bản cho vay là TBCV, thì
+công thức tính tỷ suất lợi tức như sau:
+100%
+  x 
+TBCV
+z'
+z
+
+Tỷ suất lợi tức chịu ảnh hưởng của các nhân tố chủ yếu là tỷ
+suất lợi nhuận bình quân và tình hình cung cầu về tư bản cho vay.
+Trong điều kiện quan hệ tín dụng ngày càng phát triển, các mô 
+hình sản xuất kinh doanh ngày càng được đổi mới không ngừng, nền
+kinh tế thị trường thúc đẩy hình thành các công ty cổ phần. Các công
+ty này phát hành các loại cổ phiếu, trái phiếu. Các loại cổ phiếu, trái
+phiếu này được C. Mác gọi là tư bản giả do nó được giao dịch tách
+biệt tương đối với quá trình sản xuất kinh doanh thực. Tư bản giả 
+được mua bán trên thị trường chứng khoán.
+Với sự phát triển của sản xuất, kinh doanh và khoa học - công 
+nghệ, thị trường chứng khoán ngày càng phát triển mạnh mẽ, trở
+thành một loại hình thị trường chuyên biệt phục vụ các quan hệ
+giao dịch mua bán chứng khoán.
+Với sự phát triển của thị trường chứng khoán và các công ty
+chứng khoán, trong những năm gần đây, các công ty chứng khoán
+còn phát hành các chứng quyền, các chứng quyền này cũng được
+mua bán đem lại thu nhập cho người có chứng quyền.
+3. Địa tô tư bản chủ nghĩa
+Tư bản kinh doanh nông nghiệp là bộ phận tư bản xã hội đầu
+tư vào lĩnh vực nông nghiệp.
+Cũng như các nhà tư bản kinh doanh trên các lĩnh vực khác, nhà
+tư bản kinh doanh trên lĩnh vực nông nghiệp cũng thu được lợi
+nhuận bình quân. Khác với các chủ thể kinh doanh khác, nhà tư bản 
+kinh doanh trên lĩnh vực nông nghiệp phải trả một lượng tiền cho địa
+chủ vì đã thuê đất của họ. Để có tiền trả cho địa chủ, ngoài số lợi
+nhuận bình quân thu được tương tự như kinh doanh trên các lĩnh vực
+khác, nhà tư bản kinh doanh trên lĩnh vực nông nghiệp còn thu thêm
+được một phần giá trị thặng dư dôi ra ngoài lợi nhuận bình quân, tức 
+là lợi nhuận siêu ngạch, lợi nhuận siêu ngạch này phải trả cho địa
+chủ dưới dạng địa tô.
+C. Mác khái quát, địa tô là phần giá trị thặng dư còn lại sau khi
+đã khấu trừ đi phần lợi nhuận bình quân mà các nhà tư bản kinh
+doanh trên lĩnh vực nông nghiệp phải trả cho địa chủ (ký hiệu là 
+R).
+Theo C. Mác, có các hình thức địa tô như:  
+- Địa tô chênh lệch; Trong đó, địa tô chênh lệch I là địa tô mà
+địa chủ thu được do chỗ cho thuê ruộng đất tốt và độ màu mỡ cao, 
+điều kiện tự nhiên thuận lợi. Địa tô chênh lệch II là địa tô mà địa
+chủ thu được do chỗ cho thuê mảnh đất đã được đầu tư, thâm canh
+và làm tăng độ màu mỡ của đất.
+- Địa tô tuyệt đối là địa tô mà địa chủ thu được trên mảnh đất
+cho thuê, không kể độ màu mỡ tự nhiên thuận lợi hay do thâm
+canh. Đó là phần lợi nhuận siêu ngạch dôi ra ngoài lợi nhuận bình
+quân được tính bằng số chênh lệch giữa giá trị nông sản và giá cả 
+sản xuất chung của nông sản.
+Trong thực tế đời sống kinh tế, địa tô là một trong những căn
+cứ để tính toán giá cả ruộng đất khi thực hiện bán quyền sử dụng
+đất cho người khác.
+Về nguyên lý, giá cả ruộng đất được tính trên cơ sở so sánh
+với tỷ lệ lãi suất ngân hàng, theo công thức:
+Giá cả đất đai =
+Địa tô
+Tỷ suất lợi tức nhận gửi của ngân hàng
+Lý luận địa tô tư bản chủ nghĩa của C. Mác không những chỉ 
+rõ bản chất quan hệ sản xuất tư bản chủ nghĩa trong nông nghiệp 
+mà còn là cơ sở khoa học để xây dựng các chính sách kinh tế liên 
+quan đến thuế, đến điều tiết các loại địa tô, đến giải quyết các quan 
+hệ đất đai... nhằm kết hợp hài hoà các lợi ích, khuyến khích thâm 
+canh, sử dụng đất đai tiết kiệm, phát triển một nền nông nghiệp 
+hàng hoá bền vững.
+TÓM TẮT CHƯƠNG
+Giá trị thặng dư là giá trị mới dôi ra ngoài giá trị của hàng hóa
+sức lao động, do người lao động tạo ra.
+Sức lao động là hàng hóa đặc biệt, là nguồn gốc tạo ra giá trị
+thặng dư. Bản chất kinh tế - xã hội của giá trị thặng dư là quan hệ 
+giữa lao động làm thuê và người mua hàng hóa sức lao động.
+Các phương pháp cơ bản để gia tăng giá trị thặng dư bao gồm 
+phương pháp sản xuất giá trị thặng dư tuyệt đối và phương pháp
+sản xuất giá trị thặng dư tương đối.
+Tư bản duy trì sự tồn tại và phát triển thông qua quá trình tích 
+lũy tư bản. Quy mô tích lũy tư bản chịu ảnh hưởng của các nhân tố 
+như tỷ suất giá trị thặng dư, năng suất lao động, sự chênh lệch giữa 
+tư bản sử dụng và tư bản tiêu dùng, quy mô tư bản ứng trước. Tích 
+lũy tư bản dẫn tới gia tăng cấu tạo hữu cơ của tư bản, thúc đẩy tích 
+tụ và tập trung tư bản, phân hóa thu nhập trong nền kinh tế thị 
+trường tư bản chủ nghĩa.
+Giá trị thặng dư biểu hiện cụ thể thông qua các hình thái: lợi 
+nhuận, lợi tức, địa tô.
+CÁC THUẬT NGỮ CẦN GHI NHỚ
+Giá trị thặng dư, tư bản, tư bản bất biến, tư bản khả biến, tư 
+bản cố định, tư bản lưu động, tích lũy tư bản, cấu tạo hữu cơ của 
+tư bản, tích tụ và tập trung tư bản, chi phí sản xuất, lợi nhuận, lợi 
+nhuận bình quân, tỷ suất lợi nhuận, lợi tức, địa tô tư bản chủ 
+nghĩa.
+VẤN ĐỀ THẢO LUẬN
+Giả định từ vị trí của người mua hàng hóa sức lao động, hãy
+thảo luận trong nhóm và cảm nhận vai trò đồng thời lý giải về vai
+trò của người lao động làm thuê đối với hoạt động của doanh
+nghiệp do mình sở hữu? Nếu có một chủ thể chuyên lo khâu tiêu
+thụ hàng hóa cho đơn vị mình, làm thế nào để chia sẻ lợi ích với 
+họ? Nếu giả định vốn kinh doanh cần phải đi vay, hàng hóa được
+tiêu thụ bởi trung gian thương mại và mặt bằng sản xuất đi thuê,
+vậy doanh nghiệp phải có trách nhiệm gì với những chủ thể này?
+CÂU HỎI ÔN TẬP
+1. Phân tích nguồn gốc và bản chất của giá trị thặng dư? Các
+phương pháp sản xuất giá trị thặng dư? Tỷ suất và khối lượng giá 
+trị thặng dư là gì? Ý nghĩa thực tiễn?
+2. Tích lũy tư bản và các nhân tố ảnh hưởng đến quy mô tích
+lũy? Liên hệ và vận dụng?
+3. Phân tích các hình thức biểu hiện của giá trị thặng dư trong
+nền kinh tế thị trường? Ý nghĩa thực tiễn?
+Chương 3
+GIÁ TRỊ THẶNG DƯ
+TRONG NỀN KINH TẾ THỊ TRƯỜNG 
+75
+I- Lý luận của C. Mác về giá trị thặng dư 
+75
+II- Tích lũy tư bản 
+93
+III- Các hình thức biểu hiện của giá trị thặng dư trong nền
+kinh tế thị trường 
+98

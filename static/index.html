@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trợ lý ảo KTCT Mác - Lênin</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Roboto', sans-serif; max-width: 900px; margin: 0 auto; padding: 40px 20px; background-color: #f4f7f6; }
+        .chat-container { background: white; padding: 40px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.05); }
+        h1 { color: #2c3e50; text-align: center; margin-bottom: 40px; font-weight: 700; }
+        .input-group { display: flex; gap: 15px; position: relative; margin-bottom: 30px; }
+        input { flex-grow: 1; padding: 15px 20px; border: 2px solid #e0e6ed; border-radius: 12px; font-size: 16px; outline: none; transition: 0.3s; }
+        input:focus { border-color: #3498db; }
+        button { padding: 15px 30px; background-color: #3498db; color: white; border: none; border-radius: 12px; cursor: pointer; font-weight: 600; transition: 0.3s; }
+        button:hover { background-color: #2980b9; }
+        button:disabled { background-color: #bdc3c7; cursor: not-allowed; }
+        #response-area { margin-top: 30px; line-height: 1.8; color: #34495e; }
+        .bot-msg { background: #f8f9fa; padding: 25px; border-radius: 15px; border-left: 5px solid #3498db; animation: fadeIn 0.5s ease; }
+        .error { color: #e74c3c; background: #fde8e7; padding: 15px; border-radius: 10px; }
+        .loading { display: none; text-align: center; margin: 20px 0; color: #7f8c8d; font-style: italic; }
+        .bot-msg b { color: #2c3e50; font-weight: 700; }
+        hr { border: 0; border-top: 1px solid #eee; margin: 20px 0; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h1>🎓 Trợ Lý Kinh Tế Chính Trị</h1>
+        <div class="input-group">
+            <input type="text" id="query" placeholder="Hãy hỏi tôi gì đó về môn Kinh tế Chính trị Mác - Lênin" onkeypress="handleEnter(event)">
+            <button onclick="sendQuery()" id="btn-submit">Gửi câu hỏi</button>
+        </div>
+        <div class="loading" id="loading"> Giảng viên AI đang suy nghĩ...</div>
+        <div id="response-area"></div>
+    </div>
+
+    <script>
+        function formatAIResponse(text) {
+            if (!text) return "";
+            return text.replace(/\n/g, '<br>')
+                       .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>')
+                       .replace(/- /g, '• ');
+        }
+
+        async function sendQuery() {
+            const input = document.getElementById('query');
+            const btn = document.getElementById('btn-submit');
+            const loading = document.getElementById('loading');
+            const responseArea = document.getElementById('response-area');
+            const question = input.value.trim();
+
+            if (!question) return;
+
+            loading.style.display = 'block';
+            btn.disabled = true;
+            responseArea.innerHTML = ''; 
+
+            const msgDiv = document.createElement('div');
+            msgDiv.className = 'bot-msg';
+            responseArea.appendChild(msgDiv);
+            
+            let accumulatedText = "";
+
+            try {
+                const res = await fetch('/api/query', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query: question }) 
+                });
+
+                if (!res.ok) throw new Error('Lỗi Server hoặc Kết nối mạng');
+
+                const reader = res.body.getReader();
+                const decoder = new TextDecoder();
+                loading.style.display = 'none';
+
+                while (true) {
+                    const { done, value } = await reader.read();
+                    if (done) break;
+                    accumulatedText += decoder.decode(value, { stream: true });
+                    msgDiv.innerHTML = formatAIResponse(accumulatedText);
+                    window.scrollTo(0, document.body.scrollHeight);
+                }
+
+            } catch (err) {
+                loading.style.display = 'none';
+                responseArea.innerHTML = `<div class="error">Lỗi kết nối: ${err.message}</div>`;
+            } finally {
+                btn.disabled = false;
+            }
+        }
+
+        function handleEnter(e) {
+            if (e.key === 'Enter') sendQuery();
+        }
+    </script>
+</body>
+</html>

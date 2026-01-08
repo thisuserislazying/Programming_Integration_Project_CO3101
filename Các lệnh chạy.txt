@@ -1,0 +1,9 @@
+python -m venv venv
+.\venv\Scripts\activate
+pip install python-dotenv fastapi uvicorn llama-index llama-index-embeddings-google-genai llama-index-llms-google-genai google-genai llama-index-retrievers-bm25 rank_bm25 sentence-transformers
+$env:GEMINI_API_KEY="AIzaSyC-1r3boyI2iXvKCOXfa6QfLzISgKTelF4"
+python extract_text.py
+python split_data.py
+python ingest.py
+uvicorn backend_rag:app --reload
+
